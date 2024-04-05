@@ -1,0 +1,11 @@
+messenger:
+  default_bus: default.bus
+  buses:
+    default.bus: ~
+    eso9.command.bus: ~
+    shoptet.command.bus: ~
+    flexibee.command.bus: ~
+    woocommerce.command.bus: ~
+    sap.command.bus: ~
+    moneys5.command.bus: ~
+    orion.command.bus: ~

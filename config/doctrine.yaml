@@ -1,0 +1,14 @@
+orm:
+  entity_managers:
+    default:
+      mappings:
+        elasticr-service-bus:
+          is_bundle: false
+          type: xml
+          dir: ''
+          prefix: 'Elasticr\ServiceBus'
+
+dbal:
+  types:
+    chronos: Elasticr\Support\Doctrine\Type\ChronosType
+    chronos_microseconds: Elasticr\Support\Doctrine\Type\ChronosMicrosecondsType

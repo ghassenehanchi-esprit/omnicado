@@ -1,0 +1,17 @@
+services:
+    _defaults:
+        autowire: true
+        autoconfigure: true
+        public: true
+        bind:
+          $accessTokenServerUrl: '%env(resolve:SHOPTET_ACCESS_TOKEN_SERVER)%'
+    _instanceof:
+        Elasticr\ServiceBus\Shoptet\CommandBus\Contract\ShoptetCommandHandlerContract:
+          tags:
+              - { name: messenger.message_handler, bus: shoptet.command.bus }
+  
+    Elasticr\ServiceBus\Shoptet\:
+        resource: '../../src/Shoptet'
+        exclude:
+          - '../../src/Shoptet/Api/Filter'
+          - '../../src/Shoptet/{Entity,Model,Exception,ValueObject}'

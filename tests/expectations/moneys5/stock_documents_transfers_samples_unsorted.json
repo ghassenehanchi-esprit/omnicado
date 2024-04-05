@@ -1,0 +1,140 @@
+[
+  {
+    "Odkaz":"",
+    "TypDokladu":2,
+    "Modify_Date":null,
+    "Create_Date":"2023-09-22T09:19:26.6",
+    "CisloDokladu":"VJ231964",
+    "Nazev":"Vzorek",
+    "FakturacniAdresaNazev":"Ingredi Europa s.r.o.",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev":"",
+    "FakturacniAdresaUlice":"Formanská 257",
+    "FakturacniAdresaMisto":"Praha",
+    "FakturacniAdresaPSC":"14900",
+    "AdresaPrijemceFakturyStat":{
+      "KodISO3":"CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail":"",
+    "AdresaKoncovehoPrijemceTelefon":"",
+    "IC":"28544668",
+    "DIC":"CZ28544668",
+    "DodaciAdresaNazev":"Ingredi Europa s.r.o.",
+    "DodaciAdresaUlice":"Tř. 3. května 910",
+    "DodaciAdresaMisto":"Zlín-Malenovice",
+    "DodaciAdresaPSC":"76302",
+    "AdresaKoncovehoPrijemceStat":{
+      "KodISO3":"CZE"
+    },
+    "ZpusobPlatby":{
+      "Nazev":"Bankovním převodem",
+      "Kod":"B"
+    },
+    "ZpusobDopravy":{
+      "Nazev":"Přepravní služba",
+      "Kod":"P"
+    },
+    "SumaCelkemCM":0.0000,
+    "SumaDanCM":0.0000,
+    "Mena":{
+      "Kod":"CZK"
+    },
+    "Poznamka":"",
+    "DodaciAdresaFirma":{
+      "FaktStat":{
+        "KodISO3":"CZE"
+      }
+    },
+    "Polozky":[
+      {
+        "CisloPolozky":1,
+        "Katalog":"BEDB-30-CH-2",
+        "Nazev":"Peak Design Everyday Backpack 30L V2, charcoal",
+        "Mnozstvi":2.0000,
+        "Jednotka":"ks",
+        "JednCenaCM":0.0000,
+        "CelkovaCenaCM":0.0000,
+        "DphCelkemCM":0.0000,
+        "DphSazba":21.0000,
+        "DphDanCM":0.0000,
+        "IPHmotnost":3.5200,
+        "ObsahPolozky":{
+          "Artikl":{
+            "Navod_UserData":""
+          },
+          "Sklad":{
+            "Kod":"01"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz":"",
+    "TypDokladu":2,
+    "Modify_Date": null,
+    "Create_Date":"2023-09-19T08:47:15.74",
+    "CisloDokladu":"VJ231963",
+    "Nazev":"Vzorek",
+    "FakturacniAdresaNazev":"Ingredi Europa s.r.o.",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev":"",
+    "FakturacniAdresaUlice":"Formanská 257",
+    "FakturacniAdresaMisto":"Praha",
+    "FakturacniAdresaPSC":"14900",
+    "AdresaPrijemceFakturyStat":{
+      "KodISO3":"CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail":"",
+    "AdresaKoncovehoPrijemceTelefon":"",
+    "IC":"28544668",
+    "DIC":"CZ28544668",
+    "DodaciAdresaNazev":"Ingredi Europa s.r.o.",
+    "DodaciAdresaUlice":"Tř. 3. května 910",
+    "DodaciAdresaMisto":"Zlín-Malenovice",
+    "DodaciAdresaPSC":"76302",
+    "AdresaKoncovehoPrijemceStat":{
+      "KodISO3":"CZE"
+    },
+    "ZpusobPlatby":{
+      "Nazev":"Bankovním převodem",
+      "Kod":"B"
+    },
+    "ZpusobDopravy":{
+      "Nazev":"Přepravní služba",
+      "Kod":"P"
+    },
+    "SumaCelkemCM":0.0000,
+    "SumaDanCM":0.0000,
+    "Mena":{
+      "Kod":"CZK"
+    },
+    "Poznamka":"",
+    "DodaciAdresaFirma":{
+      "FaktStat":{
+        "KodISO3":"CZE"
+      }
+    },
+    "Polozky":[
+      {
+        "CisloPolozky":1,
+        "Katalog":"BEDB-30-CH-2",
+        "Nazev":"Peak Design Everyday Backpack 30L V2, charcoal",
+        "Mnozstvi":2.0000,
+        "Jednotka":"ks",
+        "JednCenaCM":0.0000,
+        "CelkovaCenaCM":0.0000,
+        "DphCelkemCM":0.0000,
+        "DphSazba":21.0000,
+        "DphDanCM":0.0000,
+        "IPHmotnost":3.5200,
+        "ObsahPolozky":{
+          "Artikl":{
+            "Navod_UserData":""
+          },
+          "Sklad":{
+            "Kod":"01"
+          }
+        }
+      }
+    ]
+  }
+]

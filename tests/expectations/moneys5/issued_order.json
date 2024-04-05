@@ -1,0 +1,145 @@
+
+  {
+    "ID": "5bbae1bc-bdd2-4a7e-8d0f-1113503cc4e1",
+    "Create_Date": "2023-06-27T16:44:03.81",
+    "PocetPolozek": 5,
+    "PriznakVyrizeno": false,
+    "CisloDokladu": "PO230336",
+    "Nazev": "iOttie NL",
+    "IC": "",
+    "DIC": "NL824168732B01",
+    "ICDPH": "",
+    "Mena_ID": "e9daab77-0517-4f36-ac41-9b798182a7ae",
+    "Firma_ID": "738f6320-40e6-425e-b6b4-6807275962fc",
+    "AdresaNazev": "iOttie, Inc.",
+    "AdresaUlice": "470 7th Avenue 6th Floor",
+    "AdresaMisto": "New York",
+    "AdresaPSC": "NY 10018",
+    "AdresaStat_ID": "9cf78977-0e6c-4bad-8db6-63d846160c73",
+    "AdresaStat": {
+      "Kod": "NL",
+      "Nazev": "Nizozemsko"
+    },
+    "DodaciAdresaFirma_ID": "738f6320-40e6-425e-b6b4-6807275962fc",
+    "DodaciAdresaNazev": "iOttie, Inc.",
+    "DodaciAdresaUlice": "470 7th Avenue 6th Floor",
+    "DodaciAdresaMisto": "New York",
+    "DodaciAdresaPSC": "NY 10018",
+    "DodaciAdresaStat": "Nizozemsko",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "AdresaKoncovehoPrijemceEmail": "",
+    "FakturacniAdresaFirma_ID": "738f6320-40e6-425e-b6b4-6807275962fc",
+    "FakturacniAdresaNazev": "iOttie, Inc.",
+    "FakturacniAdresaUlice": "470 7th Avenue 6th Floor",
+    "FakturacniAdresaMisto": "New York",
+    "FakturacniAdresaPSC": "NY 10018",
+    "FakturacniAdresaStat": "Nizozemsko",
+    "Polozky": [
+      {
+        "ID": "d43cf42c-71b8-4948-9b54-0d7367080144",
+        "WMSCDokladu_UserData": "",
+        "PriznakVyrizeno": false,
+        "Katalog": "HLCRIO173",
+        "Nazev": "iOttie Easy One Touch 5 CD Slot Mount",
+        "Mnozstvi": 24.0000,
+        "TypCeny": 0,
+        "Jednotka": "ks",
+        "DphCelkemCM": 300.0000,
+        "JednCenaCM": 12.5000,
+        "DphSazba": 21.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 2.4000,
+        "CisloPolozky": 6,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": "P_520"
+          }
+        }
+      },
+      {
+        "ID": "b65ee678-2d86-4baa-9221-2bfa984ab0c2",
+        "WMSCDokladu_UserData": "",
+        "PriznakVyrizeno": false,
+        "Katalog": "HLCRIO172",
+        "Nazev": "iOttie Easy One Touch 5 Air Vent Mount",
+        "Mnozstvi": 48.0000,
+        "TypCeny": 0,
+        "Jednotka": "ks",
+        "DphCelkemCM": 600.0000,
+        "JednCenaCM": 12.5000,
+        "DphSazba": 21.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 4.8000,
+        "CisloPolozky": 2,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": "P_519"
+          }
+        }
+      },
+      {
+        "ID": "9bbf27cc-a4b5-4ebe-8db4-3ab3d049a1eb",
+        "WMSCDokladu_UserData": "",
+        "PriznakVyrizeno": false,
+        "Katalog": "HLCRIO161",
+        "Nazev": "iOttie AutoSense Wireless Dash Mount",
+        "Mnozstvi": 24.0000,
+        "TypCeny": 0,
+        "Jednotka": "ks",
+        "DphCelkemCM": 708.0000,
+        "JednCenaCM": 29.5000,
+        "DphSazba": 21.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 10.6800,
+        "CisloPolozky": 3,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          }
+        }
+      },
+      {
+        "ID": "3feaad81-308c-4696-8d76-4febd149addd",
+        "WMSCDokladu_UserData": "",
+        "PriznakVyrizeno": false,
+        "Katalog": "HLCRIO157",
+        "Nazev": "iOttie iTap 2 Magnetic Vent Mount",
+        "Mnozstvi": 60.0000,
+        "TypCeny": 0,
+        "Jednotka": "ks",
+        "DphCelkemCM": 690.0000,
+        "JednCenaCM": 11.5000,
+        "DphSazba": 21.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 2.4600,
+        "CisloPolozky": 5,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          }
+        }
+      },
+      {
+        "ID": "123b3c6b-2867-404a-b716-d237ecbdf1c0",
+        "WMSCDokladu_UserData": "",
+        "PriznakVyrizeno": false,
+        "Katalog": "HLCRIO171AM",
+        "Nazev": "iOttie Easy One Touch 5 Dash & Windshield Mount",
+        "Mnozstvi": 200.0000,
+        "TypCeny": 0,
+        "Jednotka": "ks",
+        "DphCelkemCM": 2300.0000,
+        "JednCenaCM": 11.5000,
+        "DphSazba": 21.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 20.0000,
+        "CisloPolozky": 1,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": "P_518"
+          }
+        }
+      }
+    ]
+  }

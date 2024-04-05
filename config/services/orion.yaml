@@ -1,0 +1,16 @@
+services:
+  _defaults:
+    autowire: true
+    autoconfigure: true
+    public: true
+  _instanceof:
+    Elasticr\ServiceBus\Orion\Contract\OrionCommandHandlerContract:
+      tags:
+        - { name: messenger.message_handler, bus: orion.command.bus }
+
+  Elasticr\ServiceBus\Orion\:
+    resource: '../../src/Orion'
+    exclude:
+      - '../../src/Orion/{Constant,Exception,Model,ValueObject,Entity}'
+
+  DeepCopy\DeepCopy: ~

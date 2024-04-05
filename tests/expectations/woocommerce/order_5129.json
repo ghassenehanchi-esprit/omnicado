@@ -1,0 +1,359 @@
+{
+  "id": 5129,
+  "parent_id": 0,
+  "status": "processing",
+  "currency": "CZK",
+  "version": "7.2.1",
+  "prices_include_tax": true,
+  "date_created": "2022-12-20T14:06:48",
+  "date_modified": "2022-12-20T14:07:03",
+  "discount_total": "0.00",
+  "discount_tax": "0.00",
+  "shipping_total": "0.00",
+  "shipping_tax": "0.00",
+  "cart_tax": "181.43",
+  "total": "1045.40",
+  "total_tax": "181.43",
+  "customer_id": 0,
+  "order_key": "wc_order_fCXMKBaa4n8vT",
+  "billing": {
+    "first_name": "Vladimír",
+    "last_name": "Fischer",
+    "company": "Vladimír Fischer",
+    "address_1": "Nerudova 765/10",
+    "address_2": "",
+    "city": "Říčany",
+    "state": "",
+    "postcode": "25101",
+    "country": "CZ",
+    "email": "webovybalicek@gmail.com",
+    "phone": "723933774"
+  },
+  "shipping": {
+    "first_name": "Vladimír",
+    "last_name": "Fischer",
+    "company": "Vladimír Fischer",
+    "address_1": "Nerudova 765/10",
+    "address_2": "",
+    "city": "Říčany",
+    "state": "",
+    "postcode": "25101",
+    "country": "CZ",
+    "phone": ""
+  },
+  "payment_method": "comgate",
+  "payment_method_title": "Comgate platební karta",
+  "transaction_id": "",
+  "customer_ip_address": "88.103.232.2",
+  "customer_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54",
+  "created_via": "checkout",
+  "customer_note": "",
+  "date_completed": null,
+  "date_paid": "2022-12-20T14:07:03",
+  "cart_hash": "9c54e5e9520088008c3ec2bd9cc6702d",
+  "number": "5129",
+  "meta_data": [
+    {
+      "id": 63854,
+      "key": "_billing_ic",
+      "value": "03051820"
+    },
+    {
+      "id": 63855,
+      "key": "_billing_dic",
+      "value": ""
+    },
+    {
+      "id": 63856,
+      "key": "_billing_dic_dph",
+      "value": ""
+    },
+    {
+      "id": 63857,
+      "key": "is_vat_exempt",
+      "value": "no"
+    },
+    {
+      "id": 63858,
+      "key": "_cart_weight",
+      "value": "3.456"
+    },
+    {
+      "id": 63859,
+      "key": "_cart_weight_units",
+      "value": "kg"
+    },
+    {
+      "id": 63860,
+      "key": "_cart_weight_kg",
+      "value": "3.456"
+    },
+    {
+      "id": 63861,
+      "key": "_selected_comgate_paymentchannel",
+      "value": "BANK_CZ_CS_PSD2"
+    },
+    {
+      "id": 63862,
+      "key": "_selected_comgate_bank_paymentchannel",
+      "value": "BANK_ALL"
+    },
+    {
+      "id": 63863,
+      "key": "comgate_order_currency",
+      "value": "CZK"
+    },
+    {
+      "id": 63864,
+      "key": "comgate_order_lang",
+      "value": "cs"
+    },
+    {
+      "id": 63865,
+      "key": "comgate_price",
+      "value": "1045.40"
+    },
+    {
+      "id": 63866,
+      "key": "comgate_refid_before",
+      "value": "5129|5129|5129"
+    },
+    {
+      "id": 63867,
+      "key": "comgate_order_compatibility_id",
+      "value": "5129"
+    },
+    {
+      "id": 63868,
+      "key": "comgate_lang",
+      "value": "cs"
+    },
+    {
+      "id": 63869,
+      "key": "comgate_currency",
+      "value": "CZK"
+    },
+    {
+      "id": 63870,
+      "key": "comgate_transaction_id",
+      "value": "JOKX-LNX0-E4NH"
+    },
+    {
+      "id": 63871,
+      "key": "comgate_is_recurring",
+      "value": "0"
+    },
+    {
+      "id": 63872,
+      "key": "comgate_is_recurring_init_free",
+      "value": "0"
+    },
+    {
+      "id": 63873,
+      "key": "comgate_method",
+      "value": "BANK_CZ_CS_PSD2"
+    },
+    {
+      "id": 63874,
+      "key": "comgate_status",
+      "value": "PAID"
+    },
+    {
+      "id": 63875,
+      "key": "comgate_trans_id",
+      "value": "JOKX-LNX0-E4NH"
+    },
+    {
+      "id": 63876,
+      "key": "_comgate_merchant",
+      "value": "467044"
+    },
+    {
+      "id": 63877,
+      "key": "_comgate_refId",
+      "value": "5129"
+    },
+    {
+      "id": 63881,
+      "key": "_ga_tracked",
+      "value": "1"
+    }
+  ],
+  "line_items": [
+    {
+      "id": 162,
+      "name": "Frosch EKO Senses Sprchový gel Aloe vera 300 ml",
+      "product_id": 1875,
+      "variation_id": 0,
+      "quantity": 3,
+      "tax_class": "",
+      "subtotal": "212.98",
+      "subtotal_tax": "44.72",
+      "total": "212.98",
+      "total_tax": "44.72",
+      "taxes": [
+        {
+          "id": 1,
+          "total": "44.724793",
+          "subtotal": "44.724793"
+        }
+      ],
+      "meta_data": [
+        {
+          "id": 1296,
+          "key": "EAN",
+          "value": "4001499943973",
+          "display_key": "EAN",
+          "display_value": "4001499943973"
+        },
+        {
+          "id": 1328,
+          "key": "_reduced_stock",
+          "value": "3",
+          "display_key": "_reduced_stock",
+          "display_value": "3"
+        }
+      ],
+      "sku": "6768765",
+      "price": 70.991735666666671,
+      "image": {
+        "id": "4757",
+        "src": "https://frosch-eko.cz/wp-content/uploads/2022/07/4001499943973_Frosch-EKO-Senses-Sprchovy-gel-Aloe-Vera-300ml_6768765.png"
+      },
+      "parent_name": null
+    },
+    {
+      "id": 163,
+      "name": "Frosch EKO dárková sada Oase Pomeranč",
+      "product_id": 4271,
+      "variation_id": 0,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "313.97",
+      "subtotal_tax": "65.93",
+      "total": "313.97",
+      "total_tax": "65.93",
+      "taxes": [
+        {
+          "id": 1,
+          "total": "65.933058",
+          "subtotal": "65.933058"
+        }
+      ],
+      "meta_data": [
+        {
+          "id": 1306,
+          "key": "EAN",
+          "value": "8594059391988",
+          "display_key": "EAN",
+          "display_value": "8594059391988"
+        },
+        {
+          "id": 1329,
+          "key": "_reduced_stock",
+          "value": "1",
+          "display_key": "_reduced_stock",
+          "display_value": "1"
+        }
+      ],
+      "sku": "6779290",
+      "price": 313.96694200000002,
+      "image": {
+        "id": "4727",
+        "src": "https://frosch-eko.cz/wp-content/uploads/2022/12/Frosh_darkove-baleni_ORANGE_front_01.png"
+      },
+      "parent_name": null
+    },
+    {
+      "id": 164,
+      "name": "Frosch EKO dárková sada pánská 3v1",
+      "product_id": 4268,
+      "variation_id": 0,
+      "quantity": 2,
+      "tax_class": "",
+      "subtotal": "337.02",
+      "subtotal_tax": "70.78",
+      "total": "337.02",
+      "total_tax": "70.78",
+      "taxes": [
+        {
+          "id": 1,
+          "total": "70.775207",
+          "subtotal": "70.775207"
+        }
+      ],
+      "meta_data": [
+        {
+          "id": 1316,
+          "key": "EAN",
+          "value": "8594059391827",
+          "display_key": "EAN",
+          "display_value": "8594059391827"
+        },
+        {
+          "id": 1330,
+          "key": "_reduced_stock",
+          "value": "2",
+          "display_key": "_reduced_stock",
+          "display_value": "2"
+        }
+      ],
+      "sku": "6775874",
+      "price": 168.51239649999999,
+      "image": {
+        "id": "4721",
+        "src": "https://frosch-eko.cz/wp-content/uploads/2022/12/Frosh_darkove-baleni_MODRA_front_01.png"
+      },
+      "parent_name": null
+    }
+  ],
+  "tax_lines": [
+    {
+      "id": 166,
+      "rate_code": "CZ-DPH-1",
+      "rate_id": 1,
+      "label": "DPH",
+      "compound": false,
+      "tax_total": "181.43",
+      "shipping_tax_total": "0.00",
+      "rate_percent": 21,
+      "meta_data": []
+    }
+  ],
+  "shipping_lines": [
+    {
+      "id": 165,
+      "method_title": "Česká pošta - Balík do ruky do 30 Kg: Zdarma",
+      "method_id": "toret_tcp_doruky",
+      "instance_id": "2",
+      "total": "0.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": []
+    }
+  ],
+  "fee_lines": [],
+  "coupon_lines": [],
+  "refunds": [],
+  "payment_url": "https://frosch-eko.cz/pokladna/zaplatit/5129/?pay_for_order=true&key=wc_order_fCXMKBaa4n8vT",
+  "is_editable": false,
+  "needs_payment": false,
+  "needs_processing": true,
+  "date_created_gmt": "2022-12-20T13:06:48",
+  "date_modified_gmt": "2022-12-20T13:07:03",
+  "date_completed_gmt": null,
+  "date_paid_gmt": "2022-12-20T13:07:03",
+  "currency_symbol": "Kč",
+  "_links": {
+    "self": [
+      {
+        "href": "https://frosch-eko.cz/wp-json/wc/v3/orders/5129"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://frosch-eko.cz/wp-json/wc/v3/orders"
+      }
+    ]
+  }
+}

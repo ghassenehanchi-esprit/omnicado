@@ -1,0 +1,16 @@
+services:
+  _defaults:
+    autowire: true
+    autoconfigure: true
+    public: true
+  _instanceof:
+    Elasticr\ServiceBus\Flexibee\CommandBus\Contract\FlexibeeCommandHandlerContract:
+      tags:
+        - { name: messenger.message_handler, bus: flexibee.command.bus }
+
+
+
+  Elasticr\ServiceBus\Flexibee\:
+    resource: '../../src/Flexibee'
+    exclude:
+      - '../../src/Flexibee/{Api/Filter,Exception,Model,ValueObject}'

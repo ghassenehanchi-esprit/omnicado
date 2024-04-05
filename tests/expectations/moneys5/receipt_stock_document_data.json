@@ -1,0 +1,42 @@
+{
+  "Poznamka": "P\u0159\u00edjemka",
+  "Nazev": "",
+  "FakturacniAdresaNazev": "",
+  "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+  "FakturacniAdresaUlice": "",
+  "FakturacniAdresaMisto": "",
+  "FakturacniAdresaPSC": "",
+  "FakturacniAdresaStat": "",
+  "AdresaKoncovehoPrijemceEmail": "",
+  "AdresaKoncovehoPrijemceTelefon": "",
+  "IC": "",
+  "DIC": "",
+  "DodaciAdresaNazev": "",
+  "DodaciAdresaUlice": "",
+  "DodaciAdresaMisto": "",
+  "DodaciAdresaPSC": "",
+  "DodaciAdresaStat": "",
+  "TypDokladu": 1,
+  "Polozky": [
+    {
+      "Nazev": "Nazev produktu 1",
+      "TypObsahu": 1,
+      "Katalog": "sku-1",
+      "Mnozstvi": 1.0,
+      "ObsahPolozky": {
+        "Artikl_ID": "stock-item-1",
+        "Sklad_ID": "stockroom-id"
+      }
+    },
+    {
+      "Nazev": "Nazev produktu 2",
+      "TypObsahu": 1,
+      "Katalog": "sku-2",
+      "Mnozstvi": 2.0,
+      "ObsahPolozky": {
+        "Artikl_ID": "stock-item-2",
+        "Sklad_ID": "stockroom-id"
+      }
+    }
+  ]
+}

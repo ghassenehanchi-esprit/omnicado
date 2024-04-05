@@ -1,0 +1,1676 @@
+{
+  "PX231091": [
+    {
+      "ID": "eb8d0a2b-1344-477a-bf96-9f1c4847ee47",
+      "Odkaz": "PX231091",
+      "CisloDokladu": "VJ232163",
+      "Modify_Date": null,
+      "Create_Date": "2023-07-25T09:47:33.243",
+      "TypDokladu": 2,
+      "Sklad": null,
+      "Polozky": [
+        {
+          "Katalog": "ACS04666",
+          "Mnozstvi": 2.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavní sklad"
+            },
+            "Artikl_ID": "fd7b4486-c1c0-4633-ac04-798c6e991f84",
+            "Artikl": {
+              "Katalog": "ACS04666",
+              "Kod": "P12713",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "D23IPO14BC1BK",
+          "Mnozstvi": 2.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavní sklad"
+            },
+            "Artikl_ID": "f0f24f4e-29a2-4616-bc49-0de38f8c5d5f",
+            "Artikl": {
+              "Katalog": "D23IPO14BC1BK",
+              "Kod": "P12496",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "D23IPO14PMBC1BK",
+          "Mnozstvi": 2.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavní sklad"
+            },
+            "Artikl_ID": "4b8665bf-ab5c-4e20-aa13-64c16c249310",
+            "Artikl": {
+              "Katalog": "D23IPO14PMBC1BK",
+              "Kod": "P12509",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "KI1301PA",
+          "Mnozstvi": 2.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavní sklad"
+            },
+            "Artikl_ID": "56203d3c-5d1d-4003-96c6-8de80a8ebbd3",
+            "Artikl": {
+              "Katalog": "KI1301PA",
+              "Kod": "P11208",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "ACS04663",
+          "Mnozstvi": 4.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavní sklad"
+            },
+            "Artikl_ID": "37f13636-6015-45cb-accf-830ae7716403",
+            "Artikl": {
+              "Katalog": "ACS04663",
+              "Kod": "P12710",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "KI1301P",
+          "Mnozstvi": 2.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavní sklad"
+            },
+            "Artikl_ID": "d4f4d9e0-816f-4f49-b6d2-3921d05cb7cc",
+            "Artikl": {
+              "Katalog": "KI1301P",
+              "Kod": "P11212",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "ID": "db6f0589-f741-462f-9871-bb873c6f08cd",
+      "Odkaz": "PX231091",
+      "CisloDokladu": "PJ231721",
+      "Modify_Date": null,
+      "Create_Date": "2023-07-25T09:47:33.243",
+      "TypDokladu": 1,
+      "Sklad": null,
+      "Polozky": [
+        {
+          "Katalog": "D23IPO14BC1BK",
+          "Mnozstvi": 2.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "ff30664e-d539-431f-bb50-084700c3a201",
+            "Sklad": {
+              "Kod": "33",
+              "Nazev": "iStyle BG - konsignační sklad"
+            },
+            "Artikl_ID": "f0f24f4e-29a2-4616-bc49-0de38f8c5d5f",
+            "Artikl": {
+              "Katalog": "D23IPO14BC1BK",
+              "Kod": "P12496",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "ACS04663",
+          "Mnozstvi": 4.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "ff30664e-d539-431f-bb50-084700c3a201",
+            "Sklad": {
+              "Kod": "33",
+              "Nazev": "iStyle BG - konsignační sklad"
+            },
+            "Artikl_ID": "37f13636-6015-45cb-accf-830ae7716403",
+            "Artikl": {
+              "Katalog": "ACS04663",
+              "Kod": "P12710",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "KI1301P",
+          "Mnozstvi": 2.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "ff30664e-d539-431f-bb50-084700c3a201",
+            "Sklad": {
+              "Kod": "33",
+              "Nazev": "iStyle BG - konsignační sklad"
+            },
+            "Artikl_ID": "d4f4d9e0-816f-4f49-b6d2-3921d05cb7cc",
+            "Artikl": {
+              "Katalog": "KI1301P",
+              "Kod": "P11212",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "D23IPO14PMBC1BK",
+          "Mnozstvi": 2.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "ff30664e-d539-431f-bb50-084700c3a201",
+            "Sklad": {
+              "Kod": "33",
+              "Nazev": "iStyle BG - konsignační sklad"
+            },
+            "Artikl_ID": "4b8665bf-ab5c-4e20-aa13-64c16c249310",
+            "Artikl": {
+              "Katalog": "D23IPO14PMBC1BK",
+              "Kod": "P12509",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "KI1301PA",
+          "Mnozstvi": 2.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "ff30664e-d539-431f-bb50-084700c3a201",
+            "Sklad": {
+              "Kod": "33",
+              "Nazev": "iStyle BG - konsignační sklad"
+            },
+            "Artikl_ID": "56203d3c-5d1d-4003-96c6-8de80a8ebbd3",
+            "Artikl": {
+              "Katalog": "KI1301PA",
+              "Kod": "P11208",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "ACS04666",
+          "Mnozstvi": 2.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "ff30664e-d539-431f-bb50-084700c3a201",
+            "Sklad": {
+              "Kod": "33",
+              "Nazev": "iStyle BG - konsignační sklad"
+            },
+            "Artikl_ID": "fd7b4486-c1c0-4633-ac04-798c6e991f84",
+            "Artikl": {
+              "Katalog": "ACS04666",
+              "Kod": "P12713",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "PX231084": [
+    {
+      "ID": "86cc17cf-008a-4063-9958-d27a1c676226",
+      "Odkaz": "PX231084",
+      "CisloDokladu": "VJ232140",
+      "Modify_Date": "2023-07-25T13:18:10.077",
+      "Create_Date": "2023-07-25T09:47:33.243",
+      "TypDokladu": 2,
+      "Sklad": null,
+      "Polozky": [
+        {
+          "Katalog": "CATIPHO13BLKS",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "afd37d91-092d-489e-83a2-39d9dd9200ff",
+            "Sklad": {
+              "Kod": "48",
+              "Nazev": "iStyle CZ - konsignační sklad"
+            },
+            "Artikl_ID": "a20f4ad6-a1d3-4ad2-b9f4-9e4e8a8ee153",
+            "Artikl": {
+              "Katalog": "CATIPHO13BLKS",
+              "Kod": "P11574",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "D20IPAP11SC1BK",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "afd37d91-092d-489e-83a2-39d9dd9200ff",
+            "Sklad": {
+              "Kod": "48",
+              "Nazev": "iStyle CZ - konsignační sklad"
+            },
+            "Artikl_ID": "fad0a82f-ae14-4792-83da-a1e4b45ed9d0",
+            "Artikl": {
+              "Katalog": "D20IPAP11SC1BK",
+              "Kod": "P08285",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "ID": "3ee025ce-4282-4aaf-b844-4322cf51d370",
+      "Odkaz": "PX231084",
+      "CisloDokladu": "PJ231714",
+      "Modify_Date": "2023-07-25T13:18:10.84",
+      "Create_Date": "2023-07-25T09:47:33.243",
+      "TypDokladu": 1,
+      "Sklad": null,
+      "Polozky": [
+        {
+          "Katalog": "D20IPAP11SC1BK",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "b3bc465c-1242-4c62-ae4d-213bf05f45ff",
+            "Sklad": {
+              "Kod": "08",
+              "Nazev": "RMA"
+            },
+            "Artikl_ID": "fad0a82f-ae14-4792-83da-a1e4b45ed9d0",
+            "Artikl": {
+              "Katalog": "D20IPAP11SC1BK",
+              "Kod": "P08285",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "CATIPHO13BLKS",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "b3bc465c-1242-4c62-ae4d-213bf05f45ff",
+            "Sklad": {
+              "Kod": "08",
+              "Nazev": "RMA"
+            },
+            "Artikl_ID": "a20f4ad6-a1d3-4ad2-b9f4-9e4e8a8ee153",
+            "Artikl": {
+              "Katalog": "CATIPHO13BLKS",
+              "Kod": "P11574",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "PX231090": [
+    {
+      "ID": "a4692a12-9519-4eec-858c-60129c91b858",
+      "Odkaz": "PX231090",
+      "CisloDokladu": "VJ232162",
+      "Modify_Date": null,
+      "Create_Date": "2023-07-25T09:47:33.243",
+      "TypDokladu": 2,
+      "Sklad": null,
+      "Polozky": [
+        {
+          "Katalog": "ACS04663",
+          "Mnozstvi": 2.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavní sklad"
+            },
+            "Artikl_ID": "37f13636-6015-45cb-accf-830ae7716403",
+            "Artikl": {
+              "Katalog": "ACS04663",
+              "Kod": "P12710",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "D23IPO14PBC1BK",
+          "Mnozstvi": 2.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavní sklad"
+            },
+            "Artikl_ID": "2db2d9bd-dbb2-4d6a-879b-be2a5ad21cfc",
+            "Artikl": {
+              "Katalog": "D23IPO14PBC1BK",
+              "Kod": "P12501",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "114054114040",
+          "Mnozstvi": 3.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavní sklad"
+            },
+            "Artikl_ID": "b4afa550-ee9b-4dec-aea9-cd5dfe74a6ea",
+            "Artikl": {
+              "Katalog": "114054114040",
+              "Kod": "P12356",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "11316D114040",
+          "Mnozstvi": 2.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavní sklad"
+            },
+            "Artikl_ID": "f639c392-e873-4b00-8c1f-bc5fca7b8ede",
+            "Artikl": {
+              "Katalog": "11316D114040",
+              "Kod": "P10685",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "ACS03296",
+          "Mnozstvi": 2.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavní sklad"
+            },
+            "Artikl_ID": "0c69e8a5-b545-48cc-8d9b-d56f68dc96eb",
+            "Artikl": {
+              "Katalog": "ACS03296",
+              "Kod": "P10885",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "ACS03561",
+          "Mnozstvi": 2.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavní sklad"
+            },
+            "Artikl_ID": "fb439a7e-f75a-482c-83c8-4b31b7c27fb5",
+            "Artikl": {
+              "Katalog": "ACS03561",
+              "Kod": "P10903",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "KI1401PM",
+          "Mnozstvi": 2.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavní sklad"
+            },
+            "Artikl_ID": "2fccce94-9590-44ab-b8d7-732b6f2092d1",
+            "Artikl": {
+              "Katalog": "KI1401PM",
+              "Kod": "P12737",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "ACS04666",
+          "Mnozstvi": 3.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavní sklad"
+            },
+            "Artikl_ID": "fd7b4486-c1c0-4633-ac04-798c6e991f84",
+            "Artikl": {
+              "Katalog": "ACS04666",
+              "Kod": "P12713",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "ID": "015263f0-ccf2-4d2c-b291-ab8c6330a3a1",
+      "Odkaz": "PX231090",
+      "CisloDokladu": "PJ231720",
+      "Modify_Date": null,
+      "Create_Date": "2023-07-25T09:47:33.243",
+      "TypDokladu": 1,
+      "Sklad": null,
+      "Polozky": [
+        {
+          "Katalog": "ACS04666",
+          "Mnozstvi": 3.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "ff30664e-d539-431f-bb50-084700c3a201",
+            "Sklad": {
+              "Kod": "33",
+              "Nazev": "iStyle BG - konsignační sklad"
+            },
+            "Artikl_ID": "fd7b4486-c1c0-4633-ac04-798c6e991f84",
+            "Artikl": {
+              "Katalog": "ACS04666",
+              "Kod": "P12713",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "KI1401PM",
+          "Mnozstvi": 2.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "ff30664e-d539-431f-bb50-084700c3a201",
+            "Sklad": {
+              "Kod": "33",
+              "Nazev": "iStyle BG - konsignační sklad"
+            },
+            "Artikl_ID": "2fccce94-9590-44ab-b8d7-732b6f2092d1",
+            "Artikl": {
+              "Katalog": "KI1401PM",
+              "Kod": "P12737",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "ACS03296",
+          "Mnozstvi": 2.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "ff30664e-d539-431f-bb50-084700c3a201",
+            "Sklad": {
+              "Kod": "33",
+              "Nazev": "iStyle BG - konsignační sklad"
+            },
+            "Artikl_ID": "0c69e8a5-b545-48cc-8d9b-d56f68dc96eb",
+            "Artikl": {
+              "Katalog": "ACS03296",
+              "Kod": "P10885",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "ACS04663",
+          "Mnozstvi": 2.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "ff30664e-d539-431f-bb50-084700c3a201",
+            "Sklad": {
+              "Kod": "33",
+              "Nazev": "iStyle BG - konsignační sklad"
+            },
+            "Artikl_ID": "37f13636-6015-45cb-accf-830ae7716403",
+            "Artikl": {
+              "Katalog": "ACS04663",
+              "Kod": "P12710",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "ACS03561",
+          "Mnozstvi": 2.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "ff30664e-d539-431f-bb50-084700c3a201",
+            "Sklad": {
+              "Kod": "33",
+              "Nazev": "iStyle BG - konsignační sklad"
+            },
+            "Artikl_ID": "fb439a7e-f75a-482c-83c8-4b31b7c27fb5",
+            "Artikl": {
+              "Katalog": "ACS03561",
+              "Kod": "P10903",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "114054114040",
+          "Mnozstvi": 3.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "ff30664e-d539-431f-bb50-084700c3a201",
+            "Sklad": {
+              "Kod": "33",
+              "Nazev": "iStyle BG - konsignační sklad"
+            },
+            "Artikl_ID": "b4afa550-ee9b-4dec-aea9-cd5dfe74a6ea",
+            "Artikl": {
+              "Katalog": "114054114040",
+              "Kod": "P12356",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "D23IPO14PBC1BK",
+          "Mnozstvi": 2.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "ff30664e-d539-431f-bb50-084700c3a201",
+            "Sklad": {
+              "Kod": "33",
+              "Nazev": "iStyle BG - konsignační sklad"
+            },
+            "Artikl_ID": "2db2d9bd-dbb2-4d6a-879b-be2a5ad21cfc",
+            "Artikl": {
+              "Katalog": "D23IPO14PBC1BK",
+              "Kod": "P12501",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "11316D114040",
+          "Mnozstvi": 2.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "ff30664e-d539-431f-bb50-084700c3a201",
+            "Sklad": {
+              "Kod": "33",
+              "Nazev": "iStyle BG - konsignační sklad"
+            },
+            "Artikl_ID": "f639c392-e873-4b00-8c1f-bc5fca7b8ede",
+            "Artikl": {
+              "Katalog": "11316D114040",
+              "Kod": "P10685",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "PX231072": [
+    {
+      "ID": "4c8598cd-f30c-4a38-a197-2e71f0582076",
+      "Odkaz": "PX231072",
+      "CisloDokladu": "VJ232115",
+      "Modify_Date": "2023-07-25T09:47:33.243",
+      "Create_Date": "2023-07-25T09:47:33.243",
+      "TypDokladu": 2,
+      "Sklad": null,
+      "Polozky": [
+        {
+          "Katalog": "NAV-EN",
+          "Mnozstvi": 2.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavn\u00ed sklad"
+            },
+            "Artikl_ID": "54b76779-a413-4763-9b9f-9941bf547d16",
+            "Artikl": {
+              "Katalog": "NAV-EN",
+              "Kod": "P03851",
+              "Znacka": "",
+              "Poznamka": " Z toho p\u0159\u00edsp\u011bvek na recyklaci bez DPH za m.j.: 1,10 K\u010d"
+            }
+          }
+        },
+        {
+          "Katalog": "NOC-S-EC",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavn\u00ed sklad"
+            },
+            "Artikl_ID": "55fd468b-1c48-4571-9a3a-9471171412b0",
+            "Artikl": {
+              "Katalog": "NOC-S-EC",
+              "Kod": "P08487",
+              "Znacka": "",
+              "Poznamka": " Z toho p\u0159\u00edsp\u011bvek na recyklaci bez DPH za m.j.: 12,00 K\u010d"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "ID": "8bd4174d-2bac-4b9e-96bd-a49a791f31fc",
+      "Odkaz": "PX231072",
+      "CisloDokladu": "PJ231701",
+      "Modify_Date": "2023-07-25T09:47:34.31",
+      "Create_Date": "2023-07-25T09:47:33.243",
+      "TypDokladu": 1,
+      "Sklad": null,
+      "Polozky": [
+        {
+          "Katalog": "NAV-EN",
+          "Mnozstvi": 2.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "b65cd9bb-a804-4197-bbe0-5d55a43979fe",
+            "Sklad": {
+              "Kod": "25",
+              "Nazev": "RMA - likvidace"
+            },
+            "Artikl_ID": "54b76779-a413-4763-9b9f-9941bf547d16",
+            "Artikl": {
+              "Katalog": "NAV-EN",
+              "Kod": "P03851",
+              "Znacka": "",
+              "Poznamka": " Z toho p\u0159\u00edsp\u011bvek na recyklaci bez DPH za m.j.: 1,10 K\u010d"
+            }
+          }
+        },
+        {
+          "Katalog": "NOC-S-EC",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "b65cd9bb-a804-4197-bbe0-5d55a43979fe",
+            "Sklad": {
+              "Kod": "25",
+              "Nazev": "RMA - likvidace"
+            },
+            "Artikl_ID": "55fd468b-1c48-4571-9a3a-9471171412b0",
+            "Artikl": {
+              "Katalog": "NOC-S-EC",
+              "Kod": "P08487",
+              "Znacka": "",
+              "Poznamka": " Z toho p\u0159\u00edsp\u011bvek na recyklaci bez DPH za m.j.: 12,00 K\u010d"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "PX231083": [
+    {
+      "ID": "9acf8a66-6ba7-4627-a15c-f248f21e9f66",
+      "Odkaz": "PX231083",
+      "CisloDokladu": "VJ232136",
+      "Modify_Date": null,
+      "Create_Date": "2023-07-25T09:47:33.243",
+      "TypDokladu": 2,
+      "Sklad": null,
+      "Polozky": [
+        {
+          "Katalog": "AFL04052",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavní sklad"
+            },
+            "Artikl_ID": "41595679-6555-44cd-84f7-bee589182db4",
+            "Artikl": {
+              "Katalog": "AFL04052",
+              "Kod": "P11586",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "ID": "67772050-82fd-4a5f-9ab4-9b6217ef65b9",
+      "Odkaz": "PX231083",
+      "CisloDokladu": "PJ231712",
+      "Modify_Date": null,
+      "Create_Date": "2023-07-25T09:47:33.243",
+      "TypDokladu": 1,
+      "Sklad": null,
+      "Polozky": [
+        {
+          "Katalog": "AFL04052",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "b65cd9bb-a804-4197-bbe0-5d55a43979fe",
+            "Sklad": {
+              "Kod": "25",
+              "Nazev": "RMA - likvidace"
+            },
+            "Artikl_ID": "41595679-6555-44cd-84f7-bee589182db4",
+            "Artikl": {
+              "Katalog": "AFL04052",
+              "Kod": "P11586",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "PX231088": [
+    {
+      "ID": "f60bd583-9cd5-405e-b650-4c295bf64934",
+      "Odkaz": "PX231088",
+      "CisloDokladu": "VJ232160",
+      "Modify_Date": "2023-07-27T13:10:01.51",
+      "Create_Date": "2023-07-25T09:47:33.243",
+      "TypDokladu": 2,
+      "Sklad": null,
+      "Polozky": [
+        {
+          "Katalog": "057GL23120",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavní sklad"
+            },
+            "Artikl_ID": "bfec6d08-cf27-41ef-bb71-846174ce5ef8",
+            "Artikl": {
+              "Katalog": "057GL23120",
+              "Kod": "P08971",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "AGL06037",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavní sklad"
+            },
+            "Artikl_ID": "9a9e4eeb-8943-4a82-8493-c77ad51e3a81",
+            "Artikl": {
+              "Katalog": "AGL06037",
+              "Kod": "P14120",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "ACS00546",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavní sklad"
+            },
+            "Artikl_ID": "952cfdd2-d744-4ca8-81d5-7dbb12e0e542",
+            "Artikl": {
+              "Katalog": "ACS00546",
+              "Kod": "P08453",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "ACS04259",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavní sklad"
+            },
+            "Artikl_ID": "6205c3e4-e4f4-4267-a595-186dd7a6f512",
+            "Artikl": {
+              "Katalog": "ACS04259",
+              "Kod": "P12017",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "AGL05211",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavní sklad"
+            },
+            "Artikl_ID": "0406c31f-af6a-4808-afe7-a20b8d8d500f",
+            "Artikl": {
+              "Katalog": "AGL05211",
+              "Kod": "P12575",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "NDB-EC",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavní sklad"
+            },
+            "Artikl_ID": "7a2729e8-eaa1-4fbd-8c60-1df95adc6dfb",
+            "Artikl": {
+              "Katalog": "NDB-EC",
+              "Kod": "P09550",
+              "Znacka": "",
+              "Poznamka": " Z toho příspěvek na recyklaci bez DPH za m.j.: 12,00 Kč"
+            }
+          }
+        },
+        {
+          "Katalog": "AGL04035",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavní sklad"
+            },
+            "Artikl_ID": "d1797e15-30a6-475d-8600-a73549b81e04",
+            "Artikl": {
+              "Katalog": "AGL04035",
+              "Kod": "P11593",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "ACS00428",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavní sklad"
+            },
+            "Artikl_ID": "d3765ee5-035f-43b1-b389-2248ddab194a",
+            "Artikl": {
+              "Katalog": "ACS00428",
+              "Kod": "P08170",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "AGL00106",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavní sklad"
+            },
+            "Artikl_ID": "92b8d92c-86ab-4afd-a04c-b4fb41ef30f9",
+            "Artikl": {
+              "Katalog": "AGL00106",
+              "Kod": "P07512",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "ACS04132",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavní sklad"
+            },
+            "Artikl_ID": "49c1eeff-114e-4c4d-b47e-1fbc8fe3cc96",
+            "Artikl": {
+              "Katalog": "ACS04132",
+              "Kod": "P14753",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "077CS27233",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavní sklad"
+            },
+            "Artikl_ID": "c4403d07-c190-4eab-bf8e-cfeac65bb6a2",
+            "Artikl": {
+              "Katalog": "077CS27233",
+              "Kod": "P07342",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "AGL00109",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavní sklad"
+            },
+            "Artikl_ID": "12d40c2e-8f7c-4ce5-b554-837302b22999",
+            "Artikl": {
+              "Katalog": "AGL00109",
+              "Kod": "P07508",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "AGL05967",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavní sklad"
+            },
+            "Artikl_ID": "f9a19b5e-22a3-452c-a3bc-8aaed985f0ab",
+            "Artikl": {
+              "Katalog": "AGL05967",
+              "Kod": "P14091",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "ACS04830",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavní sklad"
+            },
+            "Artikl_ID": "9d5615a0-c42d-461d-9eb3-d0210a2150c4",
+            "Artikl": {
+              "Katalog": "ACS04830",
+              "Kod": "P12559",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "AGL03393",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavní sklad"
+            },
+            "Artikl_ID": "0790f2ac-b925-45c7-9647-c2ac33061f5c",
+            "Artikl": {
+              "Katalog": "AGL03393",
+              "Kod": "P12441",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "AGL00103",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavní sklad"
+            },
+            "Artikl_ID": "938517e0-88b4-415c-a09d-69540ee62ff4",
+            "Artikl": {
+              "Katalog": "AGL00103",
+              "Kod": "P09358",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "ID": "c67c4ee8-32c6-4638-8ec2-642e6a311968",
+      "Odkaz": "PX231088",
+      "CisloDokladu": "PJ231718",
+      "Modify_Date": "2023-07-27T13:10:03.313",
+      "Create_Date": "2023-07-25T09:47:33.243",
+      "TypDokladu": 1,
+      "Sklad": null,
+      "Polozky": [
+        {
+          "Katalog": "AGL03393",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "b65cd9bb-a804-4197-bbe0-5d55a43979fe",
+            "Sklad": {
+              "Kod": "25",
+              "Nazev": "RMA - likvidace"
+            },
+            "Artikl_ID": "0790f2ac-b925-45c7-9647-c2ac33061f5c",
+            "Artikl": {
+              "Katalog": "AGL03393",
+              "Kod": "P12441",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "057GL23120",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "b65cd9bb-a804-4197-bbe0-5d55a43979fe",
+            "Sklad": {
+              "Kod": "25",
+              "Nazev": "RMA - likvidace"
+            },
+            "Artikl_ID": "bfec6d08-cf27-41ef-bb71-846174ce5ef8",
+            "Artikl": {
+              "Katalog": "057GL23120",
+              "Kod": "P08971",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "ACS04830",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "b65cd9bb-a804-4197-bbe0-5d55a43979fe",
+            "Sklad": {
+              "Kod": "25",
+              "Nazev": "RMA - likvidace"
+            },
+            "Artikl_ID": "9d5615a0-c42d-461d-9eb3-d0210a2150c4",
+            "Artikl": {
+              "Katalog": "ACS04830",
+              "Kod": "P12559",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "077CS27233",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "b65cd9bb-a804-4197-bbe0-5d55a43979fe",
+            "Sklad": {
+              "Kod": "25",
+              "Nazev": "RMA - likvidace"
+            },
+            "Artikl_ID": "c4403d07-c190-4eab-bf8e-cfeac65bb6a2",
+            "Artikl": {
+              "Katalog": "077CS27233",
+              "Kod": "P07342",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "AGL04035",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "b65cd9bb-a804-4197-bbe0-5d55a43979fe",
+            "Sklad": {
+              "Kod": "25",
+              "Nazev": "RMA - likvidace"
+            },
+            "Artikl_ID": "d1797e15-30a6-475d-8600-a73549b81e04",
+            "Artikl": {
+              "Katalog": "AGL04035",
+              "Kod": "P11593",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "NDB-EC",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "b65cd9bb-a804-4197-bbe0-5d55a43979fe",
+            "Sklad": {
+              "Kod": "25",
+              "Nazev": "RMA - likvidace"
+            },
+            "Artikl_ID": "7a2729e8-eaa1-4fbd-8c60-1df95adc6dfb",
+            "Artikl": {
+              "Katalog": "NDB-EC",
+              "Kod": "P09550",
+              "Znacka": "",
+              "Poznamka": " Z toho příspěvek na recyklaci bez DPH za m.j.: 12,00 Kč"
+            }
+          }
+        },
+        {
+          "Katalog": "ACS00546",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "b65cd9bb-a804-4197-bbe0-5d55a43979fe",
+            "Sklad": {
+              "Kod": "25",
+              "Nazev": "RMA - likvidace"
+            },
+            "Artikl_ID": "952cfdd2-d744-4ca8-81d5-7dbb12e0e542",
+            "Artikl": {
+              "Katalog": "ACS00546",
+              "Kod": "P08453",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "AGL06037",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "b65cd9bb-a804-4197-bbe0-5d55a43979fe",
+            "Sklad": {
+              "Kod": "25",
+              "Nazev": "RMA - likvidace"
+            },
+            "Artikl_ID": "9a9e4eeb-8943-4a82-8493-c77ad51e3a81",
+            "Artikl": {
+              "Katalog": "AGL06037",
+              "Kod": "P14120",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "AGL00103",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "b65cd9bb-a804-4197-bbe0-5d55a43979fe",
+            "Sklad": {
+              "Kod": "25",
+              "Nazev": "RMA - likvidace"
+            },
+            "Artikl_ID": "938517e0-88b4-415c-a09d-69540ee62ff4",
+            "Artikl": {
+              "Katalog": "AGL00103",
+              "Kod": "P09358",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "AGL00109",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "b65cd9bb-a804-4197-bbe0-5d55a43979fe",
+            "Sklad": {
+              "Kod": "25",
+              "Nazev": "RMA - likvidace"
+            },
+            "Artikl_ID": "12d40c2e-8f7c-4ce5-b554-837302b22999",
+            "Artikl": {
+              "Katalog": "AGL00109",
+              "Kod": "P07508",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "ACS00428",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "b65cd9bb-a804-4197-bbe0-5d55a43979fe",
+            "Sklad": {
+              "Kod": "25",
+              "Nazev": "RMA - likvidace"
+            },
+            "Artikl_ID": "d3765ee5-035f-43b1-b389-2248ddab194a",
+            "Artikl": {
+              "Katalog": "ACS00428",
+              "Kod": "P08170",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "ACS04132",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "b65cd9bb-a804-4197-bbe0-5d55a43979fe",
+            "Sklad": {
+              "Kod": "25",
+              "Nazev": "RMA - likvidace"
+            },
+            "Artikl_ID": "49c1eeff-114e-4c4d-b47e-1fbc8fe3cc96",
+            "Artikl": {
+              "Katalog": "ACS04132",
+              "Kod": "P14753",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "ACS04259",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "b65cd9bb-a804-4197-bbe0-5d55a43979fe",
+            "Sklad": {
+              "Kod": "25",
+              "Nazev": "RMA - likvidace"
+            },
+            "Artikl_ID": "6205c3e4-e4f4-4267-a595-186dd7a6f512",
+            "Artikl": {
+              "Katalog": "ACS04259",
+              "Kod": "P12017",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "AGL05211",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "b65cd9bb-a804-4197-bbe0-5d55a43979fe",
+            "Sklad": {
+              "Kod": "25",
+              "Nazev": "RMA - likvidace"
+            },
+            "Artikl_ID": "0406c31f-af6a-4808-afe7-a20b8d8d500f",
+            "Artikl": {
+              "Katalog": "AGL05211",
+              "Kod": "P12575",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "AGL00106",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "b65cd9bb-a804-4197-bbe0-5d55a43979fe",
+            "Sklad": {
+              "Kod": "25",
+              "Nazev": "RMA - likvidace"
+            },
+            "Artikl_ID": "92b8d92c-86ab-4afd-a04c-b4fb41ef30f9",
+            "Artikl": {
+              "Katalog": "AGL00106",
+              "Kod": "P07512",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        },
+        {
+          "Katalog": "AGL05967",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "b65cd9bb-a804-4197-bbe0-5d55a43979fe",
+            "Sklad": {
+              "Kod": "25",
+              "Nazev": "RMA - likvidace"
+            },
+            "Artikl_ID": "f9a19b5e-22a3-452c-a3bc-8aaed985f0ab",
+            "Artikl": {
+              "Katalog": "AGL05967",
+              "Kod": "P14091",
+              "Znacka": "",
+              "Poznamka": ""
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "TEST-WITH-NON-ALLOWED-PUT-AWAY-WAREHOUSE": [
+    {
+      "ID": "4c8598cd-f30c-4a38-a197-2e71f0582666",
+      "Odkaz": "TEST-WITH-NON-ALLOWED-PUT-AWAY-WAREHOUSE",
+      "CisloDokladu": "XXX232115",
+      "Modify_Date": "2023-07-25T09:47:33.243",
+      "Create_Date": "2023-07-25T09:47:33.243",
+      "TypDokladu": 2,
+      "Sklad": null,
+      "Polozky": [
+        {
+          "Katalog": "NAV-EN",
+          "Mnozstvi": 2.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "XX",
+              "Nazev": "Test"
+            },
+            "Artikl_ID": "54b76779-a413-4763-9b9f-9941bf547d16",
+            "Artikl": {
+              "Katalog": "NAV-EN",
+              "Kod": "P03851",
+              "Znacka": "",
+              "Poznamka": " Z toho p\u0159\u00edsp\u011bvek na recyklaci bez DPH za m.j.: 1,10 K\u010d"
+            }
+          }
+        },
+        {
+          "Katalog": "NOC-S-EC",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "XX",
+              "Nazev": "Test"
+            },
+            "Artikl_ID": "55fd468b-1c48-4571-9a3a-9471171412b0",
+            "Artikl": {
+              "Katalog": "NOC-S-EC",
+              "Kod": "P08487",
+              "Znacka": "",
+              "Poznamka": " Z toho p\u0159\u00edsp\u011bvek na recyklaci bez DPH za m.j.: 12,00 K\u010d"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "ID": "8bd4174d-2bac-4b9e-96bd-a49a791f31fc",
+      "Odkaz": "TEST-WITH-NON-ALLOWED-PUT-AWAY-WAREHOUSE",
+      "CisloDokladu": "PJ231701",
+      "Modify_Date": "2023-07-25T09:47:34.31",
+      "Create_Date": "2023-07-25T09:47:33.243",
+      "TypDokladu": 1,
+      "Sklad": null,
+      "Polozky": [
+        {
+          "Katalog": "NAV-EN",
+          "Mnozstvi": 2.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "b65cd9bb-a804-4197-bbe0-5d55a43979fe",
+            "Sklad": {
+              "Kod": "25",
+              "Nazev": "RMA - likvidace"
+            },
+            "Artikl_ID": "54b76779-a413-4763-9b9f-9941bf547d16",
+            "Artikl": {
+              "Katalog": "NAV-EN",
+              "Kod": "P03851",
+              "Znacka": "",
+              "Poznamka": " Z toho p\u0159\u00edsp\u011bvek na recyklaci bez DPH za m.j.: 1,10 K\u010d"
+            }
+          }
+        },
+        {
+          "Katalog": "NOC-S-EC",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "b65cd9bb-a804-4197-bbe0-5d55a43979fe",
+            "Sklad": {
+              "Kod": "25",
+              "Nazev": "RMA - likvidace"
+            },
+            "Artikl_ID": "55fd468b-1c48-4571-9a3a-9471171412b0",
+            "Artikl": {
+              "Katalog": "NOC-S-EC",
+              "Kod": "P08487",
+              "Znacka": "",
+              "Poznamka": " Z toho p\u0159\u00edsp\u011bvek na recyklaci bez DPH za m.j.: 12,00 K\u010d"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "TEST-WITH-NON-ALLOWED-RECEIPT-WAREHOUSE": [
+    {
+      "ID": "4c8598cd-f30c-4a38-a197-2e71f0582076",
+      "Odkaz": "TEST-WITH-NON-ALLOWED-RECEIPT-WAREHOUSE",
+      "CisloDokladu": "VJ232115",
+      "Modify_Date": "2023-07-25T09:47:33.243",
+      "Create_Date": "2023-07-25T09:47:33.243",
+      "TypDokladu": 2,
+      "Sklad": null,
+      "Polozky": [
+        {
+          "Katalog": "NAV-EN",
+          "Mnozstvi": 2.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavn\u00ed sklad"
+            },
+            "Artikl_ID": "54b76779-a413-4763-9b9f-9941bf547d16",
+            "Artikl": {
+              "Katalog": "NAV-EN",
+              "Kod": "P03851",
+              "Znacka": "",
+              "Poznamka": " Z toho p\u0159\u00edsp\u011bvek na recyklaci bez DPH za m.j.: 1,10 K\u010d"
+            }
+          }
+        },
+        {
+          "Katalog": "NOC-S-EC",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavn\u00ed sklad"
+            },
+            "Artikl_ID": "55fd468b-1c48-4571-9a3a-9471171412b0",
+            "Artikl": {
+              "Katalog": "NOC-S-EC",
+              "Kod": "P08487",
+              "Znacka": "",
+              "Poznamka": " Z toho p\u0159\u00edsp\u011bvek na recyklaci bez DPH za m.j.: 12,00 K\u010d"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "ID": "8bd4174d-2bac-4b9e-96bd-a49a791f31fc",
+      "Odkaz": "TEST-WITH-NON-ALLOWED-RECEIPT-WAREHOUSE",
+      "CisloDokladu": "XX231701",
+      "Modify_Date": "2023-07-25T09:47:34.31",
+      "Create_Date": "2023-07-25T09:47:33.243",
+      "TypDokladu": 1,
+      "Sklad": null,
+      "Polozky": [
+        {
+          "Katalog": "NAV-EN",
+          "Mnozstvi": 2.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "b65cd9bb-a804-4197-bbe0-5d55a43979fe",
+            "Sklad": {
+              "Kod": "XX",
+              "Nazev": "Test"
+            },
+            "Artikl_ID": "54b76779-a413-4763-9b9f-9941bf547d16",
+            "Artikl": {
+              "Katalog": "NAV-EN",
+              "Kod": "P03851",
+              "Znacka": "",
+              "Poznamka": " Z toho p\u0159\u00edsp\u011bvek na recyklaci bez DPH za m.j.: 1,10 K\u010d"
+            }
+          }
+        },
+        {
+          "Katalog": "NOC-S-EC",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "b65cd9bb-a804-4197-bbe0-5d55a43979fe",
+            "Sklad": {
+              "Kod": "XX",
+              "Nazev": "Test"
+            },
+            "Artikl_ID": "55fd468b-1c48-4571-9a3a-9471171412b0",
+            "Artikl": {
+              "Katalog": "NOC-S-EC",
+              "Kod": "P08487",
+              "Znacka": "",
+              "Poznamka": " Z toho p\u0159\u00edsp\u011bvek na recyklaci bez DPH za m.j.: 12,00 K\u010d"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

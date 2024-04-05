@@ -1,0 +1,254 @@
+[
+{
+  "CisloDokladu": "DV2317677",
+  "Nazev": "15094022501",
+  "FakturacniAdresaFirma": {  "GLN": "" },
+  "FakturacniAdresaNazev": "MIMOVRSTE.COM Mateja Nolimal",
+  "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+  "FakturacniAdresaUlice": "Keltičkova 1231/31",
+  "FakturacniAdresaMisto": "Slezská Ostrava",
+  "FakturacniAdresaPSC": "710 00",
+  "AdresaPrijemceFakturyStat": {
+    "KodISO3": "CZE"
+  },
+  "AdresaKoncovehoPrijemceEmail": "fakturace@istores.cz",
+  "AdresaKoncovehoPrijemceTelefon": "",
+  "IC": "02396718",
+  "DIC": "CZ02396718",
+  "DodaciAdresaFirma": {  "GLN": "" },
+  "DodaciAdresaNazev": "MIMOVRSTE d.o.o -  MARKETPLACE",
+  "DodaciAdresaUlice": "Gočárová třída 1754/48a",
+  "DodaciAdresaMisto": "Hradec Králové",
+  "DodaciAdresaPSC": "500 02",
+  "AdresaKoncovehoPrijemceStat": {
+    "KodISO3": "CZE"
+  },
+  "ZpusobPlatby": {
+    "Nazev": "Bankovním převodem",
+    "Kod": "B"
+  },
+  "ZpusobDopravy": {
+    "Nazev": "PPL CZ Business",
+    "Kod": "PPL_CZ_Bus"
+  },
+  "SumaCelkemCM": 2995.8500,
+  "SumaDanCM": 519.9500,
+  "Mena": {
+    "Kod": "CZK"
+  },
+  "Create_Date": "2023-12-12T07:00:00.000",
+  "Poznamka": "",
+  "DodaciAdresaFirma": {
+    "FaktStat": {
+      "KodISO3": "CZE"
+    }
+  },
+  "Modify_Date": "",
+  "Polozky": [
+    {
+      "CisloPolozky": 1,
+      "Katalog": "PL2A-11-18",
+      "Nazev": "Paperlike Screen Protector 2.1 - iPad Air 10.9\"/ Pro 11\"",
+      "Mnozstvi": 1.0000,
+      "Jednotka": "ks",
+      "JednCenaCM": 483.0000,
+      "CelkovaCenaCM": 584.4300,
+      "DphCelkemCM": 584.4300,
+      "DphSazba": 21.0000,
+      "DphDanCM": 101.4300,
+      "IPHmotnost": 0.0010,
+      "ObsahPolozky": {
+        "Artikl": {
+          "Navod_UserData": ""
+        }
+      }
+    },
+    {
+      "CisloPolozky": 2,
+      "Katalog": "AGL05556",
+      "Nazev": "Spigen Glass EZ Fit 2 Pack - Apple Watch Ultra 49mm",
+      "Mnozstvi": 1.0000,
+      "Jednotka": "ks",
+      "JednCenaCM": 483.0000,
+      "CelkovaCenaCM": 584.4300,
+      "DphCelkemCM": 584.4300,
+      "DphSazba": 21.0000,
+      "DphDanCM": 101.4300,
+      "IPHmotnost": 0.0010,
+      "ObsahPolozky": {
+        "Artikl": {
+          "Navod_UserData": ""
+        }
+      }
+    }
+  ]
+},
+{
+    "CisloDokladu": "DV2317678",
+    "Nazev": "15094022501",
+    "FakturacniAdresaFirma": {  "GLN": "" },
+    "FakturacniAdresaNazev": "MIMOVRSTE.COM Mateja Nolimal",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "Keltičkova 1231/31",
+    "FakturacniAdresaMisto": "Slezská Ostrava",
+    "FakturacniAdresaPSC": "710 00",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail": "fakturace@istores.cz",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "02396718",
+    "DIC": "CZ02396718",
+    "DodaciAdresaFirma": {  "GLN": "" },
+    "DodaciAdresaNazev": "MIMOVRSTE d.o.o -  MARKETPLACE",
+    "DodaciAdresaUlice": "Gočárová třída 1754/48a",
+    "DodaciAdresaMisto": "Hradec Králové",
+    "DodaciAdresaPSC": "500 02",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "CZE"
+    },
+    "ZpusobPlatby": {
+      "Nazev": "Bankovním převodem",
+      "Kod": "B"
+    },
+    "ZpusobDopravy": {
+      "Nazev": "PPL CZ Business",
+      "Kod": "PPL_CZ_Bus"
+    },
+    "SumaCelkemCM": 2995.8500,
+    "SumaDanCM": 519.9500,
+    "Mena": {
+      "Kod": "CZK"
+    },
+    "Create_Date": "2023-12-12T06:00:00.000",
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "CZE"
+      }
+    },
+    "Modify_Date": "2023-12-12T06:30:00.000",
+    "Polozky": [
+      {
+        "CisloPolozky": 1,
+        "Katalog": "PL2A-11-18",
+        "Nazev": "Levenhuk Mikroskop Rainbow 2L PLUS Moonstone",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 483.0000,
+        "CelkovaCenaCM": 584.4300,
+        "DphCelkemCM": 584.4300,
+        "DphSazba": 21.0000,
+        "DphDanCM": 101.4300,
+        "IPHmotnost": 0.0010,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          }
+        }
+      },
+      {
+        "CisloPolozky": 2,
+        "Katalog": "AGL05556",
+        "Nazev": "Spigen Glass EZ Fit 2 Pack - Apple Watch Ultra 49mm",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 483.0000,
+        "CelkovaCenaCM": 584.4300,
+        "DphCelkemCM": 584.4300,
+        "DphSazba": 21.0000,
+        "DphDanCM": 101.4300,
+        "IPHmotnost": 0.0010,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          }
+        }
+      }
+    ]
+  },
+{
+    "CisloDokladu": "DV2317679",
+    "Nazev": "15094022501",
+    "FakturacniAdresaFirma": {  "GLN": "" },
+    "FakturacniAdresaNazev": "MIMOVRSTE.COM Mateja Nolimal",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "Keltičkova 1231/31",
+    "FakturacniAdresaMisto": "Slezská Ostrava",
+    "FakturacniAdresaPSC": "710 00",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail": "fakturace@istores.cz",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "02396718",
+    "DIC": "CZ02396718",
+    "DodaciAdresaFirma": {  "GLN": "" },
+    "DodaciAdresaNazev": "MIMOVRSTE d.o.o -  MARKETPLACE",
+    "DodaciAdresaUlice": "Gočárová třída 1754/48a",
+    "DodaciAdresaMisto": "Hradec Králové",
+    "DodaciAdresaPSC": "500 02",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "CZE"
+    },
+    "ZpusobPlatby": {
+      "Nazev": "Bankovním převodem",
+      "Kod": "B"
+    },
+    "ZpusobDopravy": {
+      "Nazev": "PPL CZ Business",
+      "Kod": "PPL_CZ_Bus"
+    },
+    "SumaCelkemCM": 2995.8500,
+    "SumaDanCM": 519.9500,
+    "Mena": {
+      "Kod": "CZK"
+    },
+    "Create_Date": "2023-12-12T06:15:00.000",
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "CZE"
+      }
+    },
+    "Modify_Date": "2023-12-12T06:30:00.000",
+    "Polozky": [
+      {
+        "CisloPolozky": 1,
+        "Katalog": "PL2A-11-18",
+        "Nazev": "Paperlike Screen Protector 2.1 - iPad Air 10.9\"/ Pro 11\"",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 483.0000,
+        "CelkovaCenaCM": 584.4300,
+        "DphCelkemCM": 584.4300,
+        "DphSazba": 21.0000,
+        "DphDanCM": 101.4300,
+        "IPHmotnost": 0.0010,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          }
+        }
+      },
+      {
+        "CisloPolozky": 2,
+        "Katalog": "AGL05556",
+        "Nazev": "Spigen Glass EZ Fit 2 Pack - Apple Watch Ultra 49mm",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 483.0000,
+        "CelkovaCenaCM": 584.4300,
+        "DphCelkemCM": 584.4300,
+        "DphSazba": 21.0000,
+        "DphDanCM": 101.4300,
+        "IPHmotnost": 0.0010,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          }
+        }
+      }
+    ]
+  }
+]

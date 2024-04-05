@@ -1,0 +1,270 @@
+[
+  {
+    "Firma_ID" : "05c9f18b-aa3a-40ff-b260-743db6a192fb",
+    "Odkaz": "PX231015",
+    "TypDokladu": 2,
+    "Modify_Date": null,
+    "Create_Date": "2023-10-24T14:04:19.277",
+    "CisloDokladu": "VJ231984",
+    "Nazev": "Vratka",
+    "FakturacniAdresaNazev": "Ingredi Europa s.r.o.",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "Formanská 257",
+    "FakturacniAdresaMisto": "Praha",
+    "FakturacniAdresaPSC": "14900",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail": "",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "28544668",
+    "DIC": "CZ28544668",
+    "DodaciAdresaNazev": "Ingredi Europa s.r.o.",
+    "DodaciAdresaUlice": "Tř. 3. května 910",
+    "DodaciAdresaMisto": "Zlín-Malenovice",
+    "DodaciAdresaPSC": "76302",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "CZE"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 7978.7400,
+    "SumaDanCM": 1384.7400,
+    "Mena": {
+      "Kod": "CZK"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "CZE"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 1,
+        "Katalog": "ADJD4S",
+        "Nazev": "Adonit Dash 4, silver",
+        "Mnozstvi": 6.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 1099.0000,
+        "CelkovaCenaCM": 6594.0000,
+        "DphCelkemCM": 7978.7400,
+        "DphSazba": 21.0000,
+        "DphDanCM": 1384.7400,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "46"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Firma_ID" : "05c9f18b-aa3a-40ff-b260-743db6a192fb",
+    "Odkaz": "PX231015",
+    "TypDokladu": 1,
+    "Modify_Date": null,
+    "Create_Date": "2023-10-24T14:04:19.91",
+    "CisloDokladu": "PJ231619",
+    "Nazev": "Vratka",
+    "FakturacniAdresaNazev": "Ingredi Europa s.r.o.",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "Formanská 257",
+    "FakturacniAdresaMisto": "Praha",
+    "FakturacniAdresaPSC": "14900",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail": "",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "28544668",
+    "DIC": "CZ28544668",
+    "DodaciAdresaNazev": "Ingredi Europa s.r.o.",
+    "DodaciAdresaUlice": "Tř. 3. května 910",
+    "DodaciAdresaMisto": "Zlín-Malenovice",
+    "DodaciAdresaPSC": "76302",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "CZE"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 7978.7400,
+    "SumaDanCM": 1384.7400,
+    "Mena": {
+      "Kod": "CZK"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "CZE"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 1,
+        "Katalog": "ADJD4S",
+        "Nazev": "Adonit Dash 4, silver",
+        "Mnozstvi": 6.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 1099.0000,
+        "CelkovaCenaCM": 6594.0000,
+        "DphCelkemCM": 7978.7400,
+        "DphSazba": 21.0000,
+        "DphDanCM": 1384.7400,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Firma_ID" : "05c9f18b-aa3a-40ff-b260-743db6a192fb",
+    "Odkaz": "PX231016",
+    "TypDokladu": 2,
+    "Modify_Date": null,
+    "Create_Date": "2023-10-24T14:05:32.47",
+    "CisloDokladu": "VJ231985",
+    "Nazev": "Vratka",
+    "FakturacniAdresaNazev": "Ingredi Europa s.r.o.",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "Formanská 257",
+    "FakturacniAdresaMisto": "Praha",
+    "FakturacniAdresaPSC": "14900",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail": "",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "28544668",
+    "DIC": "CZ28544668",
+    "DodaciAdresaNazev": "Ingredi Europa s.r.o.",
+    "DodaciAdresaUlice": "Tř. 3. května 910",
+    "DodaciAdresaMisto": "Zlín-Malenovice",
+    "DodaciAdresaPSC": "76302",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "CZE"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 4896.8700,
+    "SumaDanCM": 849.8700,
+    "Mena": {
+      "Kod": "CZK"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "CZE"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 1,
+        "Katalog": "ACS03763",
+        "Nazev": "Spigen Smart Fold, black - iPad mini 6 2021",
+        "Mnozstvi": 19.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 213.0000,
+        "CelkovaCenaCM": 4047.0000,
+        "DphCelkemCM": 4896.8700,
+        "DphSazba": 21.0000,
+        "DphDanCM": 849.8700,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "48"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Firma_ID" : "05c9f18b-aa3a-40ff-b260-743db6a192fb",
+    "Odkaz": "PX231016",
+    "TypDokladu": 1,
+    "Modify_Date": null,
+    "Create_Date": "2023-10-24T14:05:33.07",
+    "CisloDokladu": "PJ231620",
+    "Nazev": "Vratka",
+    "FakturacniAdresaNazev": "Ingredi Europa s.r.o.",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "Formanská 257",
+    "FakturacniAdresaMisto": "Praha",
+    "FakturacniAdresaPSC": "14900",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail": "",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "28544668",
+    "DIC": "CZ28544668",
+    "DodaciAdresaNazev": "Ingredi Europa s.r.o.",
+    "DodaciAdresaUlice": "Tř. 3. května 910",
+    "DodaciAdresaMisto": "Zlín-Malenovice",
+    "DodaciAdresaPSC": "76302",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "CZE"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 4896.8700,
+    "SumaDanCM": 849.8700,
+    "Mena": {
+      "Kod": "CZK"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "CZE"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 1,
+        "Katalog": "ACS03763",
+        "Nazev": "Spigen Smart Fold, black - iPad mini 6 2021",
+        "Mnozstvi": 19.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 213.0000,
+        "CelkovaCenaCM": 4047.0000,
+        "DphCelkemCM": 4896.8700,
+        "DphSazba": 21.0000,
+        "DphDanCM": 849.8700,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      }
+    ]
+  }
+]

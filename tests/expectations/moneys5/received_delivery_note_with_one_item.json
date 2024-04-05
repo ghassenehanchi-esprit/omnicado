@@ -1,0 +1,48 @@
+{
+  "Firma_ID": "738f6320-40e6-425e-b6b4-6807275962fc",
+  "PriznakVyrizeno": false,
+  "System_Priznak": 0,
+  "ZpusobPlatby_ID": "d3b43f46-2cdd-413f-b51c-ad9096771980",
+  "ZpusobDopravy_ID": "987aa2ec-d6d2-459f-abfd-374b71116d88",
+  "Poznamka": "Dodací list přijatý, Číslo původního dokladu: NUMBER123456",
+  "Nazev" : "iOttie NL",
+  "FakturacniAdresaNazev": "iOttie, Inc.",
+  "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+  "FakturacniAdresaUlice": "470 7th Avenue 6th Floor",
+  "FakturacniAdresaMisto": "New York",
+  "FakturacniAdresaPSC": "NY 10018",
+  "FakturacniAdresaStat": "Nizozemsko",
+  "AdresaKoncovehoPrijemceEmail": "",
+  "AdresaKoncovehoPrijemceTelefon": "",
+  "IC": "",
+  "DIC": "NL824168732B01",
+  "Mena_ID": "e9daab77-0517-4f36-ac41-9b798182a7ae",
+  "DodaciAdresaNazev": "iOttie, Inc.",
+  "DodaciAdresaUlice": "470 7th Avenue 6th Floor",
+  "DodaciAdresaMisto": "New York",
+  "DodaciAdresaPSC": "NY 10018",
+  "DodaciAdresaStat": "Nizozemsko",
+  "SumaCelkemCM": 0.0000,
+  "SumaDanCM": 0.0000,
+  "Polozky": [
+    {
+      "PriznakVyrizeno": false,
+      "Katalog": "HLCRIO173",
+      "Nazev": "iOttie Easy One Touch 5 CD Slot Mount",
+      "Mnozstvi": 1.0000,
+      "TypCeny": 0,
+      "Jednotka": "ks",
+      "DphCelkemCM": 300.0000,
+      "JednCenaCM": 12.5000,
+      "DphSazba": 21.0000,
+      "DphDanCM": 0.0000,
+      "TypObsahu": 1,
+      "ObsahPolozky": {
+        "Artikl_ID": "f0590950-87c9-4178-bb2b-ca15574f60ea",
+        "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+        "Cenik_ID": null
+      },
+      "Poznamka": "PO230336"
+    }
+  ]
+}

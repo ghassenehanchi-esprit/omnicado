@@ -1,0 +1,286 @@
+[
+  {
+    "Firma_ID": "738f6320-40e6-425e-b6b4-6807275962fc",
+    "Modify_Date":null,
+    "Create_Date":"2023-06-22T10:37:27.723",
+    "CisloDokladu":"239204",
+    "Nazev":"RMA",
+    "FakturacniAdresaNazev":"Alza.cz a.s.",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev":"",
+    "FakturacniAdresaUlice":"Jankovcova 1522/53",
+    "FakturacniAdresaMisto":"Praha 7",
+    "FakturacniAdresaPSC":"17000",
+    "AdresaPrijemceFakturyStat":{
+      "KodISO3":"CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail":"Ondrej.Egger@alza.cz",
+    "AdresaKoncovehoPrijemceTelefon":"",
+    "IC":"27082440",
+    "DIC":"CZ27082440",
+    "DodaciAdresaNazev":"Alza.cz a.s. VGP",
+    "DodaciAdresaUlice":"Do Čertous 2759/4",
+    "DodaciAdresaMisto":"Praha 9 - Horní Počernice",
+    "DodaciAdresaPSC":"193 00",
+    "AdresaKoncovehoPrijemceStat":{
+      "KodISO3":"CZE"
+    },
+    "DodaciAdresaFirma":{
+      "FaktStat":{
+        "KodISO3":"CZE"
+      }
+    },
+    "ZpusobPlatby":{
+      "Nazev":"Bankovním převodem",
+      "Kod":"B"
+    },
+    "ZpusobDopravy":null,
+    "SumaCelkemCM":7031.7900,
+    "SumaDanCM":1220.3900,
+    "Mena":{
+      "Kod":"CZK"
+    },
+    "Poznamka":"",
+    "Polozky":[
+      {
+        "ID": "d43cf42c-71b8-4948-9b54-0d7367080144",
+        "CisloPolozky":1,
+        "Katalog":"NBU-ICSS-EU",
+        "Nazev":"Netatmo Smart Indoor Camera + Siren + Sensors",
+        "Mnozstvi":1.0000,
+        "Jednotka":"ks",
+        "JednCenaCM":5811.4000,
+        "CelkovaCenaCM":5811.4000,
+        "DphCelkemCM":7031.7900,
+        "DphSazba":21.0000,
+        "DphDanCM":1220.3900,
+        "IPHmotnost":1.5750,
+        "ObsahPolozky":{
+          "Sklad_ID": "stockroom-id",
+          "Artikl":{
+            "Navod_UserData":""
+          },
+          "Sklad":{
+            "Kod":"01"
+          },
+          "Zasoba": null
+        }
+      }
+    ]
+  },
+  {
+    "Firma_ID": "738f6320-40e6-425e-b6b4-6807275962fc",
+    "Modify_Date":null,
+    "Create_Date":"2023-06-22T10:18:38.82",
+    "CisloDokladu":"239202",
+    "Nazev":"RMA",
+    "FakturacniAdresaNazev":"Alza.cz a.s.",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev":"",
+    "FakturacniAdresaUlice":"Jankovcova 1522/53",
+    "FakturacniAdresaMisto":"Praha 7",
+    "FakturacniAdresaPSC":"17000",
+    "AdresaPrijemceFakturyStat":{
+      "KodISO3":"CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail":"Ondrej.Egger@alza.cz",
+    "AdresaKoncovehoPrijemceTelefon":"",
+    "IC":"27082440",
+    "DIC":"CZ27082440",
+    "DodaciAdresaNazev":"Alza.cz a.s. VGP",
+    "DodaciAdresaUlice":"Do Čertous 2759/4",
+    "DodaciAdresaMisto":"Praha 9 - Horní Počernice",
+    "DodaciAdresaPSC":"193 00",
+    "AdresaKoncovehoPrijemceStat":{
+      "KodISO3":"CZE"
+    },
+    "DodaciAdresaFirma":{
+      "FaktStat":{
+        "KodISO3":"CZE"
+      }
+    },
+    "ZpusobPlatby":{
+      "Nazev":"Bankovním převodem",
+      "Kod":"B"
+    },
+    "ZpusobDopravy":null,
+    "SumaCelkemCM":294.0300,
+    "SumaDanCM":51.0300,
+    "Mena":{
+      "Kod":"CZK"
+    },
+    "Poznamka":"",
+    "Polozky":[
+      {
+        "ID": "d43cf42c-71b8-4948-9b54-0d7367080144",
+        "CisloPolozky":1,
+        "Katalog":"AMP04528",
+        "Nazev":"Spigen Aqua Shield WaterProof Floating Case A610 2 Pack, crystal clear",
+        "Mnozstvi":1.0000,
+        "Jednotka":"ks",
+        "JednCenaCM":243.0000,
+        "CelkovaCenaCM":243.0000,
+        "DphCelkemCM":294.0300,
+        "DphSazba":21.0000,
+        "DphDanCM":51.0300,
+        "IPHmotnost":0.0300,
+        "ObsahPolozky":{
+          "Sklad_ID": "stockroom-id",
+          "Artikl":{
+            "Navod_UserData":""
+          },
+          "Sklad":{
+            "Kod":"25"
+          },
+          "Zasoba":{
+            "AktualniStav":{
+              "ID":"06d11089-1b1e-4231-9839-c6c016659c03"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Firma_ID": "738f6320-40e6-425e-b6b4-6807275962fc",
+    "Modify_Date":null,
+    "Create_Date":"2023-06-22T10:24:51.69",
+    "CisloDokladu":"239203",
+    "Nazev":"RMA",
+    "FakturacniAdresaNazev":"Alza.cz a.s.",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev":"",
+    "FakturacniAdresaUlice":"Jankovcova 1522/53",
+    "FakturacniAdresaMisto":"Praha 7",
+    "FakturacniAdresaPSC":"17000",
+    "AdresaPrijemceFakturyStat":{
+      "KodISO3":"CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail":"Ondrej.Egger@alza.cz",
+    "AdresaKoncovehoPrijemceTelefon":"",
+    "IC":"27082440",
+    "DIC":"CZ27082440",
+    "DodaciAdresaNazev":"Alza.cz a.s. VGP",
+    "DodaciAdresaUlice":"Do Čertous 2759/4",
+    "DodaciAdresaMisto":"Praha 9 - Horní Počernice",
+    "DodaciAdresaPSC":"193 00",
+    "AdresaKoncovehoPrijemceStat":{
+      "KodISO3":"CZE"
+    },
+    "DodaciAdresaFirma":{
+      "FaktStat":{
+        "KodISO3":"CZE"
+      }
+    },
+    "ZpusobPlatby":{
+      "Nazev":"Bankovním převodem",
+      "Kod":"B"
+    },
+    "ZpusobDopravy":null,
+    "SumaCelkemCM":8013.5200,
+    "SumaDanCM":1390.7800,
+    "Mena":{
+      "Kod":"CZK"
+    },
+    "Poznamka":"",
+    "Polozky":[
+      {
+        "ID": "d43cf42c-71b8-4948-9b54-0d7367080144",
+        "CisloPolozky":1,
+        "Katalog":"NOC01-EU",
+        "Nazev":"Netatmo Smart Outdoor Camera",
+        "Mnozstvi":1.0000,
+        "Jednotka":"ks",
+        "JednCenaCM":6622.7400,
+        "CelkovaCenaCM":6622.7400,
+        "DphCelkemCM":8013.5200,
+        "DphSazba":21.0000,
+        "DphDanCM":1390.7800,
+        "IPHmotnost":0.1370,
+        "ObsahPolozky":{
+          "Sklad_ID": "stockroom-id",
+          "Artikl":{
+            "Navod_UserData":""
+          },
+          "Sklad":{
+            "Kod":"25"
+          },
+          "Zasoba":{
+            "AktualniStav":{
+              "ID":"5ed0c3f3-f1ad-45eb-81a2-9b78d930b7ff"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Firma_ID": "738f6320-40e6-425e-b6b4-6807275962fx",
+    "Modify_Date":null,
+    "Create_Date":"2023-06-22T10:42:00.00",
+    "CisloDokladu":"239205",
+    "Nazev":"Opravný daňový doklad k fa 2310206",
+    "FakturacniAdresaNazev":"Alza.cz a.s.",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev":"",
+    "FakturacniAdresaUlice":"Jankovcova 1522/53",
+    "FakturacniAdresaMisto":"Praha 7",
+    "FakturacniAdresaPSC":"17000",
+    "AdresaPrijemceFakturyStat":{
+      "KodISO3":"CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail":"Ondrej.Egger@alza.cz",
+    "AdresaKoncovehoPrijemceTelefon":"",
+    "IC":"27082440",
+    "DIC":"CZ27082440",
+    "DodaciAdresaNazev":"Alza.cz a.s. VGP",
+    "DodaciAdresaUlice":"Do Čertous 2759/4",
+    "DodaciAdresaMisto":"Praha 9 - Horní Počernice",
+    "DodaciAdresaPSC":"193 00",
+    "AdresaKoncovehoPrijemceStat":{
+      "KodISO3":"CZE"
+    },
+    "DodaciAdresaFirma":{
+      "FaktStat":{
+        "KodISO3":"CZE"
+      }
+    },
+    "ZpusobPlatby":{
+      "Nazev":"Bankovním převodem",
+      "Kod":"B"
+    },
+    "ZpusobDopravy":null,
+    "SumaCelkemCM":8013.5200,
+    "SumaDanCM":1390.7800,
+    "Mena":{
+      "Kod":"CZK"
+    },
+    "Poznamka":"",
+    "Polozky":[
+      {
+        "ID": "d43cf42c-71b8-4948-9b54-0d7367080144",
+        "CisloPolozky":1,
+        "Katalog":"NOC01-EU",
+        "Nazev":"Netatmo Smart Outdoor Camera",
+        "Mnozstvi":1.0000,
+        "Jednotka":"ks",
+        "JednCenaCM":6622.7400,
+        "CelkovaCenaCM":6622.7400,
+        "DphCelkemCM":8013.5200,
+        "DphSazba":21.0000,
+        "DphDanCM":1390.7800,
+        "IPHmotnost":0.1370,
+        "ObsahPolozky":{
+          "Sklad_ID": "stockroom-id",
+          "Artikl":{
+            "Navod_UserData":""
+          },
+          "Sklad":{
+            "Kod":"01"
+          },
+          "Zasoba":{
+            "AktualniStav":{
+              "ID":"5ed0c3f3-f1ad-45eb-81a2-9b78d930b7ff"
+            }
+          }
+        }
+      }
+    ]
+  }
+]

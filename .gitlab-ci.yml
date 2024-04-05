@@ -1,0 +1,19 @@
+image: registry.gitlab.com/elasticr/docker/elasticr:8.3
+
+before_script:
+    - composer install --no-interaction --no-scripts > /dev/null
+
+static analysis:
+    stage: test
+    script:
+        - composer run-script analysis
+
+coding standards:
+    stage: test
+    script:
+        - composer run-script cs
+
+tests:
+    stage: test
+    script:
+        - composer run-script tests

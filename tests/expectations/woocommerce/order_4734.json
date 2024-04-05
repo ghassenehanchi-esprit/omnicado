@@ -1,0 +1,475 @@
+{
+  "id": 4734,
+  "parent_id": 0,
+  "status": "processing",
+  "currency": "CZK",
+  "version": "7.1.1",
+  "prices_include_tax": true,
+  "date_created": "2022-12-13T07:29:55",
+  "date_modified": "2022-12-13T07:29:55",
+  "discount_total": "0.00",
+  "discount_tax": "0.00",
+  "shipping_total": "0.00",
+  "shipping_tax": "0.00",
+  "cart_tax": "187.00",
+  "total": "1078.00",
+  "total_tax": "187.00",
+  "customer_id": 6,
+  "order_key": "wc_order_D7V1PKwnGp7gV",
+  "billing": {
+    "first_name": "Milan",
+    "last_name": "Resl",
+    "company": "ERGOTEP, družstvo invalidů",
+    "address_1": "Zábořská 93",
+    "address_2": "1234",
+    "city": "Proseč",
+    "state": "",
+    "postcode": "53944",
+    "country": "CZ",
+    "email": "resl.m@ergotep.cz",
+    "phone": "702247341"
+  },
+  "shipping": {
+    "first_name": "Milan",
+    "last_name": "Resl",
+    "company": "ERGOTEP, družstvo invalidů",
+    "address_1": "Zábořská 93",
+    "address_2": "1234",
+    "city": "Proseč",
+    "state": "",
+    "postcode": "53944",
+    "country": "CZ",
+    "phone": ""
+  },
+  "payment_method": "dobirka",
+  "payment_method_title": "Platba na dobírku",
+  "transaction_id": "",
+  "customer_ip_address": "86.61.221.82",
+  "customer_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+  "created_via": "checkout",
+  "customer_note": "",
+  "date_completed": null,
+  "date_paid": "2022-12-13T07:29:55",
+  "cart_hash": "d2c59cfae2cf4839308a41b512a9d747",
+  "number": "4734",
+  "meta_data": [
+    {
+      "id": 59665,
+      "key": "_billing_ic",
+      "value": ""
+    },
+    {
+      "id": 59666,
+      "key": "_billing_dic",
+      "value": ""
+    },
+    {
+      "id": 59667,
+      "key": "_billing_dic_dph",
+      "value": ""
+    },
+    {
+      "id": 59668,
+      "key": "is_vat_exempt",
+      "value": "no"
+    },
+    {
+      "id": 59669,
+      "key": "_cart_weight",
+      "value": "6.455"
+    },
+    {
+      "id": 59670,
+      "key": "_cart_weight_units",
+      "value": "kg"
+    },
+    {
+      "id": 59671,
+      "key": "_cart_weight_kg",
+      "value": "6.455"
+    },
+    {
+      "id": 59672,
+      "key": "_selected_comgate_paymentchannel",
+      "value": "BANK_ALL"
+    },
+    {
+      "id": 59673,
+      "key": "_selected_comgate_bank_paymentchannel",
+      "value": "BANK_ALL"
+    },
+    {
+      "id": 59677,
+      "key": "_ga_tracked",
+      "value": "1"
+    }
+  ],
+  "line_items": [
+    {
+      "id": 75,
+      "name": "Frosch EKO Oase Levandule 90 ml",
+      "product_id": 1883,
+      "variation_id": 0,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "187.52",
+      "subtotal_tax": "39.38",
+      "total": "187.52",
+      "total_tax": "39.38",
+      "taxes": [
+        {
+          "id": 1,
+          "total": "39.379339",
+          "subtotal": "39.379339"
+        }
+      ],
+      "meta_data": [
+        {
+          "id": 576,
+          "key": "EAN",
+          "value": "4001499185519",
+          "display_key": "EAN",
+          "display_value": "4001499185519"
+        },
+        {
+          "id": 654,
+          "key": "_reduced_stock",
+          "value": "1",
+          "display_key": "_reduced_stock",
+          "display_value": "1"
+        }
+      ],
+      "sku": "6768170",
+      "price": 187.52066099999999,
+      "image": {
+        "id": "4713",
+        "src": "https://frosch-eko.cz/wp-content/uploads/2022/12/Frosch-Oase-Levandule.png"
+      },
+      "parent_name": null
+    },
+    {
+      "id": 76,
+      "name": "Frosch EKO Univerzální čistič Levandule 1000 ml",
+      "product_id": 588,
+      "variation_id": 0,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "66.03",
+      "subtotal_tax": "13.87",
+      "total": "66.03",
+      "total_tax": "13.87",
+      "taxes": [
+        {
+          "id": 1,
+          "total": "13.866942",
+          "subtotal": "13.866942"
+        }
+      ],
+      "meta_data": [
+        {
+          "id": 586,
+          "key": "EAN",
+          "value": "4009175924100",
+          "display_key": "EAN",
+          "display_value": "4009175924100"
+        },
+        {
+          "id": 655,
+          "key": "_reduced_stock",
+          "value": "1",
+          "display_key": "_reduced_stock",
+          "display_value": "1"
+        }
+      ],
+      "sku": "6768197",
+      "price": 66.033057999999997,
+      "image": {
+        "id": "4591",
+        "src": "https://frosch-eko.cz/wp-content/uploads/2022/12/4009175924100_Frosch-Univerzalni-cistic-Levandule-EKO-1000ml_6768197.png"
+      },
+      "parent_name": null
+    },
+    {
+      "id": 77,
+      "name": "Frosch EKO Oase Levandule – náhradní náplň 90 ml",
+      "product_id": 1884,
+      "variation_id": 0,
+      "quantity": 2,
+      "tax_class": "",
+      "subtotal": "285.79",
+      "subtotal_tax": "60.01",
+      "total": "285.79",
+      "total_tax": "60.01",
+      "taxes": [
+        {
+          "id": 1,
+          "total": "60.014876",
+          "subtotal": "60.014876"
+        }
+      ],
+      "meta_data": [
+        {
+          "id": 596,
+          "key": "EAN",
+          "value": "4001499914607",
+          "display_key": "EAN",
+          "display_value": "4001499914607"
+        },
+        {
+          "id": 656,
+          "key": "_reduced_stock",
+          "value": "2",
+          "display_key": "_reduced_stock",
+          "display_value": "2"
+        }
+      ],
+      "sku": "6771655",
+      "price": 142.892562,
+      "image": {
+        "id": "4714",
+        "src": "https://frosch-eko.cz/wp-content/uploads/2022/12/Frosch-Oase-Levandule-–-nahradni-napln.png"
+      },
+      "parent_name": null
+    },
+    {
+      "id": 78,
+      "name": "Frosch EKO WC gel Levandule 750 ml",
+      "product_id": 1832,
+      "variation_id": 0,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "70.99",
+      "subtotal_tax": "14.91",
+      "total": "70.99",
+      "total_tax": "14.91",
+      "taxes": [
+        {
+          "id": 1,
+          "total": "14.908264",
+          "subtotal": "14.908264"
+        }
+      ],
+      "meta_data": [
+        {
+          "id": 606,
+          "key": "EAN",
+          "value": "4009175941565",
+          "display_key": "EAN",
+          "display_value": "4009175941565"
+        },
+        {
+          "id": 657,
+          "key": "_reduced_stock",
+          "value": "1",
+          "display_key": "_reduced_stock",
+          "display_value": "1"
+        }
+      ],
+      "sku": "6768171",
+      "price": 70.991736000000003,
+      "image": {
+        "id": "4644",
+        "src": "https://frosch-eko.cz/wp-content/uploads/2022/12/4009175941565_Frosch-WC-gel-Levandule-EKO-750ml_6768171.png"
+      },
+      "parent_name": null
+    },
+    {
+      "id": 79,
+      "name": "Frosch EKO Levandulový hygienický čistič 500 ml",
+      "product_id": 1803,
+      "variation_id": 0,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "89.17",
+      "subtotal_tax": "18.73",
+      "total": "89.17",
+      "total_tax": "18.73",
+      "taxes": [
+        {
+          "id": 1,
+          "total": "18.726446",
+          "subtotal": "18.726446"
+        }
+      ],
+      "meta_data": [
+        {
+          "id": 616,
+          "key": "EAN",
+          "value": "9001531914935",
+          "display_key": "EAN",
+          "display_value": "9001531914935"
+        },
+        {
+          "id": 658,
+          "key": "_reduced_stock",
+          "value": "1",
+          "display_key": "_reduced_stock",
+          "display_value": "1"
+        }
+      ],
+      "sku": "6768179",
+      "price": 89.173553999999996,
+      "image": {
+        "id": "4601",
+        "src": "https://frosch-eko.cz/wp-content/uploads/2022/12/9001531914935_Frosch-Levandulovy-hygienicky-cistic-EKO-500ml_6768179.png"
+      },
+      "parent_name": null
+    },
+    {
+      "id": 80,
+      "name": "Frosch EKO Tekuté mýdlo Levandule – náhradní náplň 500 ml",
+      "product_id": 1871,
+      "variation_id": 0,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "73.47",
+      "subtotal_tax": "15.43",
+      "total": "73.47",
+      "total_tax": "15.43",
+      "taxes": [
+        {
+          "id": 1,
+          "total": "15.428926",
+          "subtotal": "15.428926"
+        }
+      ],
+      "meta_data": [
+        {
+          "id": 626,
+          "key": "EAN",
+          "value": "4001499942051",
+          "display_key": "EAN",
+          "display_value": "4001499942051"
+        },
+        {
+          "id": 659,
+          "key": "_reduced_stock",
+          "value": "1",
+          "display_key": "_reduced_stock",
+          "display_value": "1"
+        }
+      ],
+      "sku": "6768206",
+      "price": 73.471074000000002,
+      "image": {
+        "id": "4698",
+        "src": "https://frosch-eko.cz/wp-content/uploads/2022/12/Frosch-Tekute-mydlo-Levandule-–-nahradni-napln.png"
+      },
+      "parent_name": null
+    },
+    {
+      "id": 81,
+      "name": "Frosch EKO Senses Sprchový gel pánský 3v1 – náhradní náplň 500 ml",
+      "product_id": 1879,
+      "variation_id": 0,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "89.17",
+      "subtotal_tax": "18.73",
+      "total": "89.17",
+      "total_tax": "18.73",
+      "taxes": [
+        {
+          "id": 1,
+          "total": "18.726446",
+          "subtotal": "18.726446"
+        }
+      ],
+      "meta_data": [
+        {
+          "id": 636,
+          "key": "EAN",
+          "value": "4001499956812",
+          "display_key": "EAN",
+          "display_value": "4001499956812"
+        },
+        {
+          "id": 660,
+          "key": "_reduced_stock",
+          "value": "1",
+          "display_key": "_reduced_stock",
+          "display_value": "1"
+        }
+      ],
+      "sku": "6774573",
+      "price": 89.173553999999996,
+      "image": {
+        "id": "4706",
+        "src": "https://frosch-eko.cz/wp-content/uploads/2022/12/Frosch-EKO-Senses-Sprchovy-gel-pansky-3v1-–-nahradni-napln.png"
+      },
+      "parent_name": null
+    }
+  ],
+  "tax_lines": [
+    {
+      "id": 84,
+      "rate_code": "CZ-DPH-1",
+      "rate_id": 1,
+      "label": "DPH",
+      "compound": false,
+      "tax_total": "187.09",
+      "shipping_tax_total": "0.00",
+      "rate_percent": 21,
+      "meta_data": []
+    }
+  ],
+  "shipping_lines": [
+    {
+      "id": 83,
+      "method_title": "DPD Private: Zdarma",
+      "method_id": "dpd_kuryr",
+      "instance_id": "6",
+      "total": "0.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": []
+    }
+  ],
+  "fee_lines": [
+    {
+      "id": 82,
+      "name": "dobirka",
+      "tax_class": "",
+      "tax_status": "taxable",
+      "amount": "29",
+      "total": "29.00",
+      "total_tax": "6.09",
+      "taxes": [
+        {
+          "id": 1,
+          "total": "6.09",
+          "subtotal": ""
+        }
+      ],
+      "meta_data": []
+    }
+  ],
+  "coupon_lines": [],
+  "refunds": [],
+  "payment_url": "https://frosch-eko.cz/pokladna/zaplatit/4734/?pay_for_order=true&key=wc_order_D7V1PKwnGp7gV",
+  "is_editable": false,
+  "needs_payment": false,
+  "needs_processing": true,
+  "date_created_gmt": "2022-12-13T06:29:55",
+  "date_modified_gmt": "2022-12-13T06:29:55",
+  "date_completed_gmt": null,
+  "date_paid_gmt": "2022-12-13T06:29:55",
+  "currency_symbol": "Kč",
+  "_links": {
+    "self": [
+      {
+        "href": "https://frosch-eko.cz/wp-json/wc/v3/orders/4734"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://frosch-eko.cz/wp-json/wc/v3/orders"
+      }
+    ],
+    "customer": [
+      {
+        "href": "https://frosch-eko.cz/wp-json/wc/v3/customers/6"
+      }
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "ID": "e08c2d52-175b-4a4a-9b3a-00fdae5f9cb7",
+  "CisloDokladu": "DV239764",
+  "PriznakVyrizeno": false,
+  "Nazev": "HRADEC -",
+  "FakturacniAdresaNazev": "WESTech CZ s.r.o.",
+  "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+  "FakturacniAdresaUlice": "Keltičkova 1231/31",
+  "FakturacniAdresaMisto": "Slezská Ostrava",
+  "FakturacniAdresaPSC": "710 00",
+  "AdresaPrijemceFakturyStat": {
+    "KodISO3": "CZE"
+  },
+  "AdresaKoncovehoPrijemceEmail": "fakturace@istores.cz",
+  "AdresaKoncovehoPrijemceTelefon": "",
+  "IC": "02396718",
+  "DIC": "CZ02396718",
+  "DodaciAdresaNazev": "iStores Hradec - Aupark Shopping Center",
+  "DodaciAdresaUlice": "Gočárová třída 1754/48a",
+  "DodaciAdresaMisto": "Hradec Králové",
+  "DodaciAdresaPSC": "500 02",
+  "AdresaKoncovehoPrijemceStat": {
+    "KodISO3": "CZE"
+  },
+  "ZpusobPlatby": {
+    "Nazev": "Bankovním převodem",
+    "Kod": "B"
+  },
+  "ZpusobDopravy": {
+    "Nazev": "PPL CZ Business",
+    "Kod": "PPL_CZ_Bus"
+  },
+  "SumaCelkemCM": 2995.8500,
+  "SumaDanCM": 519.9500,
+  "Mena": {
+    "Kod": "CZK"
+  },
+  "Create_Date": "2023-07-24T15:09:50.077",
+  "Poznamka": "",
+  "DodaciAdresaFirma": {
+    "FaktStat": {
+      "KodISO3": "CZE"
+    }
+  },
+  "Polozky": [
+    {
+      "CisloPolozky": 18,
+      "PriznakVyrizeno": false,
+      "Katalog": "PL2A-11-18",
+      "Nazev": "Paperlike Screen Protector 2.1 - iPad Air 10.9\"/ Pro 11\"",
+      "Mnozstvi": 1.0000,
+      "Jednotka": "ks",
+      "DphCelkemCM": 584.4300,
+      "JednCenaCM": 483.0000,
+      "DphSazba": 21.0000,
+      "DphDanCM": 101.4300,
+      "IPHmotnost": 0.0010,
+      "SSCCKod_UserData": "SSCC-1",
+      "ObsahPolozky": {
+        "Artikl": {
+          "Navod_UserData": ""
+        }
+      }
+    },
+    {
+      "CisloPolozky": 17,
+      "PriznakVyrizeno": false,
+      "Katalog": "AGL05556",
+      "Nazev": "Spigen Glass EZ Fit 2 Pack - Apple Watch Ultra 49mm",
+      "Mnozstvi": 1.0000,
+      "Jednotka": "ks",
+      "DphCelkemCM": 262.0600,
+      "JednCenaCM": 216.5800,
+      "DphSazba": 21.0000,
+      "DphDanCM": 45.4800,
+      "IPHmotnost": 0.0500,
+      "SSCCKod_UserData": "SSCC-1",
+      "ObsahPolozky": {
+        "Artikl": {
+          "Navod_UserData": ""
+        }
+      }
+    },
+    {
+      "CisloPolozky": 13,
+      "PriznakVyrizeno": false,
+      "Katalog": "ACS01060",
+      "Nazev": "Spigen Urban Fit, black - iPad 10.2\" 2021/2020/2019",
+      "Mnozstvi": 1.0000,
+      "Jednotka": "ks",
+      "DphCelkemCM": 627.6300,
+      "JednCenaCM": 518.7000,
+      "DphSazba": 21.0000,
+      "DphDanCM": 108.9300,
+      "IPHmotnost": 0.0300,
+      "SSCCKod_UserData": "SSCC-1",
+      "ObsahPolozky": {
+        "Artikl": {
+          "Navod_UserData": ""
+        }
+      }
+    },
+    {
+      "CisloPolozky": 12,
+      "PriznakVyrizeno": false,
+      "Katalog": "ACS01061",
+      "Nazev": "Spigen Urban Fit, rose gold - iPad 10.2\" 2021/2020/2019",
+      "Mnozstvi": 1.0000,
+      "Jednotka": "ks",
+      "DphCelkemCM": 627.6300,
+      "JednCenaCM": 518.7000,
+      "DphSazba": 21.0000,
+      "DphDanCM": 108.9300,
+      "IPHmotnost": 0.0300,
+      "SSCCKod_UserData": "SSCC-1",
+      "ObsahPolozky": {
+        "Artikl": {
+          "Navod_UserData": ""
+        }
+      }
+    },
+    {
+      "CisloPolozky": 11,
+      "PriznakVyrizeno": false,
+      "Katalog": "ACS00427",
+      "Nazev": "Spigen Ultra Hybrid, clear - Apple Watch SE 2022/6/SE/5/4 (40mm)",
+      "Mnozstvi": 1.0000,
+      "Jednotka": "ks",
+      "DphCelkemCM": 218.0200,
+      "JednCenaCM": 180.1800,
+      "DphSazba": 21.0000,
+      "DphDanCM": 37.8400,
+      "IPHmotnost": 0.0300,
+      "SSCCKod_UserData": "SSCC-1",
+      "ObsahPolozky": {
+        "Artikl": {
+          "Navod_UserData": ""
+        }
+      }
+    },
+    {
+      "CisloPolozky": 9,
+      "PriznakVyrizeno": false,
+      "Katalog": "AFL01220",
+      "Nazev": "Spigen Pro Flex EZ Fit 2 Pack - Apple Watch SE 2022/6/SE/5/4 (44 mm)",
+      "Mnozstvi": 1.0000,
+      "Jednotka": "ks",
+      "DphCelkemCM": 676.0800,
+      "JednCenaCM": 279.3700,
+      "DphSazba": 21.0000,
+      "DphDanCM": 117.3400,
+      "IPHmotnost": 0.0020,
+      "SSCCKod_UserData": "SSCC-1",
+      "ObsahPolozky": {
+        "Artikl": {
+          "Navod_UserData": ""
+        }
+      }
+    },
+    {
+      "CisloPolozky": 9,
+      "PriznakVyrizeno": false,
+      "Katalog": "AFL01220",
+      "Nazev": "Spigen Pro Flex EZ Fit 2 Pack - Apple Watch SE 2022/6/SE/5/4 (44 mm)",
+      "Mnozstvi": 1.0000,
+      "Jednotka": "ks",
+      "DphCelkemCM": 676.0800,
+      "JednCenaCM": 279.3700,
+      "DphSazba": 21.0000,
+      "DphDanCM": 117.3400,
+      "IPHmotnost": 0.0020,
+      "SSCCKod_UserData": "SSCC-2",
+      "ObsahPolozky": {
+        "Artikl": {
+          "Navod_UserData": ""
+        }
+      }
+    }
+  ],
+  "System_Priznak": 1
+}

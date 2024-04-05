@@ -1,0 +1,17 @@
+services:
+    _defaults:
+        autowire: true
+        autoconfigure: true
+        public: true
+    _instanceof:
+        Elasticr\ServiceBus\Sap\CommandBus\Contract\SapCommandHandlerContract:
+          tags:
+              - { name: messenger.message_handler, bus: sap.command.bus }
+
+    Elasticr\ServiceBus\Sap\:
+        resource: '../../src/Sap'
+        exclude:
+          - '../../src/Sap/{Entity,ValueObject}'
+          - '../../src/Sap/Client/{Contract,Exception,SapClient.php,ValueObject}'
+
+    Elasticr\ServiceBus\Sap\Client\Contract\SapClientFactoryContract: '@Elasticr\ServiceBus\Sap\Client\Factory\SapClientFactory'

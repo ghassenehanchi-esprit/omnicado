@@ -1,0 +1,290 @@
+[
+  {
+    "ID": "db6f0589-f741-462f-9871-bb873c6f08cd",
+    "Odkaz": "PX231091",
+    "CisloDokladu": "PX231091",
+    "Modify_Date": "2023-07-25T09:47:33.243",
+    "Create_Date": "2023-07-25T09:47:33.243",
+    "TypDokladu": 1,
+    "Sklad": null,
+    "Polozky": [
+      {
+        "Katalog": "D23IPO14BC1BK",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "ObsahPolozky": {
+          "Sklad_ID": "ff30664e-d539-431f-bb50-084700c3a201",
+          "Sklad": {
+            "Kod": "33",
+            "Nazev": "iStyle BG - konsignační sklad"
+          },
+          "Artikl_ID": "f0f24f4e-29a2-4616-bc49-0de38f8c5d5f",
+          "Artikl": {
+            "Katalog": "D23IPO14BC1BK",
+            "Kod": "P12496",
+            "Znacka": "",
+            "Poznamka": ""
+          }
+        }
+      },
+      {
+        "Katalog": "ACS04663",
+        "Mnozstvi": 4.0000,
+        "Jednotka": "ks",
+        "ObsahPolozky": {
+          "Sklad_ID": "ff30664e-d539-431f-bb50-084700c3a201",
+          "Sklad": {
+            "Kod": "33",
+            "Nazev": "iStyle BG - konsignační sklad"
+          },
+          "Artikl_ID": "37f13636-6015-45cb-accf-830ae7716403",
+          "Artikl": {
+            "Katalog": "ACS04663",
+            "Kod": "P12710",
+            "Znacka": "",
+            "Poznamka": ""
+          }
+        }
+      },
+      {
+        "Katalog": "KI1301P",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "ObsahPolozky": {
+          "Sklad_ID": "ff30664e-d539-431f-bb50-084700c3a201",
+          "Sklad": {
+            "Kod": "33",
+            "Nazev": "iStyle BG - konsignační sklad"
+          },
+          "Artikl_ID": "d4f4d9e0-816f-4f49-b6d2-3921d05cb7cc",
+          "Artikl": {
+            "Katalog": "KI1301P",
+            "Kod": "P11212",
+            "Znacka": "",
+            "Poznamka": ""
+          }
+        }
+      },
+      {
+        "Katalog": "D23IPO14PMBC1BK",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "ObsahPolozky": {
+          "Sklad_ID": "ff30664e-d539-431f-bb50-084700c3a201",
+          "Sklad": {
+            "Kod": "33",
+            "Nazev": "iStyle BG - konsignační sklad"
+          },
+          "Artikl_ID": "4b8665bf-ab5c-4e20-aa13-64c16c249310",
+          "Artikl": {
+            "Katalog": "D23IPO14PMBC1BK",
+            "Kod": "P12509",
+            "Znacka": "",
+            "Poznamka": ""
+          }
+        }
+      },
+      {
+        "Katalog": "KI1301PA",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "ObsahPolozky": {
+          "Sklad_ID": "ff30664e-d539-431f-bb50-084700c3a201",
+          "Sklad": {
+            "Kod": "33",
+            "Nazev": "iStyle BG - konsignační sklad"
+          },
+          "Artikl_ID": "56203d3c-5d1d-4003-96c6-8de80a8ebbd3",
+          "Artikl": {
+            "Katalog": "KI1301PA",
+            "Kod": "P11208",
+            "Znacka": "",
+            "Poznamka": ""
+          }
+        }
+      },
+      {
+        "Katalog": "ACS04666",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "ObsahPolozky": {
+          "Sklad_ID": "ff30664e-d539-431f-bb50-084700c3a201",
+          "Sklad": {
+            "Kod": "33",
+            "Nazev": "iStyle BG - konsignační sklad"
+          },
+          "Artikl_ID": "fd7b4486-c1c0-4633-ac04-798c6e991f84",
+          "Artikl": {
+            "Katalog": "ACS04666",
+            "Kod": "P12713",
+            "Znacka": "",
+            "Poznamka": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "ID": "015263f0-ccf2-4d2c-b291-ab8c6330a3a1",
+    "Odkaz": "PX231090",
+    "CisloDokladu": "PX231090",
+    "Modify_Date": "2023-07-25T09:47:33.243",
+    "Create_Date": "2023-07-25T09:47:33.243",
+    "TypDokladu": 1,
+    "Sklad": null,
+    "Polozky": [
+      {
+        "Katalog": "ACS04666",
+        "Mnozstvi": 3.0000,
+        "Jednotka": "ks",
+        "ObsahPolozky": {
+          "Sklad_ID": "ff30664e-d539-431f-bb50-084700c3a201",
+          "Sklad": {
+            "Kod": "33",
+            "Nazev": "iStyle BG - konsignační sklad"
+          },
+          "Artikl_ID": "fd7b4486-c1c0-4633-ac04-798c6e991f84",
+          "Artikl": {
+            "Katalog": "ACS04666",
+            "Kod": "P12713",
+            "Znacka": "",
+            "Poznamka": ""
+          }
+        }
+      },
+      {
+        "Katalog": "KI1401PM",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "ObsahPolozky": {
+          "Sklad_ID": "ff30664e-d539-431f-bb50-084700c3a201",
+          "Sklad": {
+            "Kod": "33",
+            "Nazev": "iStyle BG - konsignační sklad"
+          },
+          "Artikl_ID": "2fccce94-9590-44ab-b8d7-732b6f2092d1",
+          "Artikl": {
+            "Katalog": "KI1401PM",
+            "Kod": "P12737",
+            "Znacka": "",
+            "Poznamka": ""
+          }
+        }
+      },
+      {
+        "Katalog": "ACS03296",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "ObsahPolozky": {
+          "Sklad_ID": "ff30664e-d539-431f-bb50-084700c3a201",
+          "Sklad": {
+            "Kod": "33",
+            "Nazev": "iStyle BG - konsignační sklad"
+          },
+          "Artikl_ID": "0c69e8a5-b545-48cc-8d9b-d56f68dc96eb",
+          "Artikl": {
+            "Katalog": "ACS03296",
+            "Kod": "P10885",
+            "Znacka": "",
+            "Poznamka": ""
+          }
+        }
+      },
+      {
+        "Katalog": "ACS04663",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "ObsahPolozky": {
+          "Sklad_ID": "ff30664e-d539-431f-bb50-084700c3a201",
+          "Sklad": {
+            "Kod": "33",
+            "Nazev": "iStyle BG - konsignační sklad"
+          },
+          "Artikl_ID": "37f13636-6015-45cb-accf-830ae7716403",
+          "Artikl": {
+            "Katalog": "ACS04663",
+            "Kod": "P12710",
+            "Znacka": "",
+            "Poznamka": ""
+          }
+        }
+      },
+      {
+        "Katalog": "ACS03561",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "ObsahPolozky": {
+          "Sklad_ID": "ff30664e-d539-431f-bb50-084700c3a201",
+          "Sklad": {
+            "Kod": "33",
+            "Nazev": "iStyle BG - konsignační sklad"
+          },
+          "Artikl_ID": "fb439a7e-f75a-482c-83c8-4b31b7c27fb5",
+          "Artikl": {
+            "Katalog": "ACS03561",
+            "Kod": "P10903",
+            "Znacka": "",
+            "Poznamka": ""
+          }
+        }
+      },
+      {
+        "Katalog": "114054114040",
+        "Mnozstvi": 3.0000,
+        "Jednotka": "ks",
+        "ObsahPolozky": {
+          "Sklad_ID": "ff30664e-d539-431f-bb50-084700c3a201",
+          "Sklad": {
+            "Kod": "33",
+            "Nazev": "iStyle BG - konsignační sklad"
+          },
+          "Artikl_ID": "b4afa550-ee9b-4dec-aea9-cd5dfe74a6ea",
+          "Artikl": {
+            "Katalog": "114054114040",
+            "Kod": "P12356",
+            "Znacka": "",
+            "Poznamka": ""
+          }
+        }
+      },
+      {
+        "Katalog": "D23IPO14PBC1BK",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "ObsahPolozky": {
+          "Sklad_ID": "ff30664e-d539-431f-bb50-084700c3a201",
+          "Sklad": {
+            "Kod": "33",
+            "Nazev": "iStyle BG - konsignační sklad"
+          },
+          "Artikl_ID": "2db2d9bd-dbb2-4d6a-879b-be2a5ad21cfc",
+          "Artikl": {
+            "Katalog": "D23IPO14PBC1BK",
+            "Kod": "P12501",
+            "Znacka": "",
+            "Poznamka": ""
+          }
+        }
+      },
+      {
+        "Katalog": "11316D114040",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "ObsahPolozky": {
+          "Sklad_ID": "ff30664e-d539-431f-bb50-084700c3a201",
+          "Sklad": {
+            "Kod": "33",
+            "Nazev": "iStyle BG - konsignační sklad"
+          },
+          "Artikl_ID": "f639c392-e873-4b00-8c1f-bc5fca7b8ede",
+          "Artikl": {
+            "Katalog": "11316D114040",
+            "Kod": "P10685",
+            "Znacka": "",
+            "Poznamka": ""
+          }
+        }
+      }
+    ]
+  }
+]

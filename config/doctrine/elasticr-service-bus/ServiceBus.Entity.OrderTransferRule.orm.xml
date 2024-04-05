@@ -1,0 +1,14 @@
+<doctrine-mapping xmlns="http://doctrine-project.org/schemas/orm/doctrine-mapping"
+                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                  xsi:schemaLocation="http://doctrine-project.org/schemas/orm/doctrine-mapping
+                   https://raw.github.com/doctrine/doctrine2/master/doctrine-mapping.xsd">
+    <entity name="Elasticr\ServiceBus\ServiceBus\Entity\OrderTransferRule" table="elasticr_service_bus_order_transfer_rule">
+        <id name="id" type="integer" column="id">
+            <generator strategy="AUTO"/>
+        </id>
+        <field name="customerId" type="integer"/>
+        <field name="status"/>
+        <field name="payment" nullable="true"/>
+        <field name="paymentStatus" nullable="true" />
+    </entity>
+</doctrine-mapping>

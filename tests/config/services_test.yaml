@@ -1,0 +1,12 @@
+services:
+  _defaults:
+    autowire: true
+    autoconfigure: true
+    public: true
+
+  Tests\Elasticr\ServiceBus\App\:
+    resource: '../App'
+
+  Symfony\Component\Security\Core\Authentication\Token\Storage\TokenStorage: ~
+  Symfony\Component\Security\Core\Authentication\Token\Storage\TokenStorageInterface: '@Symfony\Component\Security\Core\Authentication\Token\Storage\TokenStorage'
+  Elasticr\Support\Doctrine\Migrations\Version\ShortClassAlphabeticalComparator: ~

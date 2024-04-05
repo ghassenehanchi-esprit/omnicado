@@ -1,0 +1,85 @@
+{
+  "ID": "e08c2d52-175b-4a4a-9b3a-00fdae5f9cb7",
+  "CisloDokladu": "DV239764",
+  "PriznakVyrizeno": false,
+  "Nazev": "HRADEC -",
+  "FakturacniAdresaNazev": "WESTech CZ s.r.o.",
+  "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+  "FakturacniAdresaUlice": "Keltičkova 1231/31",
+  "FakturacniAdresaMisto": "Slezská Ostrava",
+  "FakturacniAdresaPSC": "710 00",
+  "AdresaPrijemceFakturyStat": {
+    "KodISO3": "CZE"
+  },
+  "AdresaKoncovehoPrijemceEmail": "fakturace@istores.cz",
+  "AdresaKoncovehoPrijemceTelefon": "",
+  "IC": "02396718",
+  "DIC": "CZ02396718",
+  "DodaciAdresaNazev": "iStores Hradec - Aupark Shopping Center",
+  "DodaciAdresaUlice": "Gočárová třída 1754/48a",
+  "DodaciAdresaMisto": "Hradec Králové",
+  "DodaciAdresaPSC": "500 02",
+  "AdresaKoncovehoPrijemceStat": {
+    "KodISO3": "CZE"
+  },
+  "ZpusobPlatby": {
+    "Nazev": "Bankovním převodem",
+    "Kod": "B"
+  },
+  "ZpusobDopravy": {
+    "Nazev": "PPL CZ Business",
+    "Kod": "PPL_CZ_Bus"
+  },
+  "SumaCelkemCM": 2995.8500,
+  "SumaDanCM": 519.9500,
+  "Mena": {
+    "Kod": "CZK"
+  },
+  "Create_Date": "2023-07-24T15:09:50.077",
+  "Poznamka": "",
+  "DodaciAdresaFirma": {
+    "FaktStat": {
+      "KodISO3": "CZE"
+    }
+  },
+  "Polozky": [
+    {
+      "CisloPolozky": 9,
+      "PriznakVyrizeno": false,
+      "Katalog": "AFL01220",
+      "Nazev": "Spigen Pro Flex EZ Fit 2 Pack - Apple Watch SE 2022/6/SE/5/4 (44 mm)",
+      "Mnozstvi": 1.0000,
+      "Jednotka": "ks",
+      "DphCelkemCM": 676.0800,
+      "JednCenaCM": 279.3700,
+      "DphSazba": 21.0000,
+      "DphDanCM": 117.3400,
+      "IPHmotnost": 0.0020,
+      "SSCCKod_UserData": "",
+      "ObsahPolozky": {
+        "Artikl": {
+          "Navod_UserData": ""
+        }
+      }
+    },
+    {
+      "CisloPolozky": 9,
+      "PriznakVyrizeno": false,
+      "Katalog": "AFL01220",
+      "Nazev": "Spigen Pro Flex EZ Fit 2 Pack - Apple Watch SE 2022/6/SE/5/4 (44 mm)",
+      "Mnozstvi": 1.0000,
+      "Jednotka": "ks",
+      "DphCelkemCM": 676.0800,
+      "JednCenaCM": 279.3700,
+      "DphSazba": 21.0000,
+      "DphDanCM": 117.3400,
+      "IPHmotnost": 0.0020,
+      "SSCCKod_UserData": "",
+      "ObsahPolozky": {
+        "Artikl": {
+          "Navod_UserData": ""
+        }
+      }
+    }
+  ]
+}

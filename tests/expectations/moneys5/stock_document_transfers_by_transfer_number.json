@@ -1,0 +1,100 @@
+{
+  "PX231072": [
+    {
+      "ID": "4c8598cd-f30c-4a38-a197-2e71f0582076",
+      "Odkaz": "PX231072",
+      "CisloDokladu": "VJ232115",
+      "Modify_Date": "2023-07-25T09:47:33.243",
+      "TypDokladu": 2,
+      "Sklad": null,
+      "Polozky": [
+        {
+          "Katalog": "NAV-EN",
+          "Mnozstvi": 2.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavn\u00ed sklad"
+            },
+            "Artikl_ID": "54b76779-a413-4763-9b9f-9941bf547d16",
+            "Artikl": {
+              "Katalog": "NAV-EN",
+              "Kod": "P03851",
+              "Znacka": "",
+              "Poznamka": " Z toho p\u0159\u00edsp\u011bvek na recyklaci bez DPH za m.j.: 1,10 K\u010d"
+            }
+          }
+        },
+        {
+          "Katalog": "NOC-S-EC",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "3400ab52-75dc-4ca4-9af1-543a20b925df",
+            "Sklad": {
+              "Kod": "01",
+              "Nazev": "Hlavn\u00ed sklad"
+            },
+            "Artikl_ID": "55fd468b-1c48-4571-9a3a-9471171412b0",
+            "Artikl": {
+              "Katalog": "NOC-S-EC",
+              "Kod": "P08487",
+              "Znacka": "",
+              "Poznamka": " Z toho p\u0159\u00edsp\u011bvek na recyklaci bez DPH za m.j.: 12,00 K\u010d"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "ID": "8bd4174d-2bac-4b9e-96bd-a49a791f31fc",
+      "Odkaz": "PX231072",
+      "CisloDokladu": "PJ231701",
+      "Modify_Date": "2023-07-25T09:47:34.31",
+      "TypDokladu": 1,
+      "Sklad": null,
+      "Polozky": [
+        {
+          "Katalog": "NAV-EN",
+          "Mnozstvi": 2.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "b65cd9bb-a804-4197-bbe0-5d55a43979fe",
+            "Sklad": {
+              "Kod": "25",
+              "Nazev": "RMA - likvidace"
+            },
+            "Artikl_ID": "54b76779-a413-4763-9b9f-9941bf547d16",
+            "Artikl": {
+              "Katalog": "NAV-EN",
+              "Kod": "P03851",
+              "Znacka": "",
+              "Poznamka": " Z toho p\u0159\u00edsp\u011bvek na recyklaci bez DPH za m.j.: 1,10 K\u010d"
+            }
+          }
+        },
+        {
+          "Katalog": "NOC-S-EC",
+          "Mnozstvi": 1.0000,
+          "Jednotka": "ks",
+          "ObsahPolozky": {
+            "Sklad_ID": "b65cd9bb-a804-4197-bbe0-5d55a43979fe",
+            "Sklad": {
+              "Kod": "25",
+              "Nazev": "RMA - likvidace"
+            },
+            "Artikl_ID": "55fd468b-1c48-4571-9a3a-9471171412b0",
+            "Artikl": {
+              "Katalog": "NOC-S-EC",
+              "Kod": "P08487",
+              "Znacka": "",
+              "Poznamka": " Z toho p\u0159\u00edsp\u011bvek na recyklaci bez DPH za m.j.: 12,00 K\u010d"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

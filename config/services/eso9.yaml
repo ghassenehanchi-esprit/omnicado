@@ -1,0 +1,28 @@
+parameters:
+    eso_db_host: '%env(resolve:ESO_DATABASE_HOST)%'
+    eso_db_name: '%env(resolve:ESO_DATABASE_NAME)%'
+    eso_db_user: '%env(resolve:ESO_DATABASE_USER)%'
+    eso_db_password: '%env(resolve:ESO_DATABASE_PASSWORD)%'
+
+services:
+    _defaults:
+        autowire: true
+        autoconfigure: true
+        public: true
+        bind:
+          $host: '%eso_db_host%'
+          $databaseName: '%eso_db_name%'
+          $user: '%eso_db_user%'
+          $password: '%eso_db_password%'
+    _instanceof:
+        Elasticr\ServiceBus\Eso9\CommandBus\Contract\Eso9CommandHandlerContract:
+          tags:
+              - { name: messenger.message_handler, bus: eso9.command.bus }
+
+    Elasticr\ServiceBus\Eso9\:
+        resource: '../../src/Eso9'
+        exclude:
+          - '../../src/Eso9/{Entity,ValueObject}'
+          - '../../src/Eso9/Client/{Contract,Exception,Eso9Client.php,ValueObject}'
+
+    Elasticr\ServiceBus\Eso9\Client\Contract\Eso9ClientFactoryContract: '@Elasticr\ServiceBus\Eso9\Client\Eso9ClientFactory'

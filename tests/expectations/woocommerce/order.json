@@ -1,0 +1,368 @@
+{
+  "id": 4486,
+  "parent_id": 0,
+  "status": "processing",
+  "currency": "CZK",
+  "version": "7.1.0",
+  "prices_include_tax": true,
+  "date_created": "2022-12-02T08:25:49",
+  "date_modified": "2022-12-05T14:34:26",
+  "discount_total": "78.51",
+  "discount_tax": "16.49",
+  "shipping_total": "60.00",
+  "shipping_tax": "13.00",
+  "cart_tax": "49.00",
+  "total": "357.00",
+  "total_tax": "62.00",
+  "customer_id": 6,
+  "order_key": "wc_order_PwrQxc52BanI9",
+  "billing": {
+    "first_name": "Test",
+    "last_name": "Test",
+    "company": "",
+    "address_1": "test",
+    "address_2": "1234",
+    "city": "test",
+    "state": "",
+    "postcode": "10000",
+    "country": "CZ",
+    "email": "test@test.cz",
+    "phone": "+420 1234567"
+  },
+  "shipping": {
+    "first_name": "Test",
+    "last_name": "Test",
+    "company": "",
+    "address_1": "test",
+    "address_2": "1234",
+    "city": "test",
+    "state": "",
+    "postcode": "10000",
+    "country": "CZ",
+    "phone": ""
+  },
+  "payment_method": "comgate",
+  "payment_method_title": "Comgate platební karta",
+  "transaction_id": "",
+  "customer_ip_address": "93.157.135.39",
+  "customer_user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36",
+  "created_via": "checkout",
+  "customer_note": "",
+  "date_completed": null,
+  "date_paid": "2022-12-02T08:26:03",
+  "cart_hash": "f23fb1dc1eb8750c1f3994c635829ffd",
+  "number": "4486",
+  "meta_data": [
+    {
+      "id": 57772,
+      "key": "_billing_ic",
+      "value": "45535663"
+    },
+    {
+      "id": 57773,
+      "key": "_billing_dic",
+      "value": "CZ45535663"
+    },
+    {
+      "id": 57321,
+      "key": "is_vat_exempt",
+      "value": "no"
+    },
+    {
+      "id": 57322,
+      "key": "_cart_weight",
+      "value": "0.3"
+    },
+    {
+      "id": 57323,
+      "key": "_cart_weight_units",
+      "value": "kg"
+    },
+    {
+      "id": 57324,
+      "key": "_cart_weight_kg",
+      "value": "0.3"
+    },
+    {
+      "id": 57325,
+      "key": "_selected_comgate_paymentchannel",
+      "value": "BANK_ALL"
+    },
+    {
+      "id": 57326,
+      "key": "_selected_comgate_bank_paymentchannel",
+      "value": "BANK_ALL"
+    },
+    {
+      "id": 57327,
+      "key": "comgate_order_currency",
+      "value": "CZK"
+    },
+    {
+      "id": 57328,
+      "key": "comgate_order_lang",
+      "value": "cs"
+    },
+    {
+      "id": 57329,
+      "key": "comgate_price",
+      "value": "357"
+    },
+    {
+      "id": 57330,
+      "key": "comgate_refid_before",
+      "value": "4486|4486|4486"
+    },
+    {
+      "id": 57331,
+      "key": "comgate_order_compatibility_id",
+      "value": "4486"
+    },
+    {
+      "id": 57332,
+      "key": "comgate_lang",
+      "value": "cs"
+    },
+    {
+      "id": 57333,
+      "key": "comgate_currency",
+      "value": "CZK"
+    },
+    {
+      "id": 57334,
+      "key": "comgate_transaction_id",
+      "value": "LCUQ-Q61U-5ADM"
+    },
+    {
+      "id": 57335,
+      "key": "comgate_is_recurring",
+      "value": "0"
+    },
+    {
+      "id": 57336,
+      "key": "comgate_is_recurring_init_free",
+      "value": "0"
+    },
+    {
+      "id": 57337,
+      "key": "comgate_method",
+      "value": "LATER_TWISTO"
+    },
+    {
+      "id": 57338,
+      "key": "comgate_status",
+      "value": "PAID"
+    },
+    {
+      "id": 57339,
+      "key": "comgate_trans_id",
+      "value": "LCUQ-Q61U-5ADM"
+    },
+    {
+      "id": 57340,
+      "key": "_comgate_merchant",
+      "value": "467044"
+    },
+    {
+      "id": 57341,
+      "key": "_comgate_refId",
+      "value": "4486"
+    }
+  ],
+  "line_items": [
+    {
+      "id": 49,
+      "name": "Frosch EKO dárková sada Oase Pomeranč",
+      "product_id": 4271,
+      "variation_id": 0,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "313.97",
+      "subtotal_tax": "65.93",
+      "total": "235.45",
+      "total_tax": "49.45",
+      "taxes": [
+        {
+          "id": 1,
+          "total": "49.445455",
+          "subtotal": "65.933058"
+        }
+      ],
+      "meta_data": [
+        {
+          "id": 395,
+          "key": "EAN",
+          "value": "8594059391988",
+          "display_key": "EAN",
+          "display_value": "8594059391988"
+        },
+        {
+          "id": 410,
+          "key": "_reduced_stock",
+          "value": "1",
+          "display_key": "_reduced_stock",
+          "display_value": "1"
+        }
+      ],
+      "sku": "6779290",
+      "price": 235.454545,
+      "image": {
+        "id": "4727",
+        "src": "https://frosch-eko.cz/wp-content/uploads/2022/12/Frosh_darkove-baleni_ORANGE_front_01.png"
+      },
+      "parent_name": null
+    }
+  ],
+  "tax_lines": [
+    {
+      "id": 51,
+      "rate_code": "CZ-ZáKLADNí-1",
+      "rate_id": 1,
+      "label": "Základní",
+      "compound": false,
+      "tax_total": "49.00",
+      "shipping_tax_total": "13.00",
+      "rate_percent": 21,
+      "meta_data": []
+    }
+  ],
+  "shipping_lines": [
+    {
+      "id": 50,
+      "method_title": "Česká pošta - Balík do ruky do 30 Kg",
+      "method_id": "toret_tcp_doruky",
+      "instance_id": "2",
+      "total": "60.00",
+      "total_tax": "12.60",
+      "taxes": [
+        {
+          "id": 1,
+          "total": "12.6",
+          "subtotal": ""
+        }
+      ],
+      "meta_data": []
+    }
+  ],
+  "fee_lines": [],
+  "coupon_lines": [
+    {
+      "id": 52,
+      "code": "zabunato",
+      "discount": "79",
+      "discount_tax": "16",
+      "meta_data": [
+        {
+          "id": 409,
+          "key": "coupon_data",
+          "value": {
+            "id": 4311,
+            "code": "zabunato",
+            "amount": "25",
+            "status": "publish",
+            "date_created": {
+              "date": "2022-10-13 11:53:23.000000",
+              "timezone_type": 3,
+              "timezone": "Europe/Prague"
+            },
+            "date_modified": {
+              "date": "2022-10-13 11:53:23.000000",
+              "timezone_type": 3,
+              "timezone": "Europe/Prague"
+            },
+            "date_expires": {
+              "date": "2023-12-31 00:00:00.000000",
+              "timezone_type": 3,
+              "timezone": "Europe/Prague"
+            },
+            "discount_type": "percent",
+            "description": "",
+            "usage_count": 2,
+            "individual_use": false,
+            "product_ids": [],
+            "excluded_product_ids": [],
+            "usage_limit": 0,
+            "usage_limit_per_user": 0,
+            "limit_usage_to_x_items": null,
+            "free_shipping": false,
+            "product_categories": [],
+            "excluded_product_categories": [],
+            "exclude_sale_items": false,
+            "minimum_amount": "",
+            "maximum_amount": "",
+            "email_restrictions": [],
+            "virtual": false,
+            "meta_data": []
+          },
+          "display_key": "coupon_data",
+          "display_value": {
+            "id": 4311,
+            "code": "zabunato",
+            "amount": "25",
+            "status": "publish",
+            "date_created": {
+              "date": "2022-10-13 11:53:23.000000",
+              "timezone_type": 3,
+              "timezone": "Europe/Prague"
+            },
+            "date_modified": {
+              "date": "2022-10-13 11:53:23.000000",
+              "timezone_type": 3,
+              "timezone": "Europe/Prague"
+            },
+            "date_expires": {
+              "date": "2023-12-31 00:00:00.000000",
+              "timezone_type": 3,
+              "timezone": "Europe/Prague"
+            },
+            "discount_type": "percent",
+            "description": "",
+            "usage_count": 2,
+            "individual_use": false,
+            "product_ids": [],
+            "excluded_product_ids": [],
+            "usage_limit": 0,
+            "usage_limit_per_user": 0,
+            "limit_usage_to_x_items": null,
+            "free_shipping": false,
+            "product_categories": [],
+            "excluded_product_categories": [],
+            "exclude_sale_items": false,
+            "minimum_amount": "",
+            "maximum_amount": "",
+            "email_restrictions": [],
+            "virtual": false,
+            "meta_data": []
+          }
+        }
+      ]
+    }
+  ],
+  "refunds": [],
+  "payment_url": "https://frosch-eko.cz/pokladna/zaplatit/4486/?pay_for_order=true&key=wc_order_PwrQxc52BanI9",
+  "is_editable": false,
+  "needs_payment": true,
+  "needs_processing": true,
+  "date_created_gmt": "2022-12-02T07:25:49",
+  "date_modified_gmt": "2022-12-05T13:34:26",
+  "date_completed_gmt": null,
+  "date_paid_gmt": "2022-12-02T07:26:03",
+  "currency_symbol": "Kč",
+  "_links": {
+    "self": [
+      {
+        "href": "https://frosch-eko.cz/wp-json/wc/v3/orders/4486"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://frosch-eko.cz/wp-json/wc/v3/orders"
+      }
+    ],
+    "customer": [
+      {
+        "href": "https://frosch-eko.cz/wp-json/wc/v3/customers/6"
+      }
+    ]
+  }
+}

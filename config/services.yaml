@@ -1,0 +1,17 @@
+imports:
+  - { resource: services/eso9.yaml }
+  - { resource: services/flexibee.yaml }
+  - { resource: services/service_bus.yaml }
+  - { resource: services/shoptet.yaml }
+  - { resource: services/moneys5.yaml }
+  - { resource: services/woocommerce.yaml }
+  - { resource: services/sap.yaml }
+  - { resource: services/support.yaml }
+  - { resource: services/logger.yaml }
+  - { resource: services/orion.yaml }
+
+services:
+  _defaults:
+    autowire: true
+    autoconfigure: true
+    public: true

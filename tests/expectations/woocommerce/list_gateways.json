@@ -1,0 +1,489 @@
+[
+  {
+    "id": "comgatebank",
+    "title": "Comgate platba převodem",
+    "description": "Zaplaťte převodem na bankovní účet.",
+    "order": 0,
+    "enabled": true,
+    "method_title": "",
+    "method_description": "",
+    "method_supports": [
+      "products",
+      "pre-orders"
+    ],
+    "settings": {
+      "title": {
+        "id": "title",
+        "label": "Titulek:",
+        "description": "Název platební metody. Zobrazí se při výběru platební metody.",
+        "type": "text",
+        "value": "Comgate platba převodem",
+        "default": "Comgate platba převodem",
+        "tip": "Název platební metody. Zobrazí se při výběru platební metody.",
+        "placeholder": ""
+      },
+      "icon": {
+        "id": "icon",
+        "label": "Ikona platební metody:",
+        "description": "Url ikony zobrazené při výběru platební metody.",
+        "type": "text",
+        "value": "",
+        "default": "",
+        "tip": "Url ikony zobrazené při výběru platební metody.",
+        "placeholder": ""
+      },
+      "merchant": {
+        "id": "merchant",
+        "label": "Id obchodu",
+        "description": "Identifikátor propojení obchodu.",
+        "type": "text",
+        "value": "467044",
+        "default": "",
+        "tip": "Identifikátor propojení obchodu.",
+        "placeholder": ""
+      },
+      "secure_key": {
+        "id": "secure_key",
+        "label": "Secure key",
+        "description": "Secure key e-shopu, které vám bylo přiděleno.",
+        "type": "text",
+        "value": "kuDzFXxo3xYWTlnyix35joz277Cd5Xyt",
+        "default": "",
+        "tip": "Secure key e-shopu, které vám bylo přiděleno.",
+        "placeholder": ""
+      },
+      "test": {
+        "id": "test",
+        "label": "Test mód",
+        "description": "Aktivace/deaktivace testovacího prostředí ComGate.",
+        "type": "checkbox",
+        "value": "yes",
+        "default": "yes",
+        "tip": "Aktivace/deaktivace testovacího prostředí ComGate.",
+        "placeholder": ""
+      },
+      "enable_comgate_methods": {
+        "id": "enable_comgate_methods",
+        "label": "Povolit Comgate platební metody",
+        "description": "Vyberte, které platební metody budou dostupné.",
+        "type": "multiselect",
+        "value": [
+          "BANK_ALL",
+          "BANK_CZ_CS_PSD2",
+          "BANK_CZ_CSOB_PSD2",
+          "BANK_CZ_EB",
+          "BANK_CZ_FB_P",
+          "BANK_CZ_KB",
+          "BANK_CZ_MB_P",
+          "BANK_CZ_RB",
+          "BANK_CZ_UC",
+          "BANK_CZ_OTHER"
+        ],
+        "default": "",
+        "tip": "Vyberte, které platební metody budou dostupné.",
+        "placeholder": "",
+        "options": {
+          "BANK_ALL": "Bankovní platby",
+          "LATER_TWISTO": "Twisto",
+          "LATER_MALLPAY": "Skip Pay",
+          "LATER_PLATIMPAK": "PlatímPak",
+          "PART_TWISTO": "Twisto Nákup na třetiny",
+          "PART_SKIPPAY": "Skip Pay nákup na třetiny",
+          "BANK_CZ_CS_PSD2": "Česká spořitelna",
+          "BANK_CZ_CSOB_PSD2": "Československá obchodní banka",
+          "BANK_CZ_FB_P": "Fio banka",
+          "BANK_CZ_KB_PSD2": "Komerční banka",
+          "BANK_CZ_MB_P": "mBank",
+          "BANK_CZ_RB": "Raiffeisenbank",
+          "BANK_CZ_UC": "UniCredit Bank",
+          "BANK_CZ_OTHER": "Ostatní banky"
+        }
+      },
+      "enable_for_methods": {
+        "id": "enable_for_methods",
+        "label": "Povolit způsob dopravy",
+        "description": "Pro povolení všech způsobů dopravy, zanechte pole prázdné.",
+        "type": "multiselect",
+        "value": "",
+        "default": "",
+        "tip": "Pro povolení všech způsobů dopravy, zanechte pole prázdné.",
+        "placeholder": "",
+        "options": {
+          "zasilkovna": "Packeta"
+        }
+      },
+      "enable_countries": {
+        "id": "enable_countries",
+        "label": "Povolit ComGate pro země",
+        "description": "Vyberte, pro které země bude GoPay dostupná.",
+        "type": "multiselect",
+        "value": "",
+        "default": "",
+        "tip": "Vyberte, pro které země bude GoPay dostupná.",
+        "placeholder": "",
+        "options": {
+          "CZ": "Česká republika"
+        }
+      },
+      "product_category": {
+        "id": "product_category",
+        "label": "Druh zboží",
+        "description": "Vyberte, druh zboží, jenž máte povolené v Comgate.",
+        "type": "select",
+        "value": "PHYSICAL",
+        "default": "PHYSICAL",
+        "tip": "Vyberte, druh zboží, jenž máte povolené v Comgate.",
+        "placeholder": "",
+        "options": {
+          "DIGITAL": "Digitální zboží",
+          "PHYSICAL": "Fyzické zboží"
+        }
+      },
+      "showico": {
+        "id": "showico",
+        "label": "Nezobrazovat ikony",
+        "description": "V pokladně skryje loga jednotlivých bank a dalších platebních metod.",
+        "type": "checkbox",
+        "value": "no",
+        "default": "",
+        "tip": "V pokladně skryje loga jednotlivých bank a dalších platebních metod.",
+        "placeholder": ""
+      }
+    },
+    "needs_setup": false,
+    "post_install_scripts": [],
+    "settings_url": "https://dev.frosch-eko.cz/wp-admin/admin.php?page=wc-settings&tab=checkout&section=comgatebank",
+    "connection_url": null,
+    "setup_help_text": null,
+    "required_settings_keys": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dev.frosch-eko.cz/wp-json/wc/v3/payment_gateways/comgatebank"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dev.frosch-eko.cz/wp-json/wc/v3/payment_gateways"
+        }
+      ]
+    }
+  },
+  {
+    "id": "comgate",
+    "title": "Comgate platební karta",
+    "description": "Zaplaťte kreditní kartou.",
+    "order": 1,
+    "enabled": true,
+    "method_title": "",
+    "method_description": "",
+    "method_supports": [
+      "products",
+      "pre-orders"
+    ],
+    "settings": {
+      "title": {
+        "id": "title",
+        "label": "Titulek:",
+        "description": "Název platební metody. Zobrazí se při výběru platební metody.",
+        "type": "text",
+        "value": "Comgate platební karta",
+        "default": "Comgate platební karta",
+        "tip": "Název platební metody. Zobrazí se při výběru platební metody.",
+        "placeholder": ""
+      },
+      "icon": {
+        "id": "icon",
+        "label": "Ikona platební metody:",
+        "description": "Url ikony zobrazené při výběru platební metody.",
+        "type": "text",
+        "value": "",
+        "default": "",
+        "tip": "Url ikony zobrazené při výběru platební metody.",
+        "placeholder": ""
+      },
+      "merchant": {
+        "id": "merchant",
+        "label": "Id obchodu",
+        "description": "Identifikátor propojení obchodu.",
+        "type": "text",
+        "value": "467044",
+        "default": "",
+        "tip": "Identifikátor propojení obchodu.",
+        "placeholder": ""
+      },
+      "secure_key": {
+        "id": "secure_key",
+        "label": "Secure key",
+        "description": "Secure key e-shopu, které vám bylo přiděleno.",
+        "type": "text",
+        "value": "kuDzFXxo3xYWTlnyix35joz277Cd5Xyt",
+        "default": "",
+        "tip": "Secure key e-shopu, které vám bylo přiděleno.",
+        "placeholder": ""
+      },
+      "test": {
+        "id": "test",
+        "label": "Test mód",
+        "description": "Aktivace/deaktivace testovacího prostředí Comgate.",
+        "type": "checkbox",
+        "value": "yes",
+        "default": "yes",
+        "tip": "Aktivace/deaktivace testovacího prostředí Comgate.",
+        "placeholder": ""
+      },
+      "enable_comgate_methods": {
+        "id": "enable_comgate_methods",
+        "label": "Povolit Comgate platební metody",
+        "description": "Vyberte, které platební metody budou dostupné.",
+        "type": "multiselect",
+        "value": [
+          "CARD_ALL",
+          "BANK_ALL",
+          "CARD_CZ_CSOB_2",
+          "BANK_CZ_CS_PSD2",
+          "BANK_CZ_CSOB_PSD2",
+          "BANK_CZ_EB",
+          "BANK_CZ_FB_P",
+          "BANK_CZ_KB",
+          "BANK_CZ_MB_P",
+          "BANK_CZ_RB",
+          "BANK_CZ_UC",
+          "BANK_CZ_OTHER"
+        ],
+        "default": "",
+        "tip": "Vyberte, které platební metody budou dostupné.",
+        "placeholder": "",
+        "options": {
+          "CARD_ALL": "Platební karta",
+          "BANK_ALL": "Bankovní platby",
+          "LATER_ALL": "Odložené platby",
+          "LOAN_ALL": "Platba na splátky",
+          "CARD_CZ_CSOB_2": "Platební karta",
+          "LATER_TWISTO": "Twisto",
+          "LATER_MALLPAY": "Skip Pay",
+          "LATER_PLATIMPAK": "PlatímPak",
+          "PART_TWISTO": "Twisto Nákup na třetiny",
+          "PART_SKIPPAY": "Skip Pay nákup na třetiny",
+          "BANK_CZ_CS_PSD2": "Česká spořitelna",
+          "BANK_CZ_CSOB_PSD2": "Československá obchodní banka",
+          "BANK_CZ_FB_P": "Fio banka",
+          "BANK_CZ_KB_PSD2": "Komerční banka",
+          "BANK_CZ_MB_P": "mBank",
+          "BANK_CZ_RB": "Raiffeisenbank",
+          "BANK_CZ_UC": "UniCredit Bank",
+          "BANK_CZ_OTHER": "Ostatní banky"
+        }
+      },
+      "enable_for_methods": {
+        "id": "enable_for_methods",
+        "label": "Povolit způsob dopravy",
+        "description": "Pro povolení všech způsobů dopravy, zanechte pole prázdné.",
+        "type": "multiselect",
+        "value": "",
+        "default": "",
+        "tip": "Pro povolení všech způsobů dopravy, zanechte pole prázdné.",
+        "placeholder": "",
+        "options": {
+          "zasilkovna": "Packeta"
+        }
+      },
+      "enable_countries": {
+        "id": "enable_countries",
+        "label": "Povolit ComGate pro země",
+        "description": "Vyberte, pro které země bude ComGate dostupná.",
+        "type": "multiselect",
+        "value": "",
+        "default": "",
+        "tip": "Vyberte, pro které země bude ComGate dostupná.",
+        "placeholder": "",
+        "options": {
+          "CZ": "Česká republika"
+        }
+      },
+      "product_category": {
+        "id": "product_category",
+        "label": "Druh zboží",
+        "description": "Vyberte, druh zboží, jenž máte povolené v Comgate.",
+        "type": "select",
+        "value": "PHYSICAL",
+        "default": "PHYSICAL",
+        "tip": "Vyberte, druh zboží, jenž máte povolené v Comgate.",
+        "placeholder": "",
+        "options": {
+          "DIGITAL": "Digitální zboží",
+          "PHYSICAL": "Fyzické zboží"
+        }
+      },
+      "showico": {
+        "id": "showico",
+        "label": "Nezobrazovat ikony",
+        "description": "V pokladně skryje loga jednotlivých bank a dalších platebních metod.",
+        "type": "checkbox",
+        "value": "no",
+        "default": "",
+        "tip": "V pokladně skryje loga jednotlivých bank a dalších platebních metod.",
+        "placeholder": ""
+      }
+    },
+    "needs_setup": false,
+    "post_install_scripts": [],
+    "settings_url": "https://dev.frosch-eko.cz/wp-admin/admin.php?page=wc-settings&tab=checkout&section=comgate",
+    "connection_url": null,
+    "setup_help_text": null,
+    "required_settings_keys": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dev.frosch-eko.cz/wp-json/wc/v3/payment_gateways/comgate"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dev.frosch-eko.cz/wp-json/wc/v3/payment_gateways"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dobirka",
+    "title": "Platba na dobírku",
+    "description": "Platba v hotovosti po doručení.",
+    "order": 2,
+    "enabled": true,
+    "method_title": "Dobírka",
+    "method_description": "Umožňuje zákazníkům platit zboží při doručení (na dobírku).",
+    "method_supports": [
+      "products"
+    ],
+    "settings": {
+      "title": {
+        "id": "title",
+        "label": "Titulek",
+        "description": "Název způsobu platby, který uvidí zákazník na pokladně.",
+        "type": "text",
+        "value": "Platba na dobírku",
+        "default": "Platba na dobírku",
+        "tip": "Název způsobu platby, který uvidí zákazník na pokladně.",
+        "placeholder": ""
+      },
+      "instructions": {
+        "id": "instructions",
+        "label": "Instrukce",
+        "description": "Instrukce, které se zobrazí na děkovné stránce.",
+        "type": "textarea",
+        "value": "Platbu proveďte až po doručení zboží.",
+        "default": "Platbu proveďte až po doručení zboží.",
+        "tip": "Instrukce, které se zobrazí na děkovné stránce.",
+        "placeholder": ""
+      },
+      "enable_for_methods": {
+        "id": "enable_for_methods",
+        "label": "Povolit způsob dopravy",
+        "description": "Pokud je platba na dobírku aktivní, zde můžete definovat způsoby dopravy. Pro povolení všech způsobů dopravy zanechte pole prázdné.",
+        "type": "multiselect",
+        "value": "",
+        "default": "",
+        "tip": "Pokud je platba na dobírku aktivní, zde můžete definovat způsoby dopravy. Pro povolení všech způsobů dopravy zanechte pole prázdné.",
+        "placeholder": "",
+        "options": {
+          "flat_rate": "Paušální sazba",
+          "free_shipping": "Doprava zdarma",
+          "local_pickup": "Místní vyzvednutí",
+          "toret_tcp_balikovna": "Doručení Balikovna",
+          "toret_tcp_napostu": "Doručení Na poštu",
+          "toret_tcp_doruky": "Doručení Do ruky",
+          "toret_tcp_cenny": "Doručení Cenný balík",
+          "toret_tcp_ems": "Doručení EMS",
+          "toret_tcp_doporuceny": "Doručení Doporučený balíček",
+          "toret_tcp_standzahra": "Doručení Standardní balík do zahraničí",
+          "toret_tcp_cenny_psani": "Doručení Cenné psaní",
+          "toret_tcp_firemni_psani": "Doručení Firemní psaní",
+          "toret_tcp_obycejny_psani": "Doručení Obyčejné psaní",
+          "toret_tcp_doporuceny_psani": "Doručení Doporučené psaní",
+          "toret_tcp_doporuceny_psani_eko": "Doručení Doporučené psaní - Ekonomické",
+          "toret_tcp_obycejny": "Doručení Obyčejný balík",
+          "toret_tcp_nadrozmer": "Doručení Balík Nadrozměr",
+          "dpd_kuryr": "DPD doručení na adresu",
+          "dpd_classic": "DPD doručení na firemní adresu",
+          "dpd_kuryr10": "DPD doručení na adresu do 10:00",
+          "dpd_kuryr12": "DPD doručení na adresu do 12:00",
+          "dpd_kuryr18": "DPD doručení na adresu do 18:00",
+          "dpd_pickup": "Doručení na výdejní místo DPD Pickup",
+          "zasilkovna": "Zásilkovna"
+        }
+      },
+      "enable_dobirka_countries": {
+        "id": "enable_dobirka_countries",
+        "label": "Povolit pro země",
+        "description": "Vyberte, pro které země bude dobírka dostupná.",
+        "type": "multiselect",
+        "value": "",
+        "default": "",
+        "tip": "Vyberte, pro které země bude dobírka dostupná.",
+        "placeholder": "",
+        "options": {
+          "CZ": "Česká republika"
+        }
+      },
+      "order_status": {
+        "id": "order_status",
+        "label": "Stav objednávky",
+        "description": "Stav objednávky po platbě.",
+        "type": "select",
+        "value": "processing",
+        "default": "",
+        "tip": "Stav objednávky po platbě.",
+        "placeholder": "",
+        "options": {
+          "pending": "Čeká na platbu",
+          "processing": "Zpracovává se",
+          "on-hold": "Čeká na vyřízení",
+          "completed": "Dokončeno",
+          "cancelled": "Zrušena",
+          "refunded": "Vráceno",
+          "failed": "Selhalo",
+          "checkout-draft": "Koncept"
+        }
+      },
+      "taxable": {
+        "id": "taxable",
+        "label": "Vypočítat daň?",
+        "description": "Kalkulovat daň z poplatku za dobírku?",
+        "type": "checkbox",
+        "value": "yes",
+        "default": "yes",
+        "tip": "Kalkulovat daň z poplatku za dobírku?",
+        "placeholder": ""
+      },
+      "show_cod": {
+        "id": "show_cod",
+        "label": "Zobrazit dobírku, pokud je cena zásilky 0",
+        "description": "Zobrazit dobírku, pokud je cena zásilky 0",
+        "type": "checkbox",
+        "value": "yes",
+        "default": "yes",
+        "tip": "Zobrazit dobírku, pokud je cena zásilky 0",
+        "placeholder": ""
+      }
+    },
+    "needs_setup": false,
+    "post_install_scripts": [],
+    "settings_url": "https://dev.frosch-eko.cz/wp-admin/admin.php?page=wc-settings&tab=checkout&section=dobirka",
+    "connection_url": null,
+    "setup_help_text": null,
+    "required_settings_keys": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://dev.frosch-eko.cz/wp-json/wc/v3/payment_gateways/dobirka"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://dev.frosch-eko.cz/wp-json/wc/v3/payment_gateways"
+        }
+      ]
+    }
+  }
+]

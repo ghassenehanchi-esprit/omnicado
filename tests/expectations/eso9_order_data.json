@@ -1,0 +1,125 @@
+{
+  "number": "OBJ123456",
+  "variable_symbol": "",
+  "distribution": null,
+  "origin": null,
+  "total_price": "1000.0000",
+  "decimal": 0,
+  "price_with_vat": "1000.0000",
+  "price_without_vat": "790.0000",
+  "tax": 21,
+  "bonus_discount": 0,
+  "order_status": "created",
+  "payment_status": "pending",
+  "created": "2021-09-16 12:51:33",
+  "split_delivery": 0,
+  "note": "testing note",
+  "attachments": [
+      {
+        "filename": "file1.pdf",
+        "type": "PRINTABLE_DOCUMENT",
+        "data": "hashedData1"
+      },
+      {
+        "filename": "file2.pdf",
+        "type": "PRINTABLE_DOCUMENT",
+        "data": "hashedData2"
+      }
+  ],
+  "customer_order_number": "",
+  "items": {
+    "products": [
+      {
+        "sku": "SKU-1",
+        "ean": "",
+        "title": "Product 1",
+        "price": "400.0000",
+        "price_excl_vat": "330.5800",
+        "tax_rate": "0.2100",
+        "base_price_excl_vat": "330.5800",
+        "cost_price_excl_vat": "330.5800",
+        "supplier": "supplier-test-1",
+        "quantity": "1.0000",
+        "size": null,
+        "weight": "0.5000",
+        "volume": "0.0000",
+        "unit": "PIECE"
+      },
+      {
+        "sku": "SKU-2",
+        "ean": "",
+        "title": "Product 2",
+        "price": "125.0000",
+        "price_excl_vat": "103.3050",
+        "tax_rate": "0.2100",
+        "base_price_excl_vat": "103.3050",
+        "cost_price_excl_vat": "103.3050",
+        "supplier": "supplier-test-2",
+        "quantity": "2.0000",
+        "size": null,
+        "weight": "0.2000",
+        "volume": "0.0000",
+        "unit": "PIECE"
+      }
+    ]
+  },
+  "billing_address": {
+    "code": null,
+    "firstname": "John",
+    "lastname": "Doe",
+    "email": "john@doe.com",
+    "phone": "111222333",
+    "address": "St. Johns 12",
+    "city": "Doetown",
+    "zipcode": "11122",
+    "countrycode": "CZE",
+    "company_name": "KomTeSa spol. s r.o.",
+    "vat_number": "CZ12345678",
+    "cid_number": "12345678",
+    "card_number": ""
+  },
+  "shipping_address": {
+    "code": "",
+    "firstname": "John",
+    "lastname": "Doe",
+    "email": "john@doe.com",
+    "phone": "111222333",
+    "address": "St. Johns 12",
+    "city": "Doetown",
+    "zipcode": "11122",
+    "countrycode": "CZE",
+    "company_name": "KomTeSa spol. s r.o."
+  },
+  "shipping": {
+    "code": "shipping-method",
+    "title": "Shipping method",
+    "price": "80.0000",
+    "price_excl_vat": "66.1200",
+    "tax_rate": "0.2100",
+    "branch": {
+      "id": "10001",
+      "name": ""
+    }
+  },
+  "payment": {
+    "code": "payment-method",
+    "title": "Payment method",
+    "price": "20.0000",
+    "price_excl_vat": "16.5300",
+    "tax_rate": "0.2100",
+    "transaction_id": null,
+    "eet": []
+  },
+  "currency": {
+    "code": "CZK",
+    "round": 0,
+    "rate": "1.0000"
+  },
+  "coupon": {
+    "discount": "100.0000",
+    "code": "discount-coupon",
+    "campaign": null,
+    "sku": "",
+    "description": "Slevový kupon č. BOUT100 - Sleva 100 Kč"
+  }
+}

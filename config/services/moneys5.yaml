@@ -1,0 +1,16 @@
+services:
+  _defaults:
+    autowire: true
+    autoconfigure: true
+    public: true
+  _instanceof:
+    Elasticr\ServiceBus\MoneyS5\Contract\MoneyS5CommandHandlerContract:
+      tags:
+        - { name: messenger.message_handler, bus: moneys5.command.bus }
+
+  Elasticr\ServiceBus\MoneyS5\:
+    resource: '../../src/MoneyS5'
+    exclude:
+      - '../../src/MoneyS5/{Constant,Exception,Model,ValueObject,Entity}'
+
+  DeepCopy\DeepCopy: ~

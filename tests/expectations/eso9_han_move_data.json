@@ -1,0 +1,122 @@
+{
+  "HanMove":[
+    {
+      "HanMove_Id":"KP30220027",
+      "TypDokl":"Prijem",
+      "VzorDokl":"VZSPF05NAT",
+      "Poznamka":"SPF - sklad 05 - konsignační příjem zboží",
+      "dtSklPohyb":"2022-10-05 00:00:00",
+      "dtUzavreniDokl":"2022-10-05T00:00:00",
+      "vlStavDokl":0,
+      "StavDokl":"Pořízeno",
+      "Polozky":[
+        {
+          "Poradi_Dok":1,
+          "Produkt_Id":"1006175",
+          "Cis_Sklad":"05",
+          "Mnozstvi":10.00000
+        },
+        {
+          "Poradi_Dok":2,
+          "Produkt_Id":"334169",
+          "Cis_Sklad":"05",
+          "Mnozstvi":5.00000
+        },
+        {
+          "Poradi_Dok":3,
+          "Produkt_Id":"247306",
+          "Cis_Sklad":"05",
+          "Mnozstvi":3.00000
+        }
+      ]
+    },
+    {
+      "HanMove_Id":"KP97220001",
+      "TypDokl":"Prijem",
+      "VzorDokl":"VzSpf97PV05",
+      "Reference_Id":"KV05220203",
+      "Poznamka":"SPF - sklad 97 - příjem převodem",
+      "Partner":"ERGOTEP di - Proseč sklad 97 Prodietix CZ",
+      "dtSklPohyb":"2022-10-05 00:00:00",
+      "dtUzavreniDokl":"2022-10-05T00:00:00",
+      "vlStavDokl":10,
+      "StavDokl":"Uzavřeno",
+      "Polozky":[
+        {
+          "Poradi_Dok":1,
+          "Produkt_Id":"1006175",
+          "Cis_Sklad":"97",
+          "Mnozstvi":6.00000
+        },
+        {
+          "Poradi_Dok":2,
+          "Produkt_Id":"247306",
+          "Cis_Sklad":"97",
+          "Mnozstvi":2.00000
+        },
+        {
+          "Poradi_Dok":3,
+          "Produkt_Id":"334169",
+          "Cis_Sklad":"97",
+          "Mnozstvi":3.00000
+        }
+      ]
+    },
+    {
+      "HanMove_Id":"KV05220203",
+      "TypDokl":"Vydej",
+      "VzorDokl":"VzSvf05PV97",
+      "Poznamka":"SVF - sklad 05 - výdej převodem",
+      "dtSklPohyb":"2022-10-05 00:00:00",
+      "dtUzavreniDokl":"2022-10-05T00:00:00",
+      "vlStavDokl":10,
+      "StavDokl":"Uzavřená",
+      "Polozky":[
+        {
+          "Poradi_Dok":1,
+          "Produkt_Id":"1006175",
+          "Cis_Sklad":"05",
+          "Mnozstvi":6.00000
+        },
+        {
+          "Poradi_Dok":2,
+          "Produkt_Id":"247306",
+          "Cis_Sklad":"05",
+          "Mnozstvi":2.00000
+        },
+        {
+          "Poradi_Dok":3,
+          "Produkt_Id":"334169",
+          "Cis_Sklad":"05",
+          "Mnozstvi":3.00000
+        }
+      ]
+    },
+    {
+      "HanMove_Id":"KV97220002",
+      "TypDokl":"Vydej",
+      "VzorDokl":"VzSvf97PKs",
+      "Reference_Id":"KV97220001",
+      "Poznamka":"STORNO : SVF - sklad 97 - prodej konsignace",
+      "Partner":"Zákazník Prodietix",
+      "dtSklPohyb":"2022-10-05 00:00:00",
+      "dtUzavreniDokl":"2022-10-05T00:00:00",
+      "vlStavDokl":10,
+      "StavDokl":"Uzavřená",
+      "Polozky":[
+        {
+          "Poradi_Dok":1,
+          "Produkt_Id":"1006175",
+          "Cis_Sklad":"97",
+          "Mnozstvi":-1.00000
+        },
+        {
+          "Poradi_Dok":2,
+          "Produkt_Id":"247306",
+          "Cis_Sklad":"97",
+          "Mnozstvi":-1.00000
+        }
+      ]
+    }
+  ]
+}

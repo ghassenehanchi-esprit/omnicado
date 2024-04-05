@@ -1,0 +1,19 @@
+monolog:
+  handlers:
+    # this "file_log" key could be anything
+    file_log:
+      type: stream
+      # log to var/log/(environment).log
+      path: "%kernel.logs_dir%/dev.log"
+      # log *all* messages (debug is lowest level)
+      level: debug
+
+    syslog_handler:
+      type: syslog
+      # log error-level messages and higher
+      level: error
+
+    doctrine:
+      type: service
+      id: Elasticr\Logger\Handler\DoctrineHandler
+      level: debug

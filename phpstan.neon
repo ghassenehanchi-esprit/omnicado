@@ -1,0 +1,12 @@
+includes:
+    - 'vendor/elasticr/coding-standard/config/phpstan/config.neon'
+
+parameters:
+    tmpDir: var/cache/phpstan
+    excludePaths:
+        - tests/var/*
+
+    ignoreErrors:
+        # tests
+        # known values
+        - '#Return type of call to method PHPUnit\\Framework\\TestCase::createMock\(\) contains unresolvable type.#'

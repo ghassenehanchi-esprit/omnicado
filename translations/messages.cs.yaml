@@ -1,0 +1,5 @@
+elasticr:
+    actions:
+        service_bus:
+            transfer_orders: Přenosy objednávek
+            sync_products: Synchronizace produktů

@@ -1,0 +1,18 @@
+<doctrine-mapping xmlns="http://doctrine-project.org/schemas/orm/doctrine-mapping"
+                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                  xsi:schemaLocation="http://doctrine-project.org/schemas/orm/doctrine-mapping
+                   https://raw.github.com/doctrine/doctrine2/master/doctrine-mapping.xsd">
+
+    <entity name="Elasticr\ServiceBus\MoneyS5\Entity\MoneyS5SyncStatus" table="elasticr_service_bus_moneys5_sync_status">
+        <id name="id" type="integer" column="id">
+            <generator strategy="AUTO"/>
+        </id>
+        <field name="customerId" type="integer" unique="true"/>
+        <field name="lastProcessedArticleTime" type="chronos" nullable="true" />
+        <field name="lastProcessedIssuedDeliveryNoteTime" type="chronos_microseconds" nullable="true" />
+        <field name="lastProcessedStockDocumentTime" type="chronos_microseconds" nullable="true" />
+        <field name="lastProcessedStockDocumentSampleTime" type="chronos_microseconds" nullable="true" />
+        <field name="lastProcessedIssuedInvoiceTime" type="chronos_microseconds" nullable="true" />
+        <field name="lastProcessedStockDocumentReturnTime" type="chronos_microseconds" nullable="true" />
+    </entity>
+</doctrine-mapping>

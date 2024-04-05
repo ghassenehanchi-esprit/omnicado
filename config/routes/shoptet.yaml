@@ -1,0 +1,4 @@
+orders_create:
+  path: /orders/create
+  controller: Elasticr\ServiceBus\Shoptet\Controller\NewOrderController::create
+  methods: POST

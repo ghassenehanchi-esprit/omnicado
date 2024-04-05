@@ -1,0 +1,3 @@
+eesb_shoptet:
+  resource: './routes/shoptet.yaml'
+  prefix: /shoptet

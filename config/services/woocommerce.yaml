@@ -1,0 +1,15 @@
+services:
+  _defaults:
+    autowire: true
+    autoconfigure: true
+    public: true
+  _instanceof:
+    Elasticr\ServiceBus\WooCommerce\CommandBus\Contract\WooCommerceCommandHandlerContract:
+      tags:
+        - { name: messenger.message_handler, bus: woocommerce.command.bus }
+
+
+  Elasticr\ServiceBus\WooCommerce\:
+    resource: '../../src/WooCommerce'
+    exclude:
+      - '../../src/WooCommerce/{Exception,Model,ValueObject,Entity,Api/Dto}'

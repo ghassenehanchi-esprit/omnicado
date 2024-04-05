@@ -1,0 +1,12 @@
+<doctrine-mapping xmlns="http://doctrine-project.org/schemas/orm/doctrine-mapping"
+                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                  xsi:schemaLocation="http://doctrine-project.org/schemas/orm/doctrine-mapping
+                   https://raw.github.com/doctrine/doctrine2/master/doctrine-mapping.xsd">
+    <entity name="Elasticr\ServiceBus\WooCommerce\Entity\OrdersSyncStatus" table="elasticr_service_bus_woocommerce_orders_sync_status">
+        <id name="id" type="integer" column="id">
+            <generator strategy="AUTO"/>
+        </id>
+        <field name="customerId" type="integer" unique="true"/>
+        <field name="lastProcessedOrderCreationTime" type="chronos" nullable="true" />
+    </entity>
+</doctrine-mapping>

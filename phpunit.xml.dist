@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- https://phpunit.de/manual/current/en/appendixes.configuration.html -->
+<phpunit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="http://schema.phpunit.de/9.0/phpunit.xsd"
+         backupGlobals="false"
+         colors="true"
+         bootstrap="tests/bootstrap.php"
+>
+    <php>
+        <ini name="error_reporting" value="-1"/>
+        <env name="SHELL_VERBOSITY" value="-1"/>
+        <env name="KERNEL_CLASS" value="Tests\Elasticr\ServiceBus\AppKernel"/>
+        <env name="DATABASE_URL" value="mysql://root:root@127.0.0.1:3306/test-elasticr-service-bus"/>
+        <env name="SHOPTET_ACCESS_TOKEN_SERVER" value=""/>
+        <env name="ESO_DATABASE_HOST" value="185.137.145.152,1633" />
+        <env name="ESO_DATABASE_NAME" value="" />
+        <env name="ESO_DATABASE_USER" value="" />
+        <env name="ESO_DATABASE_PASSWORD" value="" />
+    </php>
+
+    <testsuites>
+        <testsuite name="all">
+            <directory>tests</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>

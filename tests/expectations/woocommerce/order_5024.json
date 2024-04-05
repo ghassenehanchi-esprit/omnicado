@@ -1,0 +1,470 @@
+{
+  "id": 5024,
+  "parent_id": 0,
+  "status": "cancelled",
+  "currency": "CZK",
+  "version": "7.2.0",
+  "prices_include_tax": true,
+  "date_created": "2022-12-19T18:14:22",
+  "date_modified": "2022-12-19T19:15:24",
+  "discount_total": "278.35",
+  "discount_tax": "58.45",
+  "shipping_total": "0.00",
+  "shipping_tax": "0.00",
+  "cart_tax": "175.36",
+  "total": "1010.40",
+  "total_tax": "175.36",
+  "customer_id": 0,
+  "order_key": "wc_order_JJeeAxhuBgowB",
+  "billing": {
+    "first_name": "Jan",
+    "last_name": "Novák",
+    "company": "KomTeSa spol. s r.o.",
+    "address_1": "Masarykova 2853",
+    "address_2": "43",
+    "city": "Havlíčkův Brod",
+    "state": "",
+    "postcode": "58001",
+    "country": "CZ",
+    "email": "Roundred115@seznam.cz",
+    "phone": "+420776366366"
+  },
+  "shipping": {
+    "first_name": "Jan",
+    "last_name": "Novák",
+    "company": "KomTeSa spol. s r.o.",
+    "address_1": "Masarykova 2853",
+    "address_2": "43",
+    "city": "Havlíčkův Brod",
+    "state": "",
+    "postcode": "58001",
+    "country": "CZ",
+    "phone": ""
+  },
+  "payment_method": "comgate",
+  "payment_method_title": "Comgate platební karta",
+  "transaction_id": "",
+  "customer_ip_address": "77.242.87.208",
+  "customer_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54",
+  "created_via": "checkout",
+  "customer_note": "Ano - Testovací objednávka 4",
+  "date_completed": null,
+  "date_paid": null,
+  "cart_hash": "3267a1c3dbe604efd9748244e8b30713",
+  "number": "5024",
+  "meta_data": [
+    {
+      "id": 63594,
+      "key": "_billing_ic",
+      "value": ""
+    },
+    {
+      "id": 63595,
+      "key": "_billing_dic",
+      "value": ""
+    },
+    {
+      "id": 63596,
+      "key": "_billing_dic_dph",
+      "value": ""
+    },
+    {
+      "id": 63597,
+      "key": "is_vat_exempt",
+      "value": "no"
+    },
+    {
+      "id": 63598,
+      "key": "_cart_weight",
+      "value": "5.448"
+    },
+    {
+      "id": 63599,
+      "key": "_cart_weight_units",
+      "value": "kg"
+    },
+    {
+      "id": 63600,
+      "key": "_cart_weight_kg",
+      "value": "5.448"
+    },
+    {
+      "id": 63601,
+      "key": "_selected_comgate_paymentchannel",
+      "value": "BANK_ALL"
+    },
+    {
+      "id": 63602,
+      "key": "_selected_comgate_bank_paymentchannel",
+      "value": "BANK_ALL"
+    },
+    {
+      "id": 63603,
+      "key": "comgate_order_currency",
+      "value": "CZK"
+    },
+    {
+      "id": 63604,
+      "key": "comgate_order_lang",
+      "value": "cs"
+    },
+    {
+      "id": 63605,
+      "key": "comgate_price",
+      "value": "1010.40"
+    },
+    {
+      "id": 63606,
+      "key": "comgate_refid_before",
+      "value": "5024|5024|5024"
+    },
+    {
+      "id": 63607,
+      "key": "comgate_order_compatibility_id",
+      "value": "5024"
+    },
+    {
+      "id": 63608,
+      "key": "comgate_lang",
+      "value": "cs"
+    },
+    {
+      "id": 63609,
+      "key": "comgate_currency",
+      "value": "CZK"
+    },
+    {
+      "id": 63610,
+      "key": "comgate_transaction_id",
+      "value": "DV3Q-YDK8-AO97"
+    },
+    {
+      "id": 63611,
+      "key": "comgate_is_recurring",
+      "value": "0"
+    },
+    {
+      "id": 63612,
+      "key": "comgate_is_recurring_init_free",
+      "value": "0"
+    }
+  ],
+  "line_items": [
+    {
+      "id": 144,
+      "name": "Frosch EKO Aloe vera lotion na mytí nádobí 750 ml",
+      "product_id": 1817,
+      "variation_id": 0,
+      "quantity": 2,
+      "tax_class": "",
+      "subtotal": "125.45",
+      "subtotal_tax": "26.35",
+      "total": "94.09",
+      "total_tax": "19.76",
+      "taxes": [
+        {
+          "id": 1,
+          "total": "19.759091",
+          "subtotal": "26.345455"
+        }
+      ],
+      "meta_data": [
+        {
+          "id": 1154,
+          "key": "EAN",
+          "value": "4009175165213",
+          "display_key": "EAN",
+          "display_value": "4009175165213"
+        }
+      ],
+      "sku": "6768160",
+      "price": 47.045454499999998,
+      "image": {
+        "id": "4620",
+        "src": "https://frosch-eko.cz/wp-content/uploads/2022/12/4009175165213_Frosch-Aloe-Vera-Lotion-pro-myti-nadobi-EKO-750ml_6768160_NOVE-1.png"
+      },
+      "parent_name": null
+    },
+    {
+      "id": 145,
+      "name": "Frosch EKO Čistič na kuchyně s přírodní sodou 500 ml",
+      "product_id": 1807,
+      "variation_id": 0,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "76.78",
+      "subtotal_tax": "16.12",
+      "total": "57.59",
+      "total_tax": "12.09",
+      "taxes": [
+        {
+          "id": 1,
+          "total": "12.093223",
+          "subtotal": "16.12314"
+        }
+      ],
+      "meta_data": [
+        {
+          "id": 1164,
+          "key": "EAN",
+          "value": "4009175149091",
+          "display_key": "EAN",
+          "display_value": "4009175149091"
+        }
+      ],
+      "sku": "6768163",
+      "price": 57.586776999999998,
+      "image": {
+        "id": "4609",
+        "src": "https://frosch-eko.cz/wp-content/uploads/2022/12/4009175149091_Frosch-Cistic-na-kuchyne-s-prirodni-sodou-EKO-500ml_6768163.png"
+      },
+      "parent_name": null
+    },
+    {
+      "id": 146,
+      "name": "Frosch EKO Oase Květ pomeranče – náhradní náplň 90 ml",
+      "product_id": 1882,
+      "variation_id": 0,
+      "quantity": 3,
+      "tax_class": "",
+      "subtotal": "428.68",
+      "subtotal_tax": "90.02",
+      "total": "321.50",
+      "total_tax": "67.51",
+      "taxes": [
+        {
+          "id": 1,
+          "total": "67.514132",
+          "subtotal": "90.022314"
+        }
+      ],
+      "meta_data": [
+        {
+          "id": 1174,
+          "key": "EAN",
+          "value": "4001499944420",
+          "display_key": "EAN",
+          "display_value": "4001499944420"
+        }
+      ],
+      "sku": "6769146",
+      "price": 107.16528933333332,
+      "image": {
+        "id": "4712",
+        "src": "https://frosch-eko.cz/wp-content/uploads/2022/12/Frosch-EKO-Oase-Kvet-pomerance-–-nahradni-napln.png"
+      },
+      "parent_name": null
+    },
+    {
+      "id": 147,
+      "name": "Frosch EKO dárková sada pánská 3v1",
+      "product_id": 4268,
+      "variation_id": 0,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "168.51",
+      "subtotal_tax": "35.39",
+      "total": "126.39",
+      "total_tax": "26.54",
+      "taxes": [
+        {
+          "id": 1,
+          "total": "26.54157",
+          "subtotal": "35.387603"
+        }
+      ],
+      "meta_data": [
+        {
+          "id": 1184,
+          "key": "EAN",
+          "value": "8594059391827",
+          "display_key": "EAN",
+          "display_value": "8594059391827"
+        }
+      ],
+      "sku": "6775874",
+      "price": 126.38843,
+      "image": {
+        "id": "4721",
+        "src": "https://frosch-eko.cz/wp-content/uploads/2022/12/Frosh_darkove-baleni_MODRA_front_01.png"
+      },
+      "parent_name": null
+    },
+    {
+      "id": 148,
+      "name": "Frosch EKO dárková sada Oase Pomeranč",
+      "product_id": 4271,
+      "variation_id": 0,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "313.97",
+      "subtotal_tax": "65.93",
+      "total": "235.48",
+      "total_tax": "49.45",
+      "taxes": [
+        {
+          "id": 1,
+          "total": "49.450661",
+          "subtotal": "65.933058"
+        }
+      ],
+      "meta_data": [
+        {
+          "id": 1194,
+          "key": "EAN",
+          "value": "8594059391988",
+          "display_key": "EAN",
+          "display_value": "8594059391988"
+        }
+      ],
+      "sku": "6779290",
+      "price": 235.47933900000001,
+      "image": {
+        "id": "4727",
+        "src": "https://frosch-eko.cz/wp-content/uploads/2022/12/Frosh_darkove-baleni_ORANGE_front_01.png"
+      },
+      "parent_name": null
+    }
+  ],
+  "tax_lines": [
+    {
+      "id": 150,
+      "rate_code": "CZ-DPH-1",
+      "rate_id": 1,
+      "label": "DPH",
+      "compound": false,
+      "tax_total": "175.36",
+      "shipping_tax_total": "0.00",
+      "rate_percent": 21,
+      "meta_data": []
+    }
+  ],
+  "shipping_lines": [
+    {
+      "id": 149,
+      "method_title": "DPD Private: Zdarma",
+      "method_id": "dpd_kuryr",
+      "instance_id": "6",
+      "total": "0.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": []
+    }
+  ],
+  "fee_lines": [],
+  "coupon_lines": [
+    {
+      "id": 151,
+      "code": "zabunato",
+      "discount": "278.35",
+      "discount_tax": "58.45",
+      "meta_data": [
+        {
+          "id": 1208,
+          "key": "coupon_data",
+          "value": {
+            "id": 4311,
+            "code": "zabunato",
+            "amount": "25",
+            "status": "publish",
+            "date_created": {
+              "date": "2022-10-13 11:53:23.000000",
+              "timezone_type": 3,
+              "timezone": "Europe/Prague"
+            },
+            "date_modified": {
+              "date": "2022-12-06 16:55:54.000000",
+              "timezone_type": 3,
+              "timezone": "Europe/Prague"
+            },
+            "date_expires": {
+              "date": "2022-12-31 00:00:00.000000",
+              "timezone_type": 3,
+              "timezone": "Europe/Prague"
+            },
+            "discount_type": "percent",
+            "description": "",
+            "usage_count": 3,
+            "individual_use": false,
+            "product_ids": [],
+            "excluded_product_ids": [],
+            "usage_limit": 0,
+            "usage_limit_per_user": 0,
+            "limit_usage_to_x_items": null,
+            "free_shipping": false,
+            "product_categories": [],
+            "excluded_product_categories": [],
+            "exclude_sale_items": false,
+            "minimum_amount": "",
+            "maximum_amount": "",
+            "email_restrictions": [],
+            "virtual": false,
+            "meta_data": []
+          },
+          "display_key": "coupon_data",
+          "display_value": {
+            "id": 4311,
+            "code": "zabunato",
+            "amount": "25",
+            "status": "publish",
+            "date_created": {
+              "date": "2022-10-13 11:53:23.000000",
+              "timezone_type": 3,
+              "timezone": "Europe/Prague"
+            },
+            "date_modified": {
+              "date": "2022-12-06 16:55:54.000000",
+              "timezone_type": 3,
+              "timezone": "Europe/Prague"
+            },
+            "date_expires": {
+              "date": "2022-12-31 00:00:00.000000",
+              "timezone_type": 3,
+              "timezone": "Europe/Prague"
+            },
+            "discount_type": "percent",
+            "description": "",
+            "usage_count": 3,
+            "individual_use": false,
+            "product_ids": [],
+            "excluded_product_ids": [],
+            "usage_limit": 0,
+            "usage_limit_per_user": 0,
+            "limit_usage_to_x_items": null,
+            "free_shipping": false,
+            "product_categories": [],
+            "excluded_product_categories": [],
+            "exclude_sale_items": false,
+            "minimum_amount": "",
+            "maximum_amount": "",
+            "email_restrictions": [],
+            "virtual": false,
+            "meta_data": []
+          }
+        }
+      ]
+    }
+  ],
+  "refunds": [],
+  "payment_url": "https://frosch-eko.cz/pokladna/zaplatit/5024/?pay_for_order=true&key=wc_order_JJeeAxhuBgowB",
+  "is_editable": false,
+  "needs_payment": false,
+  "needs_processing": true,
+  "date_created_gmt": "2022-12-19T17:14:22",
+  "date_modified_gmt": "2022-12-19T18:15:24",
+  "date_completed_gmt": null,
+  "date_paid_gmt": null,
+  "currency_symbol": "Kč",
+  "_links": {
+    "self": [
+      {
+        "href": "https://frosch-eko.cz/wp-json/wc/v3/orders/5024"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://frosch-eko.cz/wp-json/wc/v3/orders"
+      }
+    ]
+  }
+}

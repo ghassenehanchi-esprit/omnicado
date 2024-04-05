@@ -1,0 +1,5064 @@
+[
+  {
+    "Odkaz": "PX231083",
+    "TypDokladu": 2,
+    "Modify_Date": null,
+    "Create_Date": "2023-07-25T10:57:28.8",
+    "CisloDokladu": "VJ232136",
+    "Nazev": "RMA",
+    "FakturacniAdresaNazev": "Ingredi Europa s.r.o.",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "Formanská 257",
+    "FakturacniAdresaMisto": "Praha",
+    "FakturacniAdresaPSC": "14900",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail": "",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "28544668",
+    "DIC": "CZ28544668",
+    "DodaciAdresaNazev": "Ingredi Europa s.r.o.",
+    "DodaciAdresaUlice": "Tř. 3. května 910",
+    "DodaciAdresaMisto": "Zlín-Malenovice",
+    "DodaciAdresaPSC": "76302",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "CZE"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 407.7700,
+    "SumaDanCM": 70.7700,
+    "Mena": {
+      "Kod": "CZK"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "CZE"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 1,
+        "Katalog": "AFL04052",
+        "Nazev": "Spigen ProFlex EZ Fit 2 Pack - Apple Watch 8/7 41mm",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 337.0000,
+        "CelkovaCenaCM": 337.0000,
+        "DphCelkemCM": 407.7700,
+        "DphSazba": 21.0000,
+        "DphDanCM": 70.7700,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz": "PX231083",
+    "TypDokladu": 1,
+    "Modify_Date": null,
+    "Create_Date": "2023-07-25T10:57:29.47",
+    "CisloDokladu": "PJ231712",
+    "Nazev": "RMA",
+    "FakturacniAdresaNazev": "Ingredi Europa s.r.o.",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "Formanská 257",
+    "FakturacniAdresaMisto": "Praha",
+    "FakturacniAdresaPSC": "14900",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail": "",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "28544668",
+    "DIC": "CZ28544668",
+    "DodaciAdresaNazev": "Ingredi Europa s.r.o.",
+    "DodaciAdresaUlice": "Tř. 3. května 910",
+    "DodaciAdresaMisto": "Zlín-Malenovice",
+    "DodaciAdresaPSC": "76302",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "CZE"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 407.7700,
+    "SumaDanCM": 70.7700,
+    "Mena": {
+      "Kod": "CZK"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "CZE"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 1,
+        "Katalog": "AFL04052",
+        "Nazev": "Spigen ProFlex EZ Fit 2 Pack - Apple Watch 8/7 41mm",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 337.0000,
+        "CelkovaCenaCM": 337.0000,
+        "DphCelkemCM": 407.7700,
+        "DphSazba": 21.0000,
+        "DphDanCM": 70.7700,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "25"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz": "PX231084",
+    "TypDokladu": 2,
+    "Modify_Date": "2023-07-25T13:18:10.077",
+    "Create_Date": "2023-07-25T13:14:03.69",
+    "CisloDokladu": "VJ232140",
+    "Nazev": "RMA iStyleCZ 25072023",
+    "FakturacniAdresaNazev": "iStyle CZ, s.r.o.",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "Revoluční 1003/3",
+    "FakturacniAdresaMisto": "Praha 1",
+    "FakturacniAdresaPSC": "11000",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail": "tung@istyle.cz",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "27583368",
+    "DIC": "CZ27583368",
+    "DodaciAdresaNazev": "iStyle CZ, s.r.o.",
+    "DodaciAdresaUlice": "Revoluční 1003/3",
+    "DodaciAdresaMisto": "Praha 1",
+    "DodaciAdresaPSC": "11000",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "CZE"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 3133.9000,
+    "SumaDanCM": 543.9000,
+    "Mena": {
+      "Kod": "CZK"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "CZE"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 2,
+        "Katalog": "CATIPHO13BLKS",
+        "Nazev": "Catalyst Total Protection case, black - iPhone 13 mini (CZ-23189382)",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 1450.0000,
+        "CelkovaCenaCM": 1450.0000,
+        "DphCelkemCM": 1754.5000,
+        "DphSazba": 21.0000,
+        "DphDanCM": 304.5000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "48"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 1,
+        "Katalog": "D20IPAP11SC1BK",
+        "Nazev": "Decoded Slim Cover, black - iPad Pro 11\" 2018/2020 (CZ-23188089)",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 1140.0000,
+        "CelkovaCenaCM": 1140.0000,
+        "DphCelkemCM": 1379.4000,
+        "DphSazba": 21.0000,
+        "DphDanCM": 239.4000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "48"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz": "PX231084",
+    "TypDokladu": 1,
+    "Modify_Date": "2023-07-25T13:18:10.84",
+    "Create_Date": "2023-07-25T13:14:04.397",
+    "CisloDokladu": "PJ231714",
+    "Nazev": "RMA iStyleCZ 25072023",
+    "FakturacniAdresaNazev": "iStyle CZ, s.r.o.",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "Revoluční 1003/3",
+    "FakturacniAdresaMisto": "Praha 1",
+    "FakturacniAdresaPSC": "11000",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail": "tung@istyle.cz",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "27583368",
+    "DIC": "CZ27583368",
+    "DodaciAdresaNazev": "iStyle CZ, s.r.o.",
+    "DodaciAdresaUlice": "Revoluční 1003/3",
+    "DodaciAdresaMisto": "Praha 1",
+    "DodaciAdresaPSC": "11000",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "CZE"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 3133.9000,
+    "SumaDanCM": 543.9000,
+    "Mena": {
+      "Kod": "CZK"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "CZE"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 1,
+        "Katalog": "D20IPAP11SC1BK",
+        "Nazev": "Decoded Slim Cover, black - iPad Pro 11\" 2018/2020 (CZ-23188089)",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 1140.0000,
+        "CelkovaCenaCM": 1140.0000,
+        "DphCelkemCM": 1379.4000,
+        "DphSazba": 21.0000,
+        "DphDanCM": 239.4000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "08"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 2,
+        "Katalog": "CATIPHO13BLKS",
+        "Nazev": "Catalyst Total Protection case, black - iPhone 13 mini (CZ-23189382)",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 1450.0000,
+        "CelkovaCenaCM": 1450.0000,
+        "DphCelkemCM": 1754.5000,
+        "DphSazba": 21.0000,
+        "DphDanCM": 304.5000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "08"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz": "PX231085",
+    "TypDokladu": 2,
+    "Modify_Date": null,
+    "Create_Date": "2023-07-26T07:26:00.083",
+    "CisloDokladu": "VJ232142",
+    "Nazev": "RMA",
+    "FakturacniAdresaNazev": "Ingredi Europa s.r.o.",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "Formanská 257",
+    "FakturacniAdresaMisto": "Praha",
+    "FakturacniAdresaPSC": "14900",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail": "",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "28544668",
+    "DIC": "CZ28544668",
+    "DodaciAdresaNazev": "Ingredi Europa s.r.o.",
+    "DodaciAdresaUlice": "Tř. 3. května 910",
+    "DodaciAdresaMisto": "Zlín-Malenovice",
+    "DodaciAdresaPSC": "76302",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "CZE"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 166.9800,
+    "SumaDanCM": 28.9800,
+    "Mena": {
+      "Kod": "CZK"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "CZE"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 1,
+        "Katalog": "064GL24527",
+        "Nazev": "Spigen Glass GLAS.tR SLIM HD - iPhone 11/iPhone XR",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 138.0000,
+        "CelkovaCenaCM": 138.0000,
+        "DphCelkemCM": 166.9800,
+        "DphSazba": 21.0000,
+        "DphDanCM": 28.9800,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "09"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz": "PX231085",
+    "TypDokladu": 1,
+    "Modify_Date": null,
+    "Create_Date": "2023-07-26T07:26:01.037",
+    "CisloDokladu": "PJ231715",
+    "Nazev": "RMA",
+    "FakturacniAdresaNazev": "Ingredi Europa s.r.o.",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "Formanská 257",
+    "FakturacniAdresaMisto": "Praha",
+    "FakturacniAdresaPSC": "14900",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail": "",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "28544668",
+    "DIC": "CZ28544668",
+    "DodaciAdresaNazev": "Ingredi Europa s.r.o.",
+    "DodaciAdresaUlice": "Tř. 3. května 910",
+    "DodaciAdresaMisto": "Zlín-Malenovice",
+    "DodaciAdresaPSC": "76302",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "CZE"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 166.9800,
+    "SumaDanCM": 28.9800,
+    "Mena": {
+      "Kod": "CZK"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "CZE"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 1,
+        "Katalog": "064GL24527",
+        "Nazev": "Spigen Glass GLAS.tR SLIM HD - iPhone 11/iPhone XR",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 138.0000,
+        "CelkovaCenaCM": 138.0000,
+        "DphCelkemCM": 166.9800,
+        "DphSazba": 21.0000,
+        "DphDanCM": 28.9800,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "25"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz": "PX231086",
+    "TypDokladu": 2,
+    "Modify_Date": "2023-07-26T07:31:50.513",
+    "Create_Date": "2023-07-26T07:27:13.133",
+    "CisloDokladu": "VJ232143",
+    "Nazev": "RMA 26.7. likvidace",
+    "FakturacniAdresaNazev": "Ingredi Europa s.r.o.",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "Formanská 257",
+    "FakturacniAdresaMisto": "Praha",
+    "FakturacniAdresaPSC": "14900",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail": "",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "28544668",
+    "DIC": "CZ28544668",
+    "DodaciAdresaNazev": "Ingredi Europa s.r.o.",
+    "DodaciAdresaUlice": "Tř. 3. května 910",
+    "DodaciAdresaMisto": "Zlín-Malenovice",
+    "DodaciAdresaPSC": "76302",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "CZE"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 16377.3500,
+    "SumaDanCM": 2842.3500,
+    "Mena": {
+      "Kod": "CZK"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "CZE"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 1,
+        "Katalog": "NTH01-EN-EU",
+        "Nazev": "Netatmo Smart Thermostat",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 3094.0000,
+        "CelkovaCenaCM": 3094.0000,
+        "DphCelkemCM": 3743.7400,
+        "DphSazba": 21.0000,
+        "DphDanCM": 649.7400,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 4,
+        "Katalog": "NDB-EC",
+        "Nazev": "Netatmo Smart Video Doorbell",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 5092.0000,
+        "CelkovaCenaCM": 5092.0000,
+        "DphCelkemCM": 6161.3200,
+        "DphSazba": 21.0000,
+        "DphDanCM": 1069.3200,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 2,
+        "Katalog": "NSC01-EU",
+        "Nazev": "Netatmo Smart Indoor Camera",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 3416.0000,
+        "CelkovaCenaCM": 3416.0000,
+        "DphCelkemCM": 4133.3600,
+        "DphSazba": 21.0000,
+        "DphDanCM": 717.3600,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 3,
+        "Katalog": "NAC-EC",
+        "Nazev": "Netatmo Smart AC Controller",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 1933.0000,
+        "CelkovaCenaCM": 1933.0000,
+        "DphCelkemCM": 2338.9300,
+        "DphSazba": 21.0000,
+        "DphDanCM": 405.9300,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz": "PX231086",
+    "TypDokladu": 1,
+    "Modify_Date": "2023-07-26T07:31:51.387",
+    "Create_Date": "2023-07-26T07:27:14.41",
+    "CisloDokladu": "PJ231716",
+    "Nazev": "RMA 26.7. likvidace",
+    "FakturacniAdresaNazev": "Ingredi Europa s.r.o.",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "Formanská 257",
+    "FakturacniAdresaMisto": "Praha",
+    "FakturacniAdresaPSC": "14900",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail": "",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "28544668",
+    "DIC": "CZ28544668",
+    "DodaciAdresaNazev": "Ingredi Europa s.r.o.",
+    "DodaciAdresaUlice": "Tř. 3. května 910",
+    "DodaciAdresaMisto": "Zlín-Malenovice",
+    "DodaciAdresaPSC": "76302",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "CZE"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 16377.3500,
+    "SumaDanCM": 2842.3500,
+    "Mena": {
+      "Kod": "CZK"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "CZE"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 1,
+        "Katalog": "NTH01-EN-EU",
+        "Nazev": "Netatmo Smart Thermostat",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 3094.0000,
+        "CelkovaCenaCM": 3094.0000,
+        "DphCelkemCM": 3743.7400,
+        "DphSazba": 21.0000,
+        "DphDanCM": 649.7400,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "25"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 3,
+        "Katalog": "NAC-EC",
+        "Nazev": "Netatmo Smart AC Controller",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 1933.0000,
+        "CelkovaCenaCM": 1933.0000,
+        "DphCelkemCM": 2338.9300,
+        "DphSazba": 21.0000,
+        "DphDanCM": 405.9300,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "25"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 4,
+        "Katalog": "NDB-EC",
+        "Nazev": "Netatmo Smart Video Doorbell",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 5092.0000,
+        "CelkovaCenaCM": 5092.0000,
+        "DphCelkemCM": 6161.3200,
+        "DphSazba": 21.0000,
+        "DphDanCM": 1069.3200,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "25"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 2,
+        "Katalog": "NSC01-EU",
+        "Nazev": "Netatmo Smart Indoor Camera",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 3416.0000,
+        "CelkovaCenaCM": 3416.0000,
+        "DphCelkemCM": 4133.3600,
+        "DphSazba": 21.0000,
+        "DphDanCM": 717.3600,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "25"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz": "PX231087",
+    "TypDokladu": 2,
+    "Modify_Date": "2023-07-27T10:34:04.92",
+    "Create_Date": "2023-07-27T08:27:05.773",
+    "CisloDokladu": "VJ232159",
+    "Nazev": "RMA 27.7. rma",
+    "FakturacniAdresaNazev": "Ingredi Europa s.r.o.",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "Formanská 257",
+    "FakturacniAdresaMisto": "Praha",
+    "FakturacniAdresaPSC": "14900",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail": "",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "28544668",
+    "DIC": "CZ28544668",
+    "DodaciAdresaNazev": "Ingredi Europa s.r.o.",
+    "DodaciAdresaUlice": "Tř. 3. května 910",
+    "DodaciAdresaMisto": "Zlín-Malenovice",
+    "DodaciAdresaPSC": "76302",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "CZE"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 8818.4800,
+    "SumaDanCM": 1530.4800,
+    "Mena": {
+      "Kod": "CZK"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "CZE"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 2,
+        "Katalog": "NL47-2002TW-4PK",
+        "Nazev": "Nanoleaf Shapes Triangles Starter Kit 4 Pack ",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 1735.0000,
+        "CelkovaCenaCM": 1735.0000,
+        "DphCelkemCM": 2099.3500,
+        "DphSazba": 21.0000,
+        "DphDanCM": 364.3500,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 5,
+        "Katalog": "NM01132585",
+        "Nazev": "Nomad Sport Strap M/L, green - Apple Watch Ultra (49mm) 8/7 (45mm)/6/SE/5/4 (44mm)/3/2/1 (42mm)",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 1214.0000,
+        "CelkovaCenaCM": 1214.0000,
+        "DphCelkemCM": 1468.9400,
+        "DphSazba": 21.0000,
+        "DphDanCM": 254.9400,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 3,
+        "Katalog": "323266114040",
+        "Nazev": "UAG Metropolis, black - Microsoft Surface Pro 8",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 1136.0000,
+        "CelkovaCenaCM": 1136.0000,
+        "DphCelkemCM": 1374.5600,
+        "DphSazba": 21.0000,
+        "DphDanCM": 238.5600,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 1,
+        "Katalog": "LEDGERNANOX",
+        "Nazev": "Ledger Nano X Onyx Black Crypto Hardware Wallet",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 2726.0000,
+        "CelkovaCenaCM": 2726.0000,
+        "DphCelkemCM": 3298.4600,
+        "DphSazba": 21.0000,
+        "DphDanCM": 572.4600,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 4,
+        "Katalog": "194002115555",
+        "Nazev": "UAG Civilian Strap, mallard - Apple Watch Ultra 49mm/8/7 45mm/SE 2022/6/SE/5/4 44mm/3/2/1 42mm",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 477.0000,
+        "CelkovaCenaCM": 477.0000,
+        "DphCelkemCM": 577.1700,
+        "DphSazba": 21.0000,
+        "DphDanCM": 100.1700,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz": "PX231087",
+    "TypDokladu": 1,
+    "Modify_Date": "2023-07-27T10:34:05.907",
+    "Create_Date": "2023-07-27T08:27:06.527",
+    "CisloDokladu": "PJ231717",
+    "Nazev": "RMA 27.7. rma",
+    "FakturacniAdresaNazev": "Ingredi Europa s.r.o.",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "Formanská 257",
+    "FakturacniAdresaMisto": "Praha",
+    "FakturacniAdresaPSC": "14900",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail": "",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "28544668",
+    "DIC": "CZ28544668",
+    "DodaciAdresaNazev": "Ingredi Europa s.r.o.",
+    "DodaciAdresaUlice": "Tř. 3. května 910",
+    "DodaciAdresaMisto": "Zlín-Malenovice",
+    "DodaciAdresaPSC": "76302",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "CZE"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 8818.4800,
+    "SumaDanCM": 1530.4800,
+    "Mena": {
+      "Kod": "CZK"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "CZE"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 4,
+        "Katalog": "194002115555",
+        "Nazev": "UAG Civilian Strap, mallard - Apple Watch Ultra 49mm/8/7 45mm/SE 2022/6/SE/5/4 44mm/3/2/1 42mm",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 477.0000,
+        "CelkovaCenaCM": 477.0000,
+        "DphCelkemCM": 577.1700,
+        "DphSazba": 21.0000,
+        "DphDanCM": 100.1700,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "08"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 3,
+        "Katalog": "323266114040",
+        "Nazev": "UAG Metropolis, black - Microsoft Surface Pro 8",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 1136.0000,
+        "CelkovaCenaCM": 1136.0000,
+        "DphCelkemCM": 1374.5600,
+        "DphSazba": 21.0000,
+        "DphDanCM": 238.5600,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "08"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 1,
+        "Katalog": "LEDGERNANOX",
+        "Nazev": "Ledger Nano X Onyx Black Crypto Hardware Wallet",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 2726.0000,
+        "CelkovaCenaCM": 2726.0000,
+        "DphCelkemCM": 3298.4600,
+        "DphSazba": 21.0000,
+        "DphDanCM": 572.4600,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "08"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 2,
+        "Katalog": "NL47-2002TW-4PK",
+        "Nazev": "Nanoleaf Shapes Triangles Starter Kit 4 Pack ",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 1735.0000,
+        "CelkovaCenaCM": 1735.0000,
+        "DphCelkemCM": 2099.3500,
+        "DphSazba": 21.0000,
+        "DphDanCM": 364.3500,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "08"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 5,
+        "Katalog": "NM01132585",
+        "Nazev": "Nomad Sport Strap M/L, green - Apple Watch Ultra (49mm) 8/7 (45mm)/6/SE/5/4 (44mm)/3/2/1 (42mm)",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 1214.0000,
+        "CelkovaCenaCM": 1214.0000,
+        "DphCelkemCM": 1468.9400,
+        "DphSazba": 21.0000,
+        "DphDanCM": 254.9400,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "08"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz": "PX231088",
+    "TypDokladu": 2,
+    "Modify_Date": "2023-07-27T13:10:01.51",
+    "Create_Date": "2023-07-27T08:37:12.437",
+    "CisloDokladu": "VJ232160",
+    "Nazev": "RMA 27.7. likvidace",
+    "FakturacniAdresaNazev": "Ingredi Europa s.r.o.",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "Formanská 257",
+    "FakturacniAdresaMisto": "Praha",
+    "FakturacniAdresaPSC": "14900",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail": "",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "28544668",
+    "DIC": "CZ28544668",
+    "DodaciAdresaNazev": "Ingredi Europa s.r.o.",
+    "DodaciAdresaUlice": "Tř. 3. května 910",
+    "DodaciAdresaMisto": "Zlín-Malenovice",
+    "DodaciAdresaPSC": "76302",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "CZE"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 11019.4700,
+    "SumaDanCM": 1912.4700,
+    "Mena": {
+      "Kod": "CZK"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "CZE"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 11,
+        "Katalog": "057GL23120",
+        "Nazev": "Spigen Glass FC 2 Pack, black - iPhone 11 Pro/XS/X",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 262.0000,
+        "CelkovaCenaCM": 262.0000,
+        "DphCelkemCM": 317.0200,
+        "DphSazba": 21.0000,
+        "DphDanCM": 55.0200,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 6,
+        "Katalog": "AGL06037",
+        "Nazev": "Spigen Glass tR Slim 2 Pack - Xiaomi 13",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 208.0000,
+        "CelkovaCenaCM": 208.0000,
+        "DphCelkemCM": 251.6800,
+        "DphSazba": 21.0000,
+        "DphDanCM": 43.6800,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 5,
+        "Katalog": "ACS00546",
+        "Nazev": "Spigen Rugged Armor Pro, black - Apple Watch 8/7 (41mm)/SE 2022/6/SE/5/4 (40mm)",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 327.0000,
+        "CelkovaCenaCM": 327.0000,
+        "DphCelkemCM": 395.6700,
+        "DphSazba": 21.0000,
+        "DphDanCM": 68.6700,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 13,
+        "Katalog": "ACS04259",
+        "Nazev": "Spigen Ultra Hybrid, clear - Samsung Galaxy A53 5G",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 327.0000,
+        "CelkovaCenaCM": 327.0000,
+        "DphCelkemCM": 395.6700,
+        "DphSazba": 21.0000,
+        "DphDanCM": 68.6700,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 15,
+        "Katalog": "AGL05211",
+        "Nazev": "Spigen Glass tR Slim HD 1 Pack Anti Glare/Privacy Transparency Sensor Protection - iPhone 14 Pro Max",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 252.0000,
+        "CelkovaCenaCM": 252.0000,
+        "DphCelkemCM": 304.9200,
+        "DphSazba": 21.0000,
+        "DphDanCM": 52.9200,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 1,
+        "Katalog": "NDB-EC",
+        "Nazev": "Netatmo Smart Video Doorbell",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 5092.0000,
+        "CelkovaCenaCM": 5092.0000,
+        "DphCelkemCM": 6161.3200,
+        "DphSazba": 21.0000,
+        "DphDanCM": 1069.3200,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 9,
+        "Katalog": "AGL04035",
+        "Nazev": "Spigen tR Optik 2 Pack, graphite - iPhone 13 Pro/13 Pro Max",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 292.0000,
+        "CelkovaCenaCM": 292.0000,
+        "DphCelkemCM": 353.3200,
+        "DphSazba": 21.0000,
+        "DphDanCM": 61.3200,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 16,
+        "Katalog": "ACS00428",
+        "Nazev": "Spigen Ultra Hybrid, clear - Apple Watch SE 2022/6/SE/5/4 (44mm)",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 198.0000,
+        "CelkovaCenaCM": 198.0000,
+        "DphCelkemCM": 239.5800,
+        "DphSazba": 21.0000,
+        "DphDanCM": 41.5800,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 12,
+        "Katalog": "AGL00106",
+        "Nazev": "Spigen Align Glass FC - iPhone 11/XR",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 208.0000,
+        "CelkovaCenaCM": 208.0000,
+        "DphCelkemCM": 251.6800,
+        "DphSazba": 21.0000,
+        "DphDanCM": 43.6800,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 7,
+        "Katalog": "ACS04132",
+        "Nazev": "Spigen Ultra Hybrid, sierra blue - iPhone 13 Pro",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 302.0000,
+        "CelkovaCenaCM": 302.0000,
+        "DphCelkemCM": 365.4200,
+        "DphSazba": 21.0000,
+        "DphDanCM": 63.4200,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 8,
+        "Katalog": "077CS27233",
+        "Nazev": "Spigen Ultra Hybrid, clear - iPhone 11 Pro",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 287.0000,
+        "CelkovaCenaCM": 287.0000,
+        "DphCelkemCM": 347.2700,
+        "DphSazba": 21.0000,
+        "DphDanCM": 60.2700,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 10,
+        "Katalog": "AGL00109",
+        "Nazev": "Spigen Align Glas.tR 2 pack - iPhone 11 Pro/XS/X",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 208.0000,
+        "CelkovaCenaCM": 208.0000,
+        "DphCelkemCM": 251.6800,
+        "DphSazba": 21.0000,
+        "DphDanCM": 43.6800,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 3,
+        "Katalog": "AGL05967",
+        "Nazev": "Spigen Glass tR Slim 2 Pack - Samsung Galaxy A34 5G",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 208.0000,
+        "CelkovaCenaCM": 208.0000,
+        "DphCelkemCM": 251.6800,
+        "DphSazba": 21.0000,
+        "DphDanCM": 43.6800,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 4,
+        "Katalog": "ACS04830",
+        "Nazev": "Spigen Quartz Hybrid, crystal clear - iPhone 14 Pro Max",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 456.0000,
+        "CelkovaCenaCM": 456.0000,
+        "DphCelkemCM": 551.7600,
+        "DphSazba": 21.0000,
+        "DphDanCM": 95.7600,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 14,
+        "Katalog": "AGL03393",
+        "Nazev": "Spigen tR Slim HD Anti-Glare/Privacy 1 Pack - iPhone 14/iPhone 13 Pro/iPhone 13",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 252.0000,
+        "CelkovaCenaCM": 252.0000,
+        "DphCelkemCM": 304.9200,
+        "DphSazba": 21.0000,
+        "DphDanCM": 52.9200,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 2,
+        "Katalog": "AGL00103",
+        "Nazev": "Spigen Glass AlignMaster Privacy 1 Pack - iPhone 11",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 228.0000,
+        "CelkovaCenaCM": 228.0000,
+        "DphCelkemCM": 275.8800,
+        "DphSazba": 21.0000,
+        "DphDanCM": 47.8800,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz": "PX231088",
+    "TypDokladu": 1,
+    "Modify_Date": "2023-07-27T13:10:03.313",
+    "Create_Date": "2023-07-27T08:37:13.117",
+    "CisloDokladu": "PJ231718",
+    "Nazev": "RMA 27.7. likvidace",
+    "FakturacniAdresaNazev": "Ingredi Europa s.r.o.",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "Formanská 257",
+    "FakturacniAdresaMisto": "Praha",
+    "FakturacniAdresaPSC": "14900",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail": "",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "28544668",
+    "DIC": "CZ28544668",
+    "DodaciAdresaNazev": "Ingredi Europa s.r.o.",
+    "DodaciAdresaUlice": "Tř. 3. května 910",
+    "DodaciAdresaMisto": "Zlín-Malenovice",
+    "DodaciAdresaPSC": "76302",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "CZE"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 11019.4700,
+    "SumaDanCM": 1912.4700,
+    "Mena": {
+      "Kod": "CZK"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "CZE"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 14,
+        "Katalog": "AGL03393",
+        "Nazev": "Spigen tR Slim HD Anti-Glare/Privacy 1 Pack - iPhone 14/iPhone 13 Pro/iPhone 13",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 252.0000,
+        "CelkovaCenaCM": 252.0000,
+        "DphCelkemCM": 304.9200,
+        "DphSazba": 21.0000,
+        "DphDanCM": 52.9200,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "25"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 11,
+        "Katalog": "057GL23120",
+        "Nazev": "Spigen Glass FC 2 Pack, black - iPhone 11 Pro/XS/X",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 262.0000,
+        "CelkovaCenaCM": 262.0000,
+        "DphCelkemCM": 317.0200,
+        "DphSazba": 21.0000,
+        "DphDanCM": 55.0200,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "25"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 4,
+        "Katalog": "ACS04830",
+        "Nazev": "Spigen Quartz Hybrid, crystal clear - iPhone 14 Pro Max",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 456.0000,
+        "CelkovaCenaCM": 456.0000,
+        "DphCelkemCM": 551.7600,
+        "DphSazba": 21.0000,
+        "DphDanCM": 95.7600,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "25"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 8,
+        "Katalog": "077CS27233",
+        "Nazev": "Spigen Ultra Hybrid, clear - iPhone 11 Pro",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 287.0000,
+        "CelkovaCenaCM": 287.0000,
+        "DphCelkemCM": 347.2700,
+        "DphSazba": 21.0000,
+        "DphDanCM": 60.2700,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "25"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 9,
+        "Katalog": "AGL04035",
+        "Nazev": "Spigen tR Optik 2 Pack, graphite - iPhone 13 Pro/13 Pro Max",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 292.0000,
+        "CelkovaCenaCM": 292.0000,
+        "DphCelkemCM": 353.3200,
+        "DphSazba": 21.0000,
+        "DphDanCM": 61.3200,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "25"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 1,
+        "Katalog": "NDB-EC",
+        "Nazev": "Netatmo Smart Video Doorbell",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 5092.0000,
+        "CelkovaCenaCM": 5092.0000,
+        "DphCelkemCM": 6161.3200,
+        "DphSazba": 21.0000,
+        "DphDanCM": 1069.3200,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "25"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 5,
+        "Katalog": "ACS00546",
+        "Nazev": "Spigen Rugged Armor Pro, black - Apple Watch 8/7 (41mm)/SE 2022/6/SE/5/4 (40mm)",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 327.0000,
+        "CelkovaCenaCM": 327.0000,
+        "DphCelkemCM": 395.6700,
+        "DphSazba": 21.0000,
+        "DphDanCM": 68.6700,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "25"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 6,
+        "Katalog": "AGL06037",
+        "Nazev": "Spigen Glass tR Slim 2 Pack - Xiaomi 13",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 208.0000,
+        "CelkovaCenaCM": 208.0000,
+        "DphCelkemCM": 251.6800,
+        "DphSazba": 21.0000,
+        "DphDanCM": 43.6800,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "25"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 2,
+        "Katalog": "AGL00103",
+        "Nazev": "Spigen Glass AlignMaster Privacy 1 Pack - iPhone 11",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 228.0000,
+        "CelkovaCenaCM": 228.0000,
+        "DphCelkemCM": 275.8800,
+        "DphSazba": 21.0000,
+        "DphDanCM": 47.8800,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "25"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 10,
+        "Katalog": "AGL00109",
+        "Nazev": "Spigen Align Glas.tR 2 pack - iPhone 11 Pro/XS/X",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 208.0000,
+        "CelkovaCenaCM": 208.0000,
+        "DphCelkemCM": 251.6800,
+        "DphSazba": 21.0000,
+        "DphDanCM": 43.6800,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "25"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 16,
+        "Katalog": "ACS00428",
+        "Nazev": "Spigen Ultra Hybrid, clear - Apple Watch SE 2022/6/SE/5/4 (44mm)",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 198.0000,
+        "CelkovaCenaCM": 198.0000,
+        "DphCelkemCM": 239.5800,
+        "DphSazba": 21.0000,
+        "DphDanCM": 41.5800,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "25"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 7,
+        "Katalog": "ACS04132",
+        "Nazev": "Spigen Ultra Hybrid, sierra blue - iPhone 13 Pro",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 302.0000,
+        "CelkovaCenaCM": 302.0000,
+        "DphCelkemCM": 365.4200,
+        "DphSazba": 21.0000,
+        "DphDanCM": 63.4200,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "25"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 13,
+        "Katalog": "ACS04259",
+        "Nazev": "Spigen Ultra Hybrid, clear - Samsung Galaxy A53 5G",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 327.0000,
+        "CelkovaCenaCM": 327.0000,
+        "DphCelkemCM": 395.6700,
+        "DphSazba": 21.0000,
+        "DphDanCM": 68.6700,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "25"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 15,
+        "Katalog": "AGL05211",
+        "Nazev": "Spigen Glass tR Slim HD 1 Pack Anti Glare/Privacy Transparency Sensor Protection - iPhone 14 Pro Max",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 252.0000,
+        "CelkovaCenaCM": 252.0000,
+        "DphCelkemCM": 304.9200,
+        "DphSazba": 21.0000,
+        "DphDanCM": 52.9200,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "25"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 12,
+        "Katalog": "AGL00106",
+        "Nazev": "Spigen Align Glass FC - iPhone 11/XR",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 208.0000,
+        "CelkovaCenaCM": 208.0000,
+        "DphCelkemCM": 251.6800,
+        "DphSazba": 21.0000,
+        "DphDanCM": 43.6800,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "25"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 3,
+        "Katalog": "AGL05967",
+        "Nazev": "Spigen Glass tR Slim 2 Pack - Samsung Galaxy A34 5G",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 208.0000,
+        "CelkovaCenaCM": 208.0000,
+        "DphCelkemCM": 251.6800,
+        "DphSazba": 21.0000,
+        "DphDanCM": 43.6800,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "25"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz": "PX231089",
+    "TypDokladu": 2,
+    "Modify_Date": null,
+    "Create_Date": "2023-07-27T09:13:18.47",
+    "CisloDokladu": "VJ232161",
+    "Nazev": "chybne duplicitni naskladneni",
+    "FakturacniAdresaNazev": "Ingredi Europa s.r.o.",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "Formanská 257",
+    "FakturacniAdresaMisto": "Praha",
+    "FakturacniAdresaPSC": "14900",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail": "",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "28544668",
+    "DIC": "CZ28544668",
+    "DodaciAdresaNazev": "Ingredi Europa s.r.o.",
+    "DodaciAdresaUlice": "Tř. 3. května 910",
+    "DodaciAdresaMisto": "Zlín-Malenovice",
+    "DodaciAdresaPSC": "76302",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "CZE"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 17367.1300,
+    "SumaDanCM": 3014.1300,
+    "Mena": {
+      "Kod": "CZK"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "CZE"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 1,
+        "Katalog": "CM049210",
+        "Nazev": "Case Mate Soap Bubble MagSafe - iPhone 14 Pro",
+        "Mnozstvi": 5.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 590.0000,
+        "CelkovaCenaCM": 2950.0000,
+        "DphCelkemCM": 3569.5000,
+        "DphSazba": 21.0000,
+        "DphDanCM": 619.5000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 2,
+        "Katalog": "CM047794",
+        "Nazev": "Case Mate Sticker Mount, black - Apple AirTag",
+        "Mnozstvi": 63.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 181.0000,
+        "CelkovaCenaCM": 11403.0000,
+        "DphCelkemCM": 13797.6300,
+        "DphSazba": 21.0000,
+        "DphDanCM": 2394.6300,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz": "PX231089",
+    "TypDokladu": 1,
+    "Modify_Date": null,
+    "Create_Date": "2023-07-27T09:13:19.653",
+    "CisloDokladu": "PJ231719",
+    "Nazev": "chybne duplicitni naskladneni",
+    "FakturacniAdresaNazev": "Ingredi Europa s.r.o.",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "Formanská 257",
+    "FakturacniAdresaMisto": "Praha",
+    "FakturacniAdresaPSC": "14900",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail": "",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "28544668",
+    "DIC": "CZ28544668",
+    "DodaciAdresaNazev": "Ingredi Europa s.r.o.",
+    "DodaciAdresaUlice": "Tř. 3. května 910",
+    "DodaciAdresaMisto": "Zlín-Malenovice",
+    "DodaciAdresaPSC": "76302",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "CZE"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 17367.1300,
+    "SumaDanCM": 3014.1300,
+    "Mena": {
+      "Kod": "CZK"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "CZE"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 1,
+        "Katalog": "CM049210",
+        "Nazev": "Case Mate Soap Bubble MagSafe - iPhone 14 Pro",
+        "Mnozstvi": 5.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 590.0000,
+        "CelkovaCenaCM": 2950.0000,
+        "DphCelkemCM": 3569.5000,
+        "DphSazba": 21.0000,
+        "DphDanCM": 619.5000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "10"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 2,
+        "Katalog": "CM047794",
+        "Nazev": "Case Mate Sticker Mount, black - Apple AirTag",
+        "Mnozstvi": 63.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 181.0000,
+        "CelkovaCenaCM": 11403.0000,
+        "DphCelkemCM": 13797.6300,
+        "DphSazba": 21.0000,
+        "DphDanCM": 2394.6300,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "10"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz": "PX231090",
+    "TypDokladu": 2,
+    "Modify_Date": null,
+    "Create_Date": "2023-07-27T09:14:47.41",
+    "CisloDokladu": "VJ232162",
+    "Nazev": "order suggestion PLOVDIV",
+    "FakturacniAdresaNazev": "iSTYLE EOOD",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "25 Vitosha BLVD",
+    "FakturacniAdresaMisto": "Sofia",
+    "FakturacniAdresaPSC": "1000",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "BGR"
+    },
+    "AdresaKoncovehoPrijemceEmail": "m.kirkov@istyle.bg",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "",
+    "DIC": "BG175220335",
+    "DodaciAdresaNazev": "iSTYLE EOOD - iSTYLE Plovdiv Plaza Mall",
+    "DodaciAdresaUlice": "3 Doctor Georgi Stranski str",
+    "DodaciAdresaMisto": "Plovdiv",
+    "DodaciAdresaPSC": "4019",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "BGR"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 352.8600,
+    "SumaDanCM": 0.0000,
+    "Mena": {
+      "Kod": "EUR"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "BGR"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 5,
+        "Katalog": "ACS04663",
+        "Nazev": "Spigen Crystal Flex, crystal clear - iPhone 14 Pro",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 9.1700,
+        "CelkovaCenaCM": 18.3400,
+        "DphCelkemCM": 18.3400,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 7,
+        "Katalog": "D23IPO14PBC1BK",
+        "Nazev": "Decoded Leather BackCover, black - iPhone 14 Pro",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 26.6200,
+        "CelkovaCenaCM": 53.2400,
+        "DphCelkemCM": 53.2400,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 2,
+        "Katalog": "114054114040",
+        "Nazev": "UAG Pathfinder MagSafe, black - iPhone 14 Pro",
+        "Mnozstvi": 3.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 22.7200,
+        "CelkovaCenaCM": 68.1600,
+        "DphCelkemCM": 68.1600,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 1,
+        "Katalog": "11316D114040",
+        "Nazev": "UAG Civilian, black - iPhone 13 Pro Max",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 21.9000,
+        "CelkovaCenaCM": 43.8000,
+        "DphCelkemCM": 43.8000,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 3,
+        "Katalog": "ACS03296",
+        "Nazev": "Spigen Crystal Flex, crystal clear - iPhone 13 Pro",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 9.1700,
+        "CelkovaCenaCM": 18.3400,
+        "DphCelkemCM": 18.3400,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 4,
+        "Katalog": "ACS03561",
+        "Nazev": "Spigen Crystal Hybrid, matte black - iPhone 13",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 13.3000,
+        "CelkovaCenaCM": 26.6000,
+        "DphCelkemCM": 26.6000,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 8,
+        "Katalog": "KI1401PM",
+        "Nazev": "Pitaka MagEZ 3 1500D case, black/grey - iPhone 14 Pro Max",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 42.2400,
+        "CelkovaCenaCM": 84.4800,
+        "DphCelkemCM": 84.4800,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 6,
+        "Katalog": "ACS04666",
+        "Nazev": "Spigen Crystal Hybrid, crystal clear - iPhone 14 Pro",
+        "Mnozstvi": 3.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 13.3000,
+        "CelkovaCenaCM": 39.9000,
+        "DphCelkemCM": 39.9000,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz": "PX231090",
+    "TypDokladu": 1,
+    "Modify_Date": null,
+    "Create_Date": "2023-07-27T09:14:49.413",
+    "CisloDokladu": "PJ231720",
+    "Nazev": "order suggestion PLOVDIV",
+    "FakturacniAdresaNazev": "iSTYLE EOOD",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "25 Vitosha BLVD",
+    "FakturacniAdresaMisto": "Sofia",
+    "FakturacniAdresaPSC": "1000",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "BGR"
+    },
+    "AdresaKoncovehoPrijemceEmail": "m.kirkov@istyle.bg",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "",
+    "DIC": "BG175220335",
+    "DodaciAdresaNazev": "iSTYLE EOOD - iSTYLE Plovdiv Plaza Mall",
+    "DodaciAdresaUlice": "3 Doctor Georgi Stranski str",
+    "DodaciAdresaMisto": "Plovdiv",
+    "DodaciAdresaPSC": "4019",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "BGR"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 352.8600,
+    "SumaDanCM": 0.0000,
+    "Mena": {
+      "Kod": "EUR"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "BGR"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 6,
+        "Katalog": "ACS04666",
+        "Nazev": "Spigen Crystal Hybrid, crystal clear - iPhone 14 Pro",
+        "Mnozstvi": 3.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 13.3000,
+        "CelkovaCenaCM": 39.9000,
+        "DphCelkemCM": 39.9000,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 8,
+        "Katalog": "KI1401PM",
+        "Nazev": "Pitaka MagEZ 3 1500D case, black/grey - iPhone 14 Pro Max",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 42.2400,
+        "CelkovaCenaCM": 84.4800,
+        "DphCelkemCM": 84.4800,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 3,
+        "Katalog": "ACS03296",
+        "Nazev": "Spigen Crystal Flex, crystal clear - iPhone 13 Pro",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 9.1700,
+        "CelkovaCenaCM": 18.3400,
+        "DphCelkemCM": 18.3400,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 5,
+        "Katalog": "ACS04663",
+        "Nazev": "Spigen Crystal Flex, crystal clear - iPhone 14 Pro",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 9.1700,
+        "CelkovaCenaCM": 18.3400,
+        "DphCelkemCM": 18.3400,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 4,
+        "Katalog": "ACS03561",
+        "Nazev": "Spigen Crystal Hybrid, matte black - iPhone 13",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 13.3000,
+        "CelkovaCenaCM": 26.6000,
+        "DphCelkemCM": 26.6000,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 2,
+        "Katalog": "114054114040",
+        "Nazev": "UAG Pathfinder MagSafe, black - iPhone 14 Pro",
+        "Mnozstvi": 3.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 22.7200,
+        "CelkovaCenaCM": 68.1600,
+        "DphCelkemCM": 68.1600,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 7,
+        "Katalog": "D23IPO14PBC1BK",
+        "Nazev": "Decoded Leather BackCover, black - iPhone 14 Pro",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 26.6200,
+        "CelkovaCenaCM": 53.2400,
+        "DphCelkemCM": 53.2400,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 1,
+        "Katalog": "11316D114040",
+        "Nazev": "UAG Civilian, black - iPhone 13 Pro Max",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 21.9000,
+        "CelkovaCenaCM": 43.8000,
+        "DphCelkemCM": 43.8000,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz": "PX231091",
+    "TypDokladu": 2,
+    "Modify_Date": null,
+    "Create_Date": "2023-07-27T09:19:53.113",
+    "CisloDokladu": "VJ232163",
+    "Nazev": "order suggestion SERDIKA",
+    "FakturacniAdresaNazev": "iSTYLE EOOD",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "25 Vitosha BLVD",
+    "FakturacniAdresaMisto": "Sofia",
+    "FakturacniAdresaPSC": "1000",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "BGR"
+    },
+    "AdresaKoncovehoPrijemceEmail": "m.kirkov@istyle.bg",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "",
+    "DIC": "BG175220335",
+    "DodaciAdresaNazev": "iSTYLE EOOD - iSTYLE Serdika",
+    "DodaciAdresaUlice": "Sitnyakovo Blvd. 48",
+    "DodaciAdresaMisto": "Sofia",
+    "DodaciAdresaPSC": "1505",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "BGR"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 320.2800,
+    "SumaDanCM": 0.0000,
+    "Mena": {
+      "Kod": "EUR"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "BGR"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 2,
+        "Katalog": "ACS04666",
+        "Nazev": "Spigen Crystal Hybrid, crystal clear - iPhone 14 Pro",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 13.3000,
+        "CelkovaCenaCM": 26.6000,
+        "DphCelkemCM": 26.6000,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 3,
+        "Katalog": "D23IPO14BC1BK",
+        "Nazev": "Decoded Leather BackCover, black - iPhone 14",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 26.6200,
+        "CelkovaCenaCM": 53.2400,
+        "DphCelkemCM": 53.2400,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 4,
+        "Katalog": "D23IPO14PMBC1BK",
+        "Nazev": "Decoded Leather BackCover, black - iPhone 14 Pro Max",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 26.6200,
+        "CelkovaCenaCM": 53.2400,
+        "DphCelkemCM": 53.2400,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 6,
+        "Katalog": "KI1301PA",
+        "Nazev": "Pitaka Air Case, black/grey - iPhone 13 Pro",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 37.6300,
+        "CelkovaCenaCM": 75.2600,
+        "DphCelkemCM": 75.2600,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 1,
+        "Katalog": "ACS04663",
+        "Nazev": "Spigen Crystal Flex, crystal clear - iPhone 14 Pro",
+        "Mnozstvi": 4.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 9.1700,
+        "CelkovaCenaCM": 36.6800,
+        "DphCelkemCM": 36.6800,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 5,
+        "Katalog": "KI1301P",
+        "Nazev": "Pitaka MagEZ Case 2, black/grey - iPhone 13 Pro",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 37.6300,
+        "CelkovaCenaCM": 75.2600,
+        "DphCelkemCM": 75.2600,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz": "PX231091",
+    "TypDokladu": 1,
+    "Modify_Date": null,
+    "Create_Date": "2023-07-27T09:19:54.73",
+    "CisloDokladu": "PJ231721",
+    "Nazev": "order suggestion SERDIKA",
+    "FakturacniAdresaNazev": "iSTYLE EOOD",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "25 Vitosha BLVD",
+    "FakturacniAdresaMisto": "Sofia",
+    "FakturacniAdresaPSC": "1000",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "BGR"
+    },
+    "AdresaKoncovehoPrijemceEmail": "m.kirkov@istyle.bg",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "",
+    "DIC": "BG175220335",
+    "DodaciAdresaNazev": "iSTYLE EOOD - iSTYLE Serdika",
+    "DodaciAdresaUlice": "Sitnyakovo Blvd. 48",
+    "DodaciAdresaMisto": "Sofia",
+    "DodaciAdresaPSC": "1505",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "BGR"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 320.2800,
+    "SumaDanCM": 0.0000,
+    "Mena": {
+      "Kod": "EUR"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "BGR"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 3,
+        "Katalog": "D23IPO14BC1BK",
+        "Nazev": "Decoded Leather BackCover, black - iPhone 14",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 26.6200,
+        "CelkovaCenaCM": 53.2400,
+        "DphCelkemCM": 53.2400,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 1,
+        "Katalog": "ACS04663",
+        "Nazev": "Spigen Crystal Flex, crystal clear - iPhone 14 Pro",
+        "Mnozstvi": 4.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 9.1700,
+        "CelkovaCenaCM": 36.6800,
+        "DphCelkemCM": 36.6800,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 5,
+        "Katalog": "KI1301P",
+        "Nazev": "Pitaka MagEZ Case 2, black/grey - iPhone 13 Pro",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 37.6300,
+        "CelkovaCenaCM": 75.2600,
+        "DphCelkemCM": 75.2600,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 4,
+        "Katalog": "D23IPO14PMBC1BK",
+        "Nazev": "Decoded Leather BackCover, black - iPhone 14 Pro Max",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 26.6200,
+        "CelkovaCenaCM": 53.2400,
+        "DphCelkemCM": 53.2400,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 6,
+        "Katalog": "KI1301PA",
+        "Nazev": "Pitaka Air Case, black/grey - iPhone 13 Pro",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 37.6300,
+        "CelkovaCenaCM": 75.2600,
+        "DphCelkemCM": 75.2600,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 2,
+        "Katalog": "ACS04666",
+        "Nazev": "Spigen Crystal Hybrid, crystal clear - iPhone 14 Pro",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 13.3000,
+        "CelkovaCenaCM": 26.6000,
+        "DphCelkemCM": 26.6000,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz": "PX231092",
+    "TypDokladu": 2,
+    "Modify_Date": null,
+    "Create_Date": "2023-07-27T09:22:00.5",
+    "CisloDokladu": "VJ232164",
+    "Nazev": "order suggestion RING",
+    "FakturacniAdresaNazev": "iSTYLE EOOD",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "25 Vitosha BLVD",
+    "FakturacniAdresaMisto": "Sofia",
+    "FakturacniAdresaPSC": "1000",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "BGR"
+    },
+    "AdresaKoncovehoPrijemceEmail": "m.kirkov@istyle.bg",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "",
+    "DIC": "BG175220335",
+    "DodaciAdresaNazev": "iSTYLE EOOD - iSTYLE Ringmall",
+    "DodaciAdresaUlice": "Okolovrasten Pat 214",
+    "DodaciAdresaMisto": "Sofia",
+    "DodaciAdresaPSC": "1415",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "BGR"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 384.6200,
+    "SumaDanCM": 0.0000,
+    "Mena": {
+      "Kod": "EUR"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "BGR"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 3,
+        "Katalog": "ACS04663",
+        "Nazev": "Spigen Crystal Flex, crystal clear - iPhone 14 Pro",
+        "Mnozstvi": 4.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 9.1700,
+        "CelkovaCenaCM": 36.6800,
+        "DphCelkemCM": 36.6800,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 2,
+        "Katalog": "ACS04650",
+        "Nazev": "Spigen Crystal Flex, crystal clear - iPhone 14 Plus",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 9.1700,
+        "CelkovaCenaCM": 18.3400,
+        "DphCelkemCM": 18.3400,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 6,
+        "Katalog": "D23IPO14PBC1BK",
+        "Nazev": "Decoded Leather BackCover, black - iPhone 14 Pro",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 26.6200,
+        "CelkovaCenaCM": 53.2400,
+        "DphCelkemCM": 53.2400,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 5,
+        "Katalog": "ACS04670",
+        "Nazev": "Spigen Crystal Hybrid MagSafe, white - iPhone 14 Pro",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 28.3000,
+        "CelkovaCenaCM": 56.6000,
+        "DphCelkemCM": 56.6000,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 1,
+        "Katalog": "ACS00944",
+        "Nazev": "Spigen Rugged Armor, black - iPhone SE (2022/2020)",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 8.4200,
+        "CelkovaCenaCM": 16.8400,
+        "DphCelkemCM": 16.8400,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 7,
+        "Katalog": "KI1401PA",
+        "Nazev": "Pitaka MagEZ 3 600D case, black/grey - iPhone 14 Pro",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 44.0800,
+        "CelkovaCenaCM": 88.1600,
+        "DphCelkemCM": 88.1600,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 4,
+        "Katalog": "ACS04666",
+        "Nazev": "Spigen Crystal Hybrid, crystal clear - iPhone 14 Pro",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 13.3000,
+        "CelkovaCenaCM": 26.6000,
+        "DphCelkemCM": 26.6000,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 8,
+        "Katalog": "KI1401PMA",
+        "Nazev": "Pitaka MagEZ 3 600D case, black/grey - iPhone 14 Pro Max",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 44.0800,
+        "CelkovaCenaCM": 88.1600,
+        "DphCelkemCM": 88.1600,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz": "PX231092",
+    "TypDokladu": 1,
+    "Modify_Date": null,
+    "Create_Date": "2023-07-27T09:22:02.45",
+    "CisloDokladu": "PJ231722",
+    "Nazev": "order suggestion RING",
+    "FakturacniAdresaNazev": "iSTYLE EOOD",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "25 Vitosha BLVD",
+    "FakturacniAdresaMisto": "Sofia",
+    "FakturacniAdresaPSC": "1000",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "BGR"
+    },
+    "AdresaKoncovehoPrijemceEmail": "m.kirkov@istyle.bg",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "",
+    "DIC": "BG175220335",
+    "DodaciAdresaNazev": "iSTYLE EOOD - iSTYLE Ringmall",
+    "DodaciAdresaUlice": "Okolovrasten Pat 214",
+    "DodaciAdresaMisto": "Sofia",
+    "DodaciAdresaPSC": "1415",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "BGR"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 384.6200,
+    "SumaDanCM": 0.0000,
+    "Mena": {
+      "Kod": "EUR"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "BGR"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 5,
+        "Katalog": "ACS04670",
+        "Nazev": "Spigen Crystal Hybrid MagSafe, white - iPhone 14 Pro",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 28.3000,
+        "CelkovaCenaCM": 56.6000,
+        "DphCelkemCM": 56.6000,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 8,
+        "Katalog": "KI1401PMA",
+        "Nazev": "Pitaka MagEZ 3 600D case, black/grey - iPhone 14 Pro Max",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 44.0800,
+        "CelkovaCenaCM": 88.1600,
+        "DphCelkemCM": 88.1600,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 7,
+        "Katalog": "KI1401PA",
+        "Nazev": "Pitaka MagEZ 3 600D case, black/grey - iPhone 14 Pro",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 44.0800,
+        "CelkovaCenaCM": 88.1600,
+        "DphCelkemCM": 88.1600,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 1,
+        "Katalog": "ACS00944",
+        "Nazev": "Spigen Rugged Armor, black - iPhone SE (2022/2020)",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 8.4200,
+        "CelkovaCenaCM": 16.8400,
+        "DphCelkemCM": 16.8400,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 2,
+        "Katalog": "ACS04650",
+        "Nazev": "Spigen Crystal Flex, crystal clear - iPhone 14 Plus",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 9.1700,
+        "CelkovaCenaCM": 18.3400,
+        "DphCelkemCM": 18.3400,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 6,
+        "Katalog": "D23IPO14PBC1BK",
+        "Nazev": "Decoded Leather BackCover, black - iPhone 14 Pro",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 26.6200,
+        "CelkovaCenaCM": 53.2400,
+        "DphCelkemCM": 53.2400,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 3,
+        "Katalog": "ACS04663",
+        "Nazev": "Spigen Crystal Flex, crystal clear - iPhone 14 Pro",
+        "Mnozstvi": 4.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 9.1700,
+        "CelkovaCenaCM": 36.6800,
+        "DphCelkemCM": 36.6800,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 4,
+        "Katalog": "ACS04666",
+        "Nazev": "Spigen Crystal Hybrid, crystal clear - iPhone 14 Pro",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 13.3000,
+        "CelkovaCenaCM": 26.6000,
+        "DphCelkemCM": 26.6000,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz": "PX231093",
+    "TypDokladu": 2,
+    "Modify_Date": null,
+    "Create_Date": "2023-07-27T09:25:26.943",
+    "CisloDokladu": "VJ232165",
+    "Nazev": "order suggesiton PARADISE",
+    "FakturacniAdresaNazev": "iSTYLE EOOD",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "25 Vitosha BLVD",
+    "FakturacniAdresaMisto": "Sofia",
+    "FakturacniAdresaPSC": "1000",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "BGR"
+    },
+    "AdresaKoncovehoPrijemceEmail": "m.kirkov@istyle.bg",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "",
+    "DIC": "BG175220335",
+    "DodaciAdresaNazev": "iSTYLE EOOD - iSTYLE Paradise",
+    "DodaciAdresaUlice": "Cherni Vrah Blvd. 100",
+    "DodaciAdresaMisto": "Sofia",
+    "DodaciAdresaPSC": "1407",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "BGR"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 1127.5100,
+    "SumaDanCM": 0.0000,
+    "Mena": {
+      "Kod": "EUR"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "BGR"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 8,
+        "Katalog": "114091110243",
+        "Nazev": "UAG Essential Armor MagSafe, ice - iPhone 14 Pro",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 17.6800,
+        "CelkovaCenaCM": 35.3600,
+        "DphCelkemCM": 35.3600,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 21,
+        "Katalog": "KI1401PMA",
+        "Nazev": "Pitaka MagEZ 3 600D case, black/grey - iPhone 14 Pro Max",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 44.0800,
+        "CelkovaCenaCM": 88.1600,
+        "DphCelkemCM": 88.1600,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 4,
+        "Katalog": "114031113940",
+        "Nazev": "UAG Monarch Pro Kevlar MagSafe, kevlar black - iPhone 14 Pro Max",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 34.5000,
+        "CelkovaCenaCM": 69.0000,
+        "DphCelkemCM": 69.0000,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 7,
+        "Katalog": "114062114040",
+        "Nazev": "UAG Pathfinder, black - iPhone 14 Pro",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 16.8100,
+        "CelkovaCenaCM": 33.6200,
+        "DphCelkemCM": 33.6200,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 5,
+        "Katalog": "114036117272",
+        "Nazev": "UAG Civilian MagSafe, olive - iPhone 14",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 24.4000,
+        "CelkovaCenaCM": 48.8000,
+        "DphCelkemCM": 48.8000,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 9,
+        "Katalog": "ACS04585",
+        "Nazev": "Spigen Metal Fit Pro, graphite - Apple Watch 8/7 45mm",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 29.2000,
+        "CelkovaCenaCM": 58.4000,
+        "DphCelkemCM": 58.4000,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 15,
+        "Katalog": "D21AP3C1SCL",
+        "Nazev": "Decoded Silicone Aircase, charcoal - Airpods 3",
+        "Mnozstvi": 3.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 11.0000,
+        "CelkovaCenaCM": 33.0000,
+        "DphCelkemCM": 33.0000,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 18,
+        "Katalog": "D23APP2C1SMNY",
+        "Nazev": "Decoded Silicone Aircase, navy peony - Airpods Pro 2",
+        "Mnozstvi": 3.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 12.8400,
+        "CelkovaCenaCM": 38.5200,
+        "DphCelkemCM": 38.5200,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 11,
+        "Katalog": "ACS04666",
+        "Nazev": "Spigen Crystal Hybrid, crystal clear - iPhone 14 Pro",
+        "Mnozstvi": 3.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 13.3000,
+        "CelkovaCenaCM": 39.9000,
+        "DphCelkemCM": 39.9000,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 12,
+        "Katalog": "ACS04670",
+        "Nazev": "Spigen Crystal Hybrid MagSafe, white - iPhone 14 Pro",
+        "Mnozstvi": 3.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 28.3000,
+        "CelkovaCenaCM": 84.9000,
+        "DphCelkemCM": 84.9000,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 13,
+        "Katalog": "ACS04823",
+        "Nazev": "Spigen Ultra Hybrid, frost clear - iPhone 14 Pro Max",
+        "Mnozstvi": 5.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 12.1400,
+        "CelkovaCenaCM": 60.7000,
+        "DphCelkemCM": 60.7000,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 19,
+        "Katalog": "D23IPO14PBC1BK",
+        "Nazev": "Decoded Leather BackCover, black - iPhone 14 Pro",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 26.6200,
+        "CelkovaCenaCM": 53.2400,
+        "DphCelkemCM": 53.2400,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 17,
+        "Katalog": "D23APP2C1SLR",
+        "Nazev": "Decoded Silicone Aircase, lavender - Airpods Pro 2",
+        "Mnozstvi": 3.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 12.8400,
+        "CelkovaCenaCM": 38.5200,
+        "DphCelkemCM": 38.5200,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 1,
+        "Katalog": "076CS27073",
+        "Nazev": "Spigen Crystal Flex, clear - iPhone 11",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 7.9700,
+        "CelkovaCenaCM": 15.9400,
+        "DphCelkemCM": 15.9400,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 3,
+        "Katalog": "11315K117272",
+        "Nazev": "UAG Standard Issue, olive - iPhone 13 Pro",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 17.6800,
+        "CelkovaCenaCM": 35.3600,
+        "DphCelkemCM": 35.3600,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 10,
+        "Katalog": "ACS04663",
+        "Nazev": "Spigen Crystal Flex, crystal clear - iPhone 14 Pro",
+        "Mnozstvi": 3.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 9.1700,
+        "CelkovaCenaCM": 27.5100,
+        "DphCelkemCM": 27.5100,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 23,
+        "Katalog": "NM01206385",
+        "Nazev": "Nomad Sport Case, marina blue - iPhone 14 Pro Max",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 28.9200,
+        "CelkovaCenaCM": 57.8400,
+        "DphCelkemCM": 57.8400,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 14,
+        "Katalog": "ACS05481",
+        "Nazev": "Spigen Ultra Hybrid, clear - AirPods Pro 2",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 22.0600,
+        "CelkovaCenaCM": 44.1200,
+        "DphCelkemCM": 44.1200,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 6,
+        "Katalog": "114051113940",
+        "Nazev": "UAG Metropolis LT MagSafe, kevlar black - iPhone 14 Pro Max",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 22.7200,
+        "CelkovaCenaCM": 45.4400,
+        "DphCelkemCM": 45.4400,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 16,
+        "Katalog": "D23APP2C1SCL",
+        "Nazev": "Decoded Silicone Aircase, charcoal - Airpods Pro 2",
+        "Mnozstvi": 5.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 12.8400,
+        "CelkovaCenaCM": 64.2000,
+        "DphCelkemCM": 64.2000,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 2,
+        "Katalog": "076CS27086",
+        "Nazev": "Spigen Crystal Hybrid, clear - iPhone 11",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 11.6500,
+        "CelkovaCenaCM": 23.3000,
+        "DphCelkemCM": 23.3000,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 22,
+        "Katalog": "NM01000785",
+        "Nazev": "Nomad Leather case, black - AirPods 3",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 23.6000,
+        "CelkovaCenaCM": 47.2000,
+        "DphCelkemCM": 47.2000,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 20,
+        "Katalog": "KI1401PM",
+        "Nazev": "Pitaka MagEZ 3 1500D case, black/grey - iPhone 14 Pro Max",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 42.2400,
+        "CelkovaCenaCM": 84.4800,
+        "DphCelkemCM": 84.4800,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz": "PX231093",
+    "TypDokladu": 1,
+    "Modify_Date": null,
+    "Create_Date": "2023-07-27T09:25:31.19",
+    "CisloDokladu": "PJ231723",
+    "Nazev": "order suggesiton PARADISE",
+    "FakturacniAdresaNazev": "iSTYLE EOOD",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "25 Vitosha BLVD",
+    "FakturacniAdresaMisto": "Sofia",
+    "FakturacniAdresaPSC": "1000",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "BGR"
+    },
+    "AdresaKoncovehoPrijemceEmail": "m.kirkov@istyle.bg",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "",
+    "DIC": "BG175220335",
+    "DodaciAdresaNazev": "iSTYLE EOOD - iSTYLE Paradise",
+    "DodaciAdresaUlice": "Cherni Vrah Blvd. 100",
+    "DodaciAdresaMisto": "Sofia",
+    "DodaciAdresaPSC": "1407",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "BGR"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 1127.5100,
+    "SumaDanCM": 0.0000,
+    "Mena": {
+      "Kod": "EUR"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "BGR"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 12,
+        "Katalog": "ACS04670",
+        "Nazev": "Spigen Crystal Hybrid MagSafe, white - iPhone 14 Pro",
+        "Mnozstvi": 3.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 28.3000,
+        "CelkovaCenaCM": 84.9000,
+        "DphCelkemCM": 84.9000,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 11,
+        "Katalog": "ACS04666",
+        "Nazev": "Spigen Crystal Hybrid, crystal clear - iPhone 14 Pro",
+        "Mnozstvi": 3.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 13.3000,
+        "CelkovaCenaCM": 39.9000,
+        "DphCelkemCM": 39.9000,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 15,
+        "Katalog": "D21AP3C1SCL",
+        "Nazev": "Decoded Silicone Aircase, charcoal - Airpods 3",
+        "Mnozstvi": 3.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 11.0000,
+        "CelkovaCenaCM": 33.0000,
+        "DphCelkemCM": 33.0000,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 5,
+        "Katalog": "114036117272",
+        "Nazev": "UAG Civilian MagSafe, olive - iPhone 14",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 24.4000,
+        "CelkovaCenaCM": 48.8000,
+        "DphCelkemCM": 48.8000,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 23,
+        "Katalog": "NM01206385",
+        "Nazev": "Nomad Sport Case, marina blue - iPhone 14 Pro Max",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 28.9200,
+        "CelkovaCenaCM": 57.8400,
+        "DphCelkemCM": 57.8400,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 13,
+        "Katalog": "ACS04823",
+        "Nazev": "Spigen Ultra Hybrid, frost clear - iPhone 14 Pro Max",
+        "Mnozstvi": 5.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 12.1400,
+        "CelkovaCenaCM": 60.7000,
+        "DphCelkemCM": 60.7000,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 10,
+        "Katalog": "ACS04663",
+        "Nazev": "Spigen Crystal Flex, crystal clear - iPhone 14 Pro",
+        "Mnozstvi": 3.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 9.1700,
+        "CelkovaCenaCM": 27.5100,
+        "DphCelkemCM": 27.5100,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 6,
+        "Katalog": "114051113940",
+        "Nazev": "UAG Metropolis LT MagSafe, kevlar black - iPhone 14 Pro Max",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 22.7200,
+        "CelkovaCenaCM": 45.4400,
+        "DphCelkemCM": 45.4400,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 8,
+        "Katalog": "114091110243",
+        "Nazev": "UAG Essential Armor MagSafe, ice - iPhone 14 Pro",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 17.6800,
+        "CelkovaCenaCM": 35.3600,
+        "DphCelkemCM": 35.3600,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 4,
+        "Katalog": "114031113940",
+        "Nazev": "UAG Monarch Pro Kevlar MagSafe, kevlar black - iPhone 14 Pro Max",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 34.5000,
+        "CelkovaCenaCM": 69.0000,
+        "DphCelkemCM": 69.0000,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 9,
+        "Katalog": "ACS04585",
+        "Nazev": "Spigen Metal Fit Pro, graphite - Apple Watch 8/7 45mm",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 29.2000,
+        "CelkovaCenaCM": 58.4000,
+        "DphCelkemCM": 58.4000,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 7,
+        "Katalog": "114062114040",
+        "Nazev": "UAG Pathfinder, black - iPhone 14 Pro",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 16.8100,
+        "CelkovaCenaCM": 33.6200,
+        "DphCelkemCM": 33.6200,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 19,
+        "Katalog": "D23IPO14PBC1BK",
+        "Nazev": "Decoded Leather BackCover, black - iPhone 14 Pro",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 26.6200,
+        "CelkovaCenaCM": 53.2400,
+        "DphCelkemCM": 53.2400,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 16,
+        "Katalog": "D23APP2C1SCL",
+        "Nazev": "Decoded Silicone Aircase, charcoal - Airpods Pro 2",
+        "Mnozstvi": 5.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 12.8400,
+        "CelkovaCenaCM": 64.2000,
+        "DphCelkemCM": 64.2000,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 2,
+        "Katalog": "076CS27086",
+        "Nazev": "Spigen Crystal Hybrid, clear - iPhone 11",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 11.6500,
+        "CelkovaCenaCM": 23.3000,
+        "DphCelkemCM": 23.3000,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 14,
+        "Katalog": "ACS05481",
+        "Nazev": "Spigen Ultra Hybrid, clear - AirPods Pro 2",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 22.0600,
+        "CelkovaCenaCM": 44.1200,
+        "DphCelkemCM": 44.1200,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 22,
+        "Katalog": "NM01000785",
+        "Nazev": "Nomad Leather case, black - AirPods 3",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 23.6000,
+        "CelkovaCenaCM": 47.2000,
+        "DphCelkemCM": 47.2000,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 20,
+        "Katalog": "KI1401PM",
+        "Nazev": "Pitaka MagEZ 3 1500D case, black/grey - iPhone 14 Pro Max",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 42.2400,
+        "CelkovaCenaCM": 84.4800,
+        "DphCelkemCM": 84.4800,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 3,
+        "Katalog": "11315K117272",
+        "Nazev": "UAG Standard Issue, olive - iPhone 13 Pro",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 17.6800,
+        "CelkovaCenaCM": 35.3600,
+        "DphCelkemCM": 35.3600,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 1,
+        "Katalog": "076CS27073",
+        "Nazev": "Spigen Crystal Flex, clear - iPhone 11",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 7.9700,
+        "CelkovaCenaCM": 15.9400,
+        "DphCelkemCM": 15.9400,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 18,
+        "Katalog": "D23APP2C1SMNY",
+        "Nazev": "Decoded Silicone Aircase, navy peony - Airpods Pro 2",
+        "Mnozstvi": 3.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 12.8400,
+        "CelkovaCenaCM": 38.5200,
+        "DphCelkemCM": 38.5200,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 21,
+        "Katalog": "KI1401PMA",
+        "Nazev": "Pitaka MagEZ 3 600D case, black/grey - iPhone 14 Pro Max",
+        "Mnozstvi": 2.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 44.0800,
+        "CelkovaCenaCM": 88.1600,
+        "DphCelkemCM": 88.1600,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      },
+      {
+        "CisloPolozky": 17,
+        "Katalog": "D23APP2C1SLR",
+        "Nazev": "Decoded Silicone Aircase, lavender - Airpods Pro 2",
+        "Mnozstvi": 3.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 12.8400,
+        "CelkovaCenaCM": 38.5200,
+        "DphCelkemCM": 38.5200,
+        "DphSazba": 0.0000,
+        "DphDanCM": 0.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "33"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz": "PX231094",
+    "TypDokladu": 2,
+    "Modify_Date": null,
+    "Create_Date": "2023-07-27T09:27:18.457",
+    "CisloDokladu": "VJ232166",
+    "Nazev": "RMA 27.7. rma (2)",
+    "FakturacniAdresaNazev": "",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "",
+    "FakturacniAdresaMisto": "",
+    "FakturacniAdresaPSC": "",
+    "AdresaPrijemceFakturyStat": null,
+    "AdresaKoncovehoPrijemceEmail": "",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "28544668",
+    "DIC": "CZ28544668",
+    "DodaciAdresaNazev": "",
+    "DodaciAdresaUlice": "",
+    "DodaciAdresaMisto": "",
+    "DodaciAdresaPSC": "",
+    "AdresaKoncovehoPrijemceStat": null,
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": null,
+    "SumaCelkemCM": 824.0100,
+    "SumaDanCM": 143.0100,
+    "Mena": {
+      "Kod": "CZK"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": null,
+    "Polozky": [
+      {
+        "CisloPolozky": 1,
+        "Katalog": "144896-1212",
+        "Nazev": "Speck SmartShell, clear - MacBook Pro 14\"",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 681.0000,
+        "CelkovaCenaCM": 681.0000,
+        "DphCelkemCM": 824.0100,
+        "DphSazba": 21.0000,
+        "DphDanCM": 143.0100,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz": "PX231094",
+    "TypDokladu": 1,
+    "Modify_Date": null,
+    "Create_Date": "2023-07-27T09:27:19.747",
+    "CisloDokladu": "PJ231724",
+    "Nazev": "RMA 27.7. rma (2)",
+    "FakturacniAdresaNazev": "",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "",
+    "FakturacniAdresaMisto": "",
+    "FakturacniAdresaPSC": "",
+    "AdresaPrijemceFakturyStat": null,
+    "AdresaKoncovehoPrijemceEmail": "",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "28544668",
+    "DIC": "CZ28544668",
+    "DodaciAdresaNazev": "",
+    "DodaciAdresaUlice": "",
+    "DodaciAdresaMisto": "",
+    "DodaciAdresaPSC": "",
+    "AdresaKoncovehoPrijemceStat": null,
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": null,
+    "SumaCelkemCM": 824.0100,
+    "SumaDanCM": 143.0100,
+    "Mena": {
+      "Kod": "CZK"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": null,
+    "Polozky": [
+      {
+        "CisloPolozky": 1,
+        "Katalog": "144896-1212",
+        "Nazev": "Speck SmartShell, clear - MacBook Pro 14\"",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 681.0000,
+        "CelkovaCenaCM": 681.0000,
+        "DphCelkemCM": 824.0100,
+        "DphSazba": 21.0000,
+        "DphDanCM": 143.0100,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "08"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz": "PX231095",
+    "TypDokladu": 2,
+    "Modify_Date": null,
+    "Create_Date": "2023-07-27T10:41:24.617",
+    "CisloDokladu": "VJ232167",
+    "Nazev": "RMA 27.7. likvidace (2)",
+    "FakturacniAdresaNazev": "",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "",
+    "FakturacniAdresaMisto": "",
+    "FakturacniAdresaPSC": "",
+    "AdresaPrijemceFakturyStat": null,
+    "AdresaKoncovehoPrijemceEmail": "",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "28544668",
+    "DIC": "CZ28544668",
+    "DodaciAdresaNazev": "",
+    "DodaciAdresaUlice": "",
+    "DodaciAdresaMisto": "",
+    "DodaciAdresaPSC": "",
+    "AdresaKoncovehoPrijemceStat": null,
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": null,
+    "SumaCelkemCM": 251.6800,
+    "SumaDanCM": 43.6800,
+    "Mena": {
+      "Kod": "CZK"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": null,
+    "Polozky": [
+      {
+        "CisloPolozky": 1,
+        "Katalog": "AGL00114",
+        "Nazev": "Spigen Align Glass FC - iPhone 11 Pro",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 208.0000,
+        "CelkovaCenaCM": 208.0000,
+        "DphCelkemCM": 251.6800,
+        "DphSazba": 21.0000,
+        "DphDanCM": 43.6800,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz": "PX231095",
+    "TypDokladu": 1,
+    "Modify_Date": null,
+    "Create_Date": "2023-07-27T10:41:25.78",
+    "CisloDokladu": "PJ231725",
+    "Nazev": "RMA 27.7. likvidace (2)",
+    "FakturacniAdresaNazev": "",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "",
+    "FakturacniAdresaMisto": "",
+    "FakturacniAdresaPSC": "",
+    "AdresaPrijemceFakturyStat": null,
+    "AdresaKoncovehoPrijemceEmail": "",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "28544668",
+    "DIC": "CZ28544668",
+    "DodaciAdresaNazev": "",
+    "DodaciAdresaUlice": "",
+    "DodaciAdresaMisto": "",
+    "DodaciAdresaPSC": "",
+    "AdresaKoncovehoPrijemceStat": null,
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": null,
+    "SumaCelkemCM": 251.6800,
+    "SumaDanCM": 43.6800,
+    "Mena": {
+      "Kod": "CZK"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": null,
+    "Polozky": [
+      {
+        "CisloPolozky": 1,
+        "Katalog": "AGL00114",
+        "Nazev": "Spigen Align Glass FC - iPhone 11 Pro",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 208.0000,
+        "CelkovaCenaCM": 208.0000,
+        "DphCelkemCM": 251.6800,
+        "DphSazba": 21.0000,
+        "DphDanCM": 43.6800,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "25"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz": "PX231096",
+    "TypDokladu": 2,
+    "Modify_Date": null,
+    "Create_Date": "2023-07-27T12:00:20.973",
+    "CisloDokladu": "VJ232170",
+    "Nazev": "RMA",
+    "FakturacniAdresaNazev": "Ingredi Europa s.r.o.",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "Formanská 257",
+    "FakturacniAdresaMisto": "Praha",
+    "FakturacniAdresaPSC": "14900",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail": "",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "28544668",
+    "DIC": "CZ28544668",
+    "DodaciAdresaNazev": "Ingredi Europa s.r.o.",
+    "DodaciAdresaUlice": "Tř. 3. května 910",
+    "DodaciAdresaMisto": "Zlín-Malenovice",
+    "DodaciAdresaPSC": "76302",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "CZE"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 2099.3500,
+    "SumaDanCM": 364.3500,
+    "Mena": {
+      "Kod": "CZK"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "CZE"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 1,
+        "Katalog": "NL47-2002TW-4PK",
+        "Nazev": "Nanoleaf Shapes Triangles Starter Kit 4 Pack ",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 1735.0000,
+        "CelkovaCenaCM": 1735.0000,
+        "DphCelkemCM": 2099.3500,
+        "DphSazba": 21.0000,
+        "DphDanCM": 364.3500,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz": "PX231096",
+    "TypDokladu": 1,
+    "Modify_Date": null,
+    "Create_Date": "2023-07-27T12:00:21.683",
+    "CisloDokladu": "PJ231728",
+    "Nazev": "RMA",
+    "FakturacniAdresaNazev": "Ingredi Europa s.r.o.",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "Formanská 257",
+    "FakturacniAdresaMisto": "Praha",
+    "FakturacniAdresaPSC": "14900",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail": "",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "28544668",
+    "DIC": "CZ28544668",
+    "DodaciAdresaNazev": "Ingredi Europa s.r.o.",
+    "DodaciAdresaUlice": "Tř. 3. května 910",
+    "DodaciAdresaMisto": "Zlín-Malenovice",
+    "DodaciAdresaPSC": "76302",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "CZE"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 2099.3500,
+    "SumaDanCM": 364.3500,
+    "Mena": {
+      "Kod": "CZK"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "CZE"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 1,
+        "Katalog": "NL47-2002TW-4PK",
+        "Nazev": "Nanoleaf Shapes Triangles Starter Kit 4 Pack ",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 1735.0000,
+        "CelkovaCenaCM": 1735.0000,
+        "DphCelkemCM": 2099.3500,
+        "DphSazba": 21.0000,
+        "DphDanCM": 364.3500,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "08"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz": "PX231097",
+    "TypDokladu": 2,
+    "Modify_Date": null,
+    "Create_Date": "2023-07-27T13:48:48.383",
+    "CisloDokladu": "VJ232171",
+    "Nazev": "zentify zamena",
+    "FakturacniAdresaNazev": "Ingredi Europa s.r.o.",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "Formanská 257",
+    "FakturacniAdresaMisto": "Praha",
+    "FakturacniAdresaPSC": "14900",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail": "",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "28544668",
+    "DIC": "CZ28544668",
+    "DodaciAdresaNazev": "Ingredi Europa s.r.o.",
+    "DodaciAdresaUlice": "Tř. 3. května 910",
+    "DodaciAdresaMisto": "Zlín-Malenovice",
+    "DodaciAdresaPSC": "76302",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "CZE"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 978.8900,
+    "SumaDanCM": 169.8900,
+    "Mena": {
+      "Kod": "CZK"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "CZE"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 1,
+        "Katalog": "HLBKIO102GP",
+        "Nazev": "iOttie Active Edge Bike Mount, black + GoPro adap.",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 809.0000,
+        "CelkovaCenaCM": 809.0000,
+        "DphCelkemCM": 978.8900,
+        "DphSazba": 21.0000,
+        "DphDanCM": 169.8900,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz": "PX231097",
+    "TypDokladu": 1,
+    "Modify_Date": null,
+    "Create_Date": "2023-07-27T13:48:49.167",
+    "CisloDokladu": "PJ231729",
+    "Nazev": "zentify zamena",
+    "FakturacniAdresaNazev": "Ingredi Europa s.r.o.",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "Formanská 257",
+    "FakturacniAdresaMisto": "Praha",
+    "FakturacniAdresaPSC": "14900",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail": "",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "28544668",
+    "DIC": "CZ28544668",
+    "DodaciAdresaNazev": "Ingredi Europa s.r.o.",
+    "DodaciAdresaUlice": "Tř. 3. května 910",
+    "DodaciAdresaMisto": "Zlín-Malenovice",
+    "DodaciAdresaPSC": "76302",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "CZE"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 978.8900,
+    "SumaDanCM": 169.8900,
+    "Mena": {
+      "Kod": "CZK"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "CZE"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 1,
+        "Katalog": "HLBKIO102GP",
+        "Nazev": "iOttie Active Edge Bike Mount, black + GoPro adap.",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 809.0000,
+        "CelkovaCenaCM": 809.0000,
+        "DphCelkemCM": 978.8900,
+        "DphSazba": 21.0000,
+        "DphDanCM": 169.8900,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "27"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz": "PX231098",
+    "TypDokladu": 2,
+    "Modify_Date": null,
+    "Create_Date": "2023-07-28T07:30:42.14",
+    "CisloDokladu": "VJ232172",
+    "Nazev": "posk. bal.",
+    "FakturacniAdresaNazev": "Ingredi Europa s.r.o.",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "Formanská 257",
+    "FakturacniAdresaMisto": "Praha",
+    "FakturacniAdresaPSC": "14900",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail": "",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "28544668",
+    "DIC": "CZ28544668",
+    "DodaciAdresaNazev": "Ingredi Europa s.r.o.",
+    "DodaciAdresaUlice": "Tř. 3. května 910",
+    "DodaciAdresaMisto": "Zlín-Malenovice",
+    "DodaciAdresaPSC": "76302",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "CZE"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 3146.0000,
+    "SumaDanCM": 546.0000,
+    "Mena": {
+      "Kod": "CZK"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "CZE"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 1,
+        "Katalog": "HLCRIO171AM",
+        "Nazev": "iOttie Easy One Touch 5 Dash & Windshield Mount",
+        "Mnozstvi": 5.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 520.0000,
+        "CelkovaCenaCM": 2600.0000,
+        "DphCelkemCM": 3146.0000,
+        "DphSazba": 21.0000,
+        "DphDanCM": 546.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz": "PX231098",
+    "TypDokladu": 1,
+    "Modify_Date": null,
+    "Create_Date": "2023-07-28T07:30:43.007",
+    "CisloDokladu": "PJ231730",
+    "Nazev": "posk. bal.",
+    "FakturacniAdresaNazev": "Ingredi Europa s.r.o.",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "Formanská 257",
+    "FakturacniAdresaMisto": "Praha",
+    "FakturacniAdresaPSC": "14900",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail": "",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "28544668",
+    "DIC": "CZ28544668",
+    "DodaciAdresaNazev": "Ingredi Europa s.r.o.",
+    "DodaciAdresaUlice": "Tř. 3. května 910",
+    "DodaciAdresaMisto": "Zlín-Malenovice",
+    "DodaciAdresaPSC": "76302",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "CZE"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 3146.0000,
+    "SumaDanCM": 546.0000,
+    "Mena": {
+      "Kod": "CZK"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "CZE"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 1,
+        "Katalog": "HLCRIO171AM",
+        "Nazev": "iOttie Easy One Touch 5 Dash & Windshield Mount",
+        "Mnozstvi": 5.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 520.0000,
+        "CelkovaCenaCM": 2600.0000,
+        "DphCelkemCM": 3146.0000,
+        "DphSazba": 21.0000,
+        "DphDanCM": 546.0000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "09"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz": "PX231099",
+    "TypDokladu": 2,
+    "Modify_Date": null,
+    "Create_Date": "2023-07-28T11:04:47.383",
+    "CisloDokladu": "VJ232180",
+    "Nazev": "RMA 28.7. likvidace",
+    "FakturacniAdresaNazev": "Ingredi Europa s.r.o.",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "Formanská 257",
+    "FakturacniAdresaMisto": "Praha",
+    "FakturacniAdresaPSC": "14900",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail": "",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "28544668",
+    "DIC": "CZ28544668",
+    "DodaciAdresaNazev": "Ingredi Europa s.r.o.",
+    "DodaciAdresaUlice": "Tř. 3. května 910",
+    "DodaciAdresaMisto": "Zlín-Malenovice",
+    "DodaciAdresaPSC": "76302",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "CZE"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 6473.5000,
+    "SumaDanCM": 1123.5000,
+    "Mena": {
+      "Kod": "CZK"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "CZE"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 1,
+        "Katalog": "NOC-S-EC",
+        "Nazev": "Netatmo Smart Outdoor Camera with Siren",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 5350.0000,
+        "CelkovaCenaCM": 5350.0000,
+        "DphCelkemCM": 6473.5000,
+        "DphSazba": 21.0000,
+        "DphDanCM": 1123.5000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz": "PX231099",
+    "TypDokladu": 1,
+    "Modify_Date": null,
+    "Create_Date": "2023-07-28T11:04:48.047",
+    "CisloDokladu": "PJ231731",
+    "Nazev": "RMA 28.7. likvidace",
+    "FakturacniAdresaNazev": "Ingredi Europa s.r.o.",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "Formanská 257",
+    "FakturacniAdresaMisto": "Praha",
+    "FakturacniAdresaPSC": "14900",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail": "",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "28544668",
+    "DIC": "CZ28544668",
+    "DodaciAdresaNazev": "Ingredi Europa s.r.o.",
+    "DodaciAdresaUlice": "Tř. 3. května 910",
+    "DodaciAdresaMisto": "Zlín-Malenovice",
+    "DodaciAdresaPSC": "76302",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "CZE"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 6473.5000,
+    "SumaDanCM": 1123.5000,
+    "Mena": {
+      "Kod": "CZK"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "CZE"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 1,
+        "Katalog": "NOC-S-EC",
+        "Nazev": "Netatmo Smart Outdoor Camera with Siren",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 5350.0000,
+        "CelkovaCenaCM": 5350.0000,
+        "DphCelkemCM": 6473.5000,
+        "DphSazba": 21.0000,
+        "DphDanCM": 1123.5000,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "25"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz": "PX231100",
+    "TypDokladu": 2,
+    "Modify_Date": null,
+    "Create_Date": "2023-07-31T07:13:07.2",
+    "CisloDokladu": "VJ232183",
+    "Nazev": "RMA",
+    "FakturacniAdresaNazev": "Ingredi Europa s.r.o.",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "Formanská 257",
+    "FakturacniAdresaMisto": "Praha",
+    "FakturacniAdresaPSC": "14900",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail": "",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "28544668",
+    "DIC": "CZ28544668",
+    "DodaciAdresaNazev": "Ingredi Europa s.r.o.",
+    "DodaciAdresaUlice": "Tř. 3. května 910",
+    "DodaciAdresaMisto": "Zlín-Malenovice",
+    "DodaciAdresaPSC": "76302",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "CZE"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 347.2700,
+    "SumaDanCM": 60.2700,
+    "Mena": {
+      "Kod": "CZK"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "CZE"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 1,
+        "Katalog": "077CS27233",
+        "Nazev": "Spigen Ultra Hybrid, clear - iPhone 11 Pro",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 287.0000,
+        "CelkovaCenaCM": 287.0000,
+        "DphCelkemCM": 347.2700,
+        "DphSazba": 21.0000,
+        "DphDanCM": 60.2700,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "01"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Odkaz": "PX231100",
+    "TypDokladu": 1,
+    "Modify_Date": null,
+    "Create_Date": "2023-07-31T07:13:08.04",
+    "CisloDokladu": "PJ231732",
+    "Nazev": "RMA",
+    "FakturacniAdresaNazev": "Ingredi Europa s.r.o.",
+    "AdresaKoncovehoPrijemceKontaktniOsobaNazev": "",
+    "FakturacniAdresaUlice": "Formanská 257",
+    "FakturacniAdresaMisto": "Praha",
+    "FakturacniAdresaPSC": "14900",
+    "AdresaPrijemceFakturyStat": {
+      "KodISO3": "CZE"
+    },
+    "AdresaKoncovehoPrijemceEmail": "",
+    "AdresaKoncovehoPrijemceTelefon": "",
+    "IC": "28544668",
+    "DIC": "CZ28544668",
+    "DodaciAdresaNazev": "Ingredi Europa s.r.o.",
+    "DodaciAdresaUlice": "Tř. 3. května 910",
+    "DodaciAdresaMisto": "Zlín-Malenovice",
+    "DodaciAdresaPSC": "76302",
+    "AdresaKoncovehoPrijemceStat": {
+      "KodISO3": "CZE"
+    },
+    "ZpusobPlatby": null,
+    "ZpusobDopravy": {
+      "Nazev": "Přepravní služba",
+      "Kod": "P"
+    },
+    "SumaCelkemCM": 347.2700,
+    "SumaDanCM": 60.2700,
+    "Mena": {
+      "Kod": "CZK"
+    },
+    "Poznamka": "",
+    "DodaciAdresaFirma": {
+      "FaktStat": {
+        "KodISO3": "CZE"
+      }
+    },
+    "Polozky": [
+      {
+        "CisloPolozky": 1,
+        "Katalog": "077CS27233",
+        "Nazev": "Spigen Ultra Hybrid, clear - iPhone 11 Pro",
+        "Mnozstvi": 1.0000,
+        "Jednotka": "ks",
+        "JednCenaCM": 287.0000,
+        "CelkovaCenaCM": 287.0000,
+        "DphCelkemCM": 347.2700,
+        "DphSazba": 21.0000,
+        "DphDanCM": 60.2700,
+        "IPHmotnost": 0.0000,
+        "ObsahPolozky": {
+          "Artikl": {
+            "Navod_UserData": ""
+          },
+          "Sklad": {
+            "Kod": "25"
+          }
+        }
+      }
+    ]
+  }
+]
